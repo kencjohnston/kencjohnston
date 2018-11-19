@@ -6,18 +6,14 @@ title: "Kenny Johnston's README"
 This page was inspired by [Eric Johnson's README](https://about.gitlab.com/handbook/engineering/erics-readme/).
 
 ## Kenny's README
-
 My name is Kenny Johnston and I'm the Director of Product, Ops at GitLab.
-
 * [LinkedIn](https://www.linkedin.com/in/kencjohnston/)
 * [Twitter](https://twitter.com/kencjohnston)
 * [GitLab](https://gitlab.com/kencjohnston)
 * [GitLab Team Page](https://about.gitlab.com/company/team/#kencjohnston)
-
 If we are working together, or even if we aren't, here are some things it might be helpful to know about me:
 
 ### General 
-
 * I've worked in and around open-source for most of my technical career, I'm a firm believer in the [benefits of open code and open-society](https://cyber.harvard.edu/works/lessig/opensocd1.pdf) and the [importance of community](https://thenewstack.io/power-community-open-source/) in open-source projects.
 * I had a previous career in political campaigns. While I [don't bring my political views to work](https://about.gitlab.com/handbook/values/#diversity), I do bring my desire to be a [valued member of a winning team on an inspiring mission](https://blog.rackspace.com/whats-core-rackspace-core-values). 
 * My strengths tend towards the strategic, I work hard to focus on [getting things done](https://en.wikipedia.org/wiki/Getting_Things_Done) while continuously [improving my strategic thinking skiills](https://hbr.org/2016/12/4-ways-to-improve-your-strategic-thinking-skills). 
@@ -41,7 +37,8 @@ If we are working together, or even if we aren't, here are some things it might 
     * Requests for review - better to create an issue, or start a slack converation and ping the required reviewers
 * I consider Slack to be asynchronous. If there is a timeline for a request you might have please specificy it. For example - "Hey, can you review the Kickoff list prior to the kickoff meeting tomorrow?"
 
-### Product Management Team
+### Teams I Support
+I [support the Product Management team](https://about.gitlab.com/company/team/org-chart/) responsible for the Ops and Secure Stages. 
 * One easy way to keep me abreast of your priorities is to send a note in the #product Slack channel once a week and @ mention me. 
 * Please send the team a no-reponse required, free-time, no reminder invite with the title "YOUR NAME - OoO" when you are going to be OoO for a day. Consider sending this to your core stakeholders as well.
 * I will never take offense to skip-leveling, if you have a concern you can and should take it to whoever you think will be effective in alleviating it.
