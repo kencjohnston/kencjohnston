@@ -44,3 +44,6 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * Please send the team a no-reponse required, free-time, no reminder invite with the title "YOUR NAME - OoO" when you are going to be OoO for a day. Consider sending this to your core stakeholders as well.
 * I will never take offense to skip-leveling, if you have a concern you can and should take it to whoever you think will be effective in alleviating it.
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
+
+### Adaptable
+I never shy from feedback, constructive criticism or suggested improvements. Please consider this document in that context. I'm accepting issue submissions and merge request.
