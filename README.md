@@ -1,5 +1,5 @@
 ---
-layot: markdown_page
+layout: markdown_page
 title: "Kenny Johnston's README"
 ---
 
