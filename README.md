@@ -16,7 +16,7 @@ If we are working together, or even if we aren't, here are some things it might 
 
 ### General 
 * I've worked in and around open-source for most of my technical career, I'm a firm believer in the [benefits of open code and open-society](https://cyber.harvard.edu/works/lessig/opensocd1.pdf) and the [importance of community](https://thenewstack.io/power-community-open-source/) in open-source projects.
-* I had a previous career in political campaigns. While I [don't bring my political views to work](https://about.gitlab.com/handbook/values/#diversity), I do bring my desire to be a [valued member of a winning team on an inspiring mission](https://blog.rackspace.com/whats-core-rackspace-core-values). 
+* I had a previous career in political campaigns. While I [don't bring my political views to work](https://about.gitlab.com/handbook/values/#diversity), I do bring my belief that everyone desires to be a [valued member of a winning team on an inspiring mission](https://blog.rackspace.com/whats-core-rackspace-core-values). 
 * My strengths tend towards the strategic, I work hard to focus on [getting things done](https://en.wikipedia.org/wiki/Getting_Things_Done) while continuously [improving my strategic thinking skiills](https://hbr.org/2016/12/4-ways-to-improve-your-strategic-thinking-skills). 
 * I often get bogged down in a search for efficiency, especially with new tasks. Feel free to call me out on it.
 * I believe in [working smarter not harder](https://www.inc.com/john-rampton/work-smarter-not-harder-10-ways-to-be-more-effective-at-work.html), in an effort to [scale myself](https://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/). 
