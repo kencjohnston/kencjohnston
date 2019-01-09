@@ -32,7 +32,7 @@ If we are working together, or even if we aren't, here are some things it might 
     * Email - I check email only periodically throughout the day. I have no alerts setup to inform me of newly arriving email. 
     * Slack - If I'm working, I'm on slack. For small group discussions, never hesitate to create a dedicated public chat room. 
     * SMS - I have my phone by my side during regular work hours to review texts or receive calls. Outside of work hours I'm hit or miss on SMS.
-    * Phone - If I'm in a meeting I will let my phone go to voicemail. I only return calls that leave voicemails. If it is urgent, call my phone twice back-to-back and I will setup out of what I'm doing to answer.
+    * Phone - If I'm in a meeting I will let my phone go to voicemail. I only return calls that leave voicemails. If it is urgent, call my phone twice back-to-back and I will step out of what I'm doing to answer.
 * I prefer to avoid email for the following activities:
     * Long dialog requiring discussion - better to create an issue, start a conversation on slack or setup a meeting
     * Requests for review - better to create an issue, or start a slack converation and ping the required reviewers
