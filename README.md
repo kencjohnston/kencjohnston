@@ -24,7 +24,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I take my work seriously, but not myself. 
 * I'm never the smartest person in the room, if I share opinions consider them [Minimally Viable](https://about.gitlab.com/handbook/values/#minimum-viable-change-mvc)
 * I believe in [playing to your strengths](https://hbr.org/2005/01/how-to-play-to-your-strengths), and building complete teams based on coordinated strengths. 
-* My dog [Petri](https://about.gitlab.com/company/team-pets/#84-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
+* My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
 * Outside of work I love to cook, play soccer, build puzzles and travel. 
 
 ### Product
