@@ -33,8 +33,9 @@ If we are working together, or even if we aren't, here are some things it might 
 * I really enjoy coaching, mentoring and advising Product Managers. Do not hestitate to reach out to me.
 
 ### Logistics
-* I block off my calendar prior to daycare/school drop-off at 8:30AM CT and for pick-up/dinner/bed-time from 4:30PM - 7:45PM CT.
+* I block off my calendar prior to daycare/school drop-off at 8:30AM CT and for pick-up/dinner/bed-time from 3:00PM - 7:45PM CT.
 * When you need to reach me, here are my communication priorities and preference:
+    * GitLab issues - Direct mention me on issues, I prefer interacting with issues to all other collaboration mechanisms 
     * Email - I check email only periodically throughout the day. I have no alerts setup to inform me of newly arriving email. 
     * Slack - If I'm working, I'm on slack. For small group discussions, never hesitate to create a dedicated public chat room. 
     * SMS - I have my phone by my side during regular work hours to review texts or receive calls. Outside of work hours I'm hit or miss on SMS.
