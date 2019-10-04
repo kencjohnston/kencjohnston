@@ -53,7 +53,7 @@ If we are working together, or even if we aren't, here are some things it might 
 I [support the Product Management team](https://about.gitlab.com/company/team/org-chart/) responsible for the Ops and Secure Stages. 
 * One easy way to keep me abreast of your priorities is to send a note in the #product Slack channel once a week and @ mention me. 
 * Follow the [GitLab handbook when communicating time-off](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off). No other notification or approval is required.
-* I will never take offense to skip-leveling, if you have a concern you can and should take it to whoever you think will be effective in alleviating it.
+* I will never take offense to skip-leveling, if you have a concern [you can and should take it to whoever you think will be effective in alleviating it](https://about.gitlab.com/handbook/leadership/#communication-should-be-direct-not-hierarchical).
 * I tend towards the socratic, and I HATE micro-managing.
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 
