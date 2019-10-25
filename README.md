@@ -36,12 +36,20 @@ If we are working together, or even if we aren't, here are some things it might 
 * I'm strong believer that while product managers are typically hyper-efficient individuals, they one of the few individuals driving a company's effectiveness.
 * I really enjoy coaching, mentoring and advising Product Managers. Do not hestitate to reach out to me.
 
+### Management
+* I aspire to be a servant leader, but I've got a long-way to go. Please provide me feedback to help me get there.
+* I believe as a leader you get back what you give out. I once heard a talk that hypothesized that [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) tells us that if we want lovable results OUT of our teams, we have to have put love IN to them.
+* I want each of my team members to know they are a valuable contributor to a winning team and give them an inspiring mission.
+* I was changed by the book [Drive](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/r), it helped me understand motivation in a new way.
+* I tend to be direct, and I HATE micro-managing.
+* I want to be the type of leader I'd like to have - Loving, Trusting, Fair and Consistent.
+
 ### Logistics
-* I block off my calendar prior to daycare/school drop-off at 8:30AM CT and for pick-up/dinner/bed-time from 3:00PM - 7:45PM CT.
+* I block off my calendar for school pick-up/dinner/bed-time from 3:00PM - 7:45PM CT.
 * When you need to reach me, here are my communication priorities and preference:
     * GitLab issues - Direct mention me on issues, I prefer interacting with issues to all other collaboration mechanisms 
     * Email - I check email only periodically throughout the day. I have no alerts setup to inform me of newly arriving email. 
-    * Slack - If I'm working, I'm on slack. For small group discussions, never hesitate to create a dedicated public chat room. 
+    * Slack - If I'm working, I'm on slack. For small group discussions, never hesitate to create a dedicated public chat room. Please avoid DMs unless they really need to be private.
     * SMS - I have my phone by my side during regular work hours to review texts or receive calls. Outside of work hours I'm hit or miss on SMS.
     * Phone - If I'm in a meeting I will let my phone go to voicemail. I only return calls that leave voicemails. If it is urgent, call my phone twice back-to-back and I will step out of what I'm doing to answer.
 * I prefer to avoid email for the following activities:
@@ -50,11 +58,10 @@ If we are working together, or even if we aren't, here are some things it might 
 * I consider Slack to be asynchronous. If there is a timeline for a request you might have please specificy it. For example - "Hey, can you review the Kickoff list prior to the kickoff meeting tomorrow?"
 
 ### Teams I Support
-I [support the Product Management team](https://about.gitlab.com/company/team/org-chart/) responsible for the Ops and Secure Stages. 
+I [support the Product Management team](https://about.gitlab.com/company/team/org-chart/) responsible for the Ops Section stages at GitLab. 
 * One easy way to keep me abreast of your priorities is to send a note in the #product Slack channel once a week and @ mention me. 
 * Follow the [GitLab handbook when communicating time-off](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off). No other notification or approval is required.
 * I will never take offense to skip-leveling, if you have a concern [you can and should take it to whoever you think will be effective in alleviating it](https://about.gitlab.com/handbook/leadership/#communication-should-be-direct-not-hierarchical).
-* I tend towards the socratic, and I HATE micro-managing.
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 
 ### Adaptable
