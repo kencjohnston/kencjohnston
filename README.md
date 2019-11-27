@@ -24,7 +24,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I often get bogged down in a search for efficiency, especially with new tasks. Feel free to call me out on it.
 * I believe in [working smarter not harder](https://www.inc.com/john-rampton/work-smarter-not-harder-10-ways-to-be-more-effective-at-work.html), in an effort to [scale myself](https://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/). 
 * I'm even-keeled. That can lead others to read into tone that wasn't there. I try to [prevent that from happening](https://www.fastcompany.com/3054178/5-ways-to-avoid-a-massive-email-misunderstanding).
-* I've been known to come off as direct, and antagonistic in written communication. I can assure you I'm rarely intending to be antagonistic. I'm working [conveying appropriate emotion](https://about.gitlab.com/company/culture/all-remote/informal-communication/#using-emojis-to-convey-emotion) in my direct, written communication. 
+* I've been known to come off as direct, and antagonistic in written communication. I can assure you I never intend to be antagonistic. I'm working on [conveying appropriate emotion](https://about.gitlab.com/company/culture/all-remote/informal-communication/#using-emojis-to-convey-emotion) in my direct, written communication. 
 * I take my work seriously, but not myself. I think we could all use a little bit [more FUN in our work](https://www.entrepreneur.com/article/288223).
 * I enjoy receiving public praise, but private praise fuels me. 
 * I'm never the smartest person in the room, if I share opinions consider them [Minimally Viable](https://about.gitlab.com/handbook/values/#minimum-viable-change-mvc)
