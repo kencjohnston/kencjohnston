@@ -56,6 +56,8 @@ If we are working together, or even if we aren't, here are some things it might 
     * Long dialog requiring discussion - better to create an issue, start a conversation on slack or setup a meeting
     * Requests for review - better to create an issue, or start a slack converation and ping the required reviewers
 * I consider Slack to be asynchronous. If there is a timeline for a request you might have please specificy it. For example - "Hey, can you review the Kickoff list prior to the kickoff meeting tomorrow?"
+* I'm an exclusive user of GitLab TODOs. Please @ mention me when responding to issues, otherwise I won't get the notification.
+* I'm still learning how to balance [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) and that can sometimes result in more annoyance then effectiveness. Please don't hesitate to call me out if you feel like I'm over-communicating.
 
 ### Teams I Support
 I [support the Product Management team](https://about.gitlab.com/company/team/org-chart/) responsible for the Ops Section stages at GitLab. 
