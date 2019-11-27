@@ -35,7 +35,7 @@ If we are working together, or even if we aren't, here are some things it might 
 
 ### Product
 * I LOVE the function of Product Management. In my first tech-job after meeting a Product Manager I immediately thought - "That is what I want to do!"
-* I'm strong believer that while product managers are typically hyper-efficient individuals, they one of the few individuals driving a company's effectiveness.
+* I'm a strong believer that while product managers are typically hyper-efficient individuals, they are one of the few individuals driving a company's effectiveness.
 * I really enjoy coaching, mentoring and advising Product Managers. Do not hestitate to reach out to me.
 * I'm working on striking the right balance between providing more direct input into Product Direction and empowering autonomy in teams I support. Please do not hesitate to call me out if I'm being overly directive.
 
