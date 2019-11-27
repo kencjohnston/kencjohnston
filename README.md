@@ -11,6 +11,7 @@ My name is Kenny Johnston and I'm the Director of Product, Ops at GitLab.
 * [Twitter](https://twitter.com/kencjohnston)
 * [GitLab](https://gitlab.com/kencjohnston)
 * [GitLab Team Page](https://about.gitlab.com/company/team/#kencjohnston)
+* [Personal Feedback Form](https://forms.gle/uQgn9acSgFesBKWe7)
 
 If we are working together, or even if we aren't, here are some things it might be helpful to know about me:
 
@@ -70,3 +71,5 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 
 ### Adaptable
 I never shy from feedback, constructive criticism or suggested improvements. It happens so rarely in the corporate world, I will ALWAYS thank you for it. Please consider this document in that context. I'm accepting [issue submissions](https://gitlab.com/kencjohnston/README/issues) and [merge request](https://gitlab.com/kencjohnston/README/merge_requests).
+
+You can also provide me direct (anonymous) feedback by filling out my [ongoing feedback form](https://forms.gle/uQgn9acSgFesBKWe7). 
