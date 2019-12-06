@@ -19,7 +19,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I've worked in and around open-source for most of my technical career, I'm a firm believer in the [benefits of open code and open-society](https://cyber.harvard.edu/works/lessig/opensocd1.pdf) and the [importance of community](https://thenewstack.io/power-community-open-source/) in open-source projects.
 * I had a previous career in political campaigns. While I [don't bring my political views to work](https://about.gitlab.com/handbook/values/#dont-bring-religion-or-politics-to-work), I do bring my belief that everyone desires to be a [valued member of a winning team on an inspiring mission](https://blog.rackspace.com/whats-core-rackspace-core-values). 
 * My strengths tend towards the strategic, I work hard to focus on [getting things done](https://en.wikipedia.org/wiki/Getting_Things_Done) while continuously [improving my strategic thinking skills](https://hbr.org/2016/12/4-ways-to-improve-your-strategic-thinking-skills). 
-* For a strategic strengthed person I'm unsurprisingly task motivated - I enjoy breaking down tasks and checking off lists. I look at my [GitLab Activity](https://gitlab.com/kencjohnston) a bit too often.
+* For a someone with strategic strengths I'm surprisingly task motivated - I enjoy breaking down tasks and checking off lists. I look at my [GitLab Activity](https://gitlab.com/kencjohnston) a bit too often.
 * I'm demotivated by work without accomplishment. Meetings with conversation that doesn't end in something concrete frustrate me. Knowing I have a day full of non-action oriented meetings makes me want to hit the snooze button. 
 * I often get bogged down in a search for efficiency, especially with new tasks. Feel free to call me out on it.
 * I believe in [working smarter not harder](https://www.inc.com/john-rampton/work-smarter-not-harder-10-ways-to-be-more-effective-at-work.html), in an effort to [scale myself](https://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/). 
@@ -28,7 +28,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I take my work seriously, but not myself. I think we could all use a little bit [more FUN in our work](https://www.entrepreneur.com/article/288223).
 * I enjoy receiving public praise, but private praise fuels me. 
 * I'm never the smartest person in the room, if I share opinions consider them [Minimally Viable](https://about.gitlab.com/handbook/values/#minimum-viable-change-mvc)
-* I prefer to discuss things Directly, both with my teams and my manager. I'd rather know someone's direct intention rather then to be coached around an issue Socratically.
+* I prefer to discuss things directly, both with my teams and my manager. I'd rather know someone's direct intention than to be coached around an issue socratically.
 * I believe in [playing to your strengths](https://hbr.org/2005/01/how-to-play-to-your-strengths), and building complete teams based on coordinated strengths. 
 * My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
 * Outside of work I love to cook, play soccer, build puzzles and travel. 
