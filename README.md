@@ -77,6 +77,9 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * I will never take offense to skip-leveling, if you have a concern [you can and should take it to whoever you think will be effective in alleviating it](https://about.gitlab.com/handbook/leadership/#communication-should-be-direct-not-hierarchical).
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 
+### Things I'm Working On
+* I aspire to use [inclusive language](https://docs.google.com/presentation/d/186RK9QqOYxF8BmVS15AOKvwFpt4WglKKDR7cUCeDGkE/edit?usp=sharing), eliminate [co-optation](https://www.youtube.com/watch?v=zNCrMEOqHpc) and create an inclusive environment. Please call out when I make mistakes or fail. I will ALWAYS thank you for it.
+
 ### Adaptable
 I never shy from feedback, constructive criticism or suggested improvements. It happens so rarely in the corporate world, I will ALWAYS thank you for it. Please consider this document in that context. I'm accepting [issue submissions](https://gitlab.com/kencjohnston/README/issues) and [merge request](https://gitlab.com/kencjohnston/README/merge_requests).
 
