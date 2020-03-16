@@ -6,7 +6,7 @@ title: "Kenny Johnston's README"
 This page was inspired by [Eric Johnson's README](https://about.gitlab.com/handbook/engineering/erics-readme/).
 
 ## Kenny's README
-My name is Kenny Johnston and I'm the Director of Product, Ops at GitLab.
+My name is Kenny Johnston and I'm the Senior Director of Product, Ops at GitLab.
 * [LinkedIn](https://www.linkedin.com/in/kencjohnston/)
 * [Twitter](https://twitter.com/kencjohnston)
 * [GitLab](https://gitlab.com/kencjohnston)
