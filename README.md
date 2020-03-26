@@ -70,6 +70,10 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * I will never take offense to skip-leveling, if you have a concern [you can and should take it to whoever you think will be effective in alleviating it](https://about.gitlab.com/handbook/leadership/#communication-should-be-direct-not-hierarchical).
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 
+### Personality Tests
+* [Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx?utm_source=google&utm_medium=cpc&utm_campaign=Strengths_ECommerce_Brand_Search_US&utm_content=strengths%20finder&gclid=CjwKCAjwguzzBRBiEiwAgU0FT6jwCih5cTNJnta-h6m3YsJ5mAQG4dRikPdeCp79Wjp1mT0bGamTpRoCIM4QAvD_BwE) - Futuristic, Learner, Strategic, Ideation, Intellection (Note these are ALL in the Strategic Thinking quadrant)
+* [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) - [INFP](https://www.16personalities.com/infp-personality) - Borderline between I&E, strong N, border between T&F, extreme P
+
 ### Things I'm Working On
 * I aspire to use [inclusive language](https://docs.google.com/presentation/d/186RK9QqOYxF8BmVS15AOKvwFpt4WglKKDR7cUCeDGkE/edit?usp=sharing), eliminate [co-optation](https://www.youtube.com/watch?v=zNCrMEOqHpc) and create an inclusive environment. Please call out when I make mistakes or fail. I will ALWAYS thank you for it.
 
