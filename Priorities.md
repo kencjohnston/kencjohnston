@@ -8,7 +8,7 @@ This content is meant to communicate my priorities on a weekly basis. They shoul
 * [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951)
 
 ## 2020-03-23
-* ✅ P epare and get up to speed for [Jason's parental leave](https://gitlab.com/gitlab-com/Product/-/issues/911)
-* ✅ Make significant steps to [combining the Ops and CI/CD section direction pages](https://gitlab.com/gitlab-com/Product/-/issues/912)
-* ✅ Checkin on team members as they find new normal
-* ✅ Ensure we're advancing the [Adoption of North Star Metrics in Product Groups](https://gitlab.com/gitlab-com/Product/-/issues/880)
+* X - Prepare and get up to speed for [Jason's parental leave](https://gitlab.com/gitlab-com/Product/-/issues/911)
+* X - Make significant steps to [combining the Ops and CI/CD section direction pages](https://gitlab.com/gitlab-com/Product/-/issues/912)
+* X - Checkin on team members as they find new normal
+* ? - Ensure we're advancing the [Adoption of North Star Metrics in Product Groups](https://gitlab.com/gitlab-com/Product/-/issues/880)
