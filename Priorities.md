@@ -6,11 +6,17 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-04-06
-1. Respond to request for [Ops Section Direction review from PM team](https://gitlab.com/gitlab-com/Product/-/issues/986)
+## 2020-04-13
+1. Prepare for [North Star Metric Review](https://gitlab.com/gitlab-com/Product/-/issues/880) - Ops on 2020-04-14, follow up from Review
 1. [Review all Group Planning issues](https://gitlab.com/gitlab-com/Product/-/issues/989) to continue getting up to speed
-1. [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951)
-1. Prepare for [North Star Metric Review](https://gitlab.com/gitlab-com/Product/-/issues/880) - Ops on 2020-04-14
+1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. [CLeanup Ops Section Themes](https://gitlab.com/gitlab-com/Product/-/issues/994) as part of feedback from Direction review
+
+## 2020-04-06
+1. Y - Respond to request for [Ops Section Direction review from PM team](https://gitlab.com/gitlab-com/Product/-/issues/986)
+1. N - [Review all Group Planning issues](https://gitlab.com/gitlab-com/Product/-/issues/989) to continue getting up to speed
+1. N - [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951)
+1. N - Prepare for [North Star Metric Review](https://gitlab.com/gitlab-com/Product/-/issues/880) - Ops on 2020-04-14
 
 ## 2020-03-30
 1. Y - [Review to learn](https://gitlab.com/gitlab-com/Product/-/issues/947) - Review all Ops Section stage and category direction pages
