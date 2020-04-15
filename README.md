@@ -69,6 +69,7 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * Follow the [GitLab handbook when communicating time-off](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off). No other notification or approval is required.
 * I will never take offense to skip-leveling, if you have a concern [you can and should take it to whoever you think will be effective in alleviating it](https://about.gitlab.com/handbook/leadership/#communication-should-be-direct-not-hierarchical).
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
+* When sharing info with me, my preference is to consume YOUR expertise. Rather than sharing an Analyst Report relevant for your categories, share an MR where you reference it and highlight how it impacts your product scope.
 
 ### Personality Tests
 * [Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx?utm_source=google&utm_medium=cpc&utm_campaign=Strengths_ECommerce_Brand_Search_US&utm_content=strengths%20finder&gclid=CjwKCAjwguzzBRBiEiwAgU0FT6jwCih5cTNJnta-h6m3YsJ5mAQG4dRikPdeCp79Wjp1mT0bGamTpRoCIM4QAvD_BwE) - Futuristic, Learner, Strategic, Ideation, Intellection (Note these are ALL in the Strategic Thinking quadrant)
