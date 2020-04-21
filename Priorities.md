@@ -6,12 +6,20 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-04-13
-1. Prepare for [North Star Metric Review](https://gitlab.com/gitlab-com/Product/-/issues/880) - Ops on 2020-04-14, follow up from Review
-1. [Review all Group Planning issues](https://gitlab.com/gitlab-com/Product/-/issues/989) to continue getting up to speed
+## 2020-04-20
+1. [Cover for Thao who is on PTO](https://gitlab.com/gitlab-com/Product/-/issues/1048)
+1. Attend the Virtual CAB on 2020-04-21
+1. Attend Virtual Contribute on 2020-04-23
+1. [Communicate how our vision for a "Jenkins Importer" has undergone some iteration](https://gitlab.com/gitlab-com/Product/-/issues/1071) 
 1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
-1. [CLeanup Ops Section Themes](https://gitlab.com/gitlab-com/Product/-/issues/994) as part of feedback from Direction review
-1. Learning Goal - [Multi-Project Pipelines ](https://docs.gitlab.com/ee/ci/multi_project_pipelines.html)
+1. Learning Goal - [Parent Child Pipelines](https://docs.gitlab.com/ee/ci/parent_child_pipelines.html)
+
+## 2020-04-13
+1. Y - Prepare for [North Star Metric Review](https://gitlab.com/gitlab-com/Product/-/issues/880) - Ops on 2020-04-14, follow up from Review
+1. Y - [Review all Group Planning issues](https://gitlab.com/gitlab-com/Product/-/issues/989) to continue getting up to speed
+1. N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. N - [CLeanup Ops Section Themes](https://gitlab.com/gitlab-com/Product/-/issues/994) as part of feedback from Direction review
+1. Y - Learning Goal - [Multi-Project Pipelines ](https://docs.gitlab.com/ee/ci/multi_project_pipelines.html)
 
 ## 2020-04-06
 1. Y - Respond to request for [Ops Section Direction review from PM team](https://gitlab.com/gitlab-com/Product/-/issues/986)
