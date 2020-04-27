@@ -6,13 +6,20 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-04-20
+## 2020-04-27
+Note - short week for me as I'm taking an PTO day on Thursday and Family and Friends First day on Friday.
 1. [Cover for Thao who is on PTO](https://gitlab.com/gitlab-com/Product/-/issues/1048)
-1. Attend the Virtual CAB on 2020-04-21
-1. Attend Virtual Contribute on 2020-04-23
-1. [Communicate how our vision for a "Jenkins Importer" has undergone some iteration](https://gitlab.com/gitlab-com/Product/-/issues/1071) 
+1. [Prep for new combined Ops Section GC](https://gitlab.com/gitlab-com/Product/-/issues/1108)
 1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
 1. Learning Goal - [Parent Child Pipelines](https://docs.gitlab.com/ee/ci/parent_child_pipelines.html)
+
+## 2020-04-20
+1. Y - [Cover for Thao who is on PTO](https://gitlab.com/gitlab-com/Product/-/issues/1048)
+1. Y - Attend the Virtual CAB on 2020-04-21
+1. Y - Attend Virtual Contribute on 2020-04-23
+1. Y- [Communicate how our vision for a "Jenkins Importer" has undergone some iteration](https://gitlab.com/gitlab-com/Product/-/issues/1071) 
+1. N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. N - Learning Goal - [Parent Child Pipelines](https://docs.gitlab.com/ee/ci/parent_child_pipelines.html)
 
 ## 2020-04-13
 1. Y - Prepare for [North Star Metric Review](https://gitlab.com/gitlab-com/Product/-/issues/880) - Ops on 2020-04-14, follow up from Review
