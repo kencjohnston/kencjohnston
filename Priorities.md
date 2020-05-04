@@ -5,7 +5,7 @@ This content is meant to communicate how I intend to allocate my time. I review 
 | ------ | ------ | ------ |
 | Team Development | CDF Reviews, Career Development, GitLab Values Coaching | 40% |
 | Sensing Mechanisms | Customer interviews, analyst inquiries, competitive review | 15% |
-| Cross Section Product Experience | Walk-throughs, learning goals, direction content review | 15% |
+| Cross Section Product Experience | Thnk Bigs, Walk-throughs, learning goals, direction content review | 15% |
 | Product Management Leadership Priorities | North Star Metrics, Data and ROI focus | 10% |
 | External Evangelism | Ops vision, analyst briefings, conference speaking | 10% |
 | Core Team Engagement | UX, Development, Quality | 5% |
