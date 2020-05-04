@@ -1,3 +1,16 @@
+## Quarterly Priorities
+This content is meant to communicate how I intend to allocate my time. I review it weekly, but it should largely remain consistent on the time-scales of quarters.
+
+| Theme | Notes | Percent |
+| ------ | ------ | ------ |
+| Team Development | CDF Reviews, Career Development, GitLab Values Coaching | 40% |
+| Sensing Mechanisms | Customer interviews, analyst inquiries, competitive review | 20% |
+| Cross Section Product Experience | Walk-throughs, learning goals, direction content review | 20% |
+| External Evangelism | Ops vision, analyst briefings, conference speaking | 10% |
+| Core Team Engagement | UX, Development, Quality | 5% |
+| Personal Growth / Leadership Opportunities | Representing GitLab externally, Representing Product internally | 5% |
+| Hiring | Sourcing, interviewing, hiring | 0% |
+
 ## Weekly Priorities
 This content is meant to communicate my priorities on a weekly basis. They should typically be reflected as items in the `Doing` of [my personal issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston). It will be updated weekly. As I'm always striving to learn I'll also add a `Learning Goal` each week.
 
