@@ -6,7 +6,7 @@ My name is Kenny Johnston and I'm the Senior Director of Product, Ops at GitLab.
 * [GitLab Team Page](https://about.gitlab.com/company/team/#kencjohnston)
 * [Personal Feedback Form](https://forms.gle/uQgn9acSgFesBKWe7)
 
-If we are working together, or even if we aren't, here are some things it might be helpful to know about me:
+If we are working together, or even if we aren't, here are some things it might be helpful to know about me including those items marked with 👣 (the GitLab emojii for [iteration](https://about.gitlab.com/handbook/values/#iteration)) that I'm working on improving:
 
 ### General 
 * I've worked in and around open-source for most of my technical career, I'm a firm believer in the [benefits of open code and open-society](https://cyber.harvard.edu/works/lessig/opensocd1.pdf) and the [importance of community](https://thenewstack.io/power-community-open-source/) in open-source projects.
