@@ -79,10 +79,9 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * [Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx?utm_source=google&utm_medium=cpc&utm_campaign=Strengths_ECommerce_Brand_Search_US&utm_content=strengths%20finder&gclid=CjwKCAjwguzzBRBiEiwAgU0FT6jwCih5cTNJnta-h6m3YsJ5mAQG4dRikPdeCp79Wjp1mT0bGamTpRoCIM4QAvD_BwE) - Futuristic, Learner, Strategic, Ideation, Intellection (Note these are ALL in the Strategic Thinking quadrant)
 * [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) - [INFP](https://www.16personalities.com/infp-personality) - Borderline between I&E, strong N, border between T&F, extreme P
 
-### Things I'm Working On
-
-
 ### Adaptable
 I never shy from feedback, constructive criticism or suggested improvements. It happens so rarely in the corporate world, I will ALWAYS thank you for it. Please consider this document in that context. I'm accepting [issue submissions](https://gitlab.com/kencjohnston/README/issues) and [merge request](https://gitlab.com/kencjohnston/README/merge_requests).
 
 You can also provide me direct (anonymous) feedback by filling out my [ongoing feedback form](https://forms.gle/uQgn9acSgFesBKWe7). 
+
+I've marked the items I'm working on (mostly derived from direct feedback) with an iteration 👣. THANK YOU to all those who've helped me grow.
