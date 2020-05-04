@@ -6,13 +6,21 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-05-04
+1. Finalize [Ops Section GC Prep](https://gitlab.com/gitlab-com/Product/-/issues/1108)
+1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. [Ops Section North Star Metric Review Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1049)
+1. [Ensure Regular CDF Reviews for Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/1136)
+1. [Transition Stable Counterparts for Configure and Monitor](https://gitlab.com/gitlab-com/Product/-/issues/1135)
+1. Learning Goal - [Advanced Feature Flag Usage](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html) 
+
 ## 2020-04-27
 Note - short week for me as I'm taking an PTO day on Thursday and Family and Friends First day on Friday.
-1. [Cover for Thao who is on PTO](https://gitlab.com/gitlab-com/Product/-/issues/1048)
-1. Participate in the [Configure Design Sprint](https://gitlab.com/groups/gitlab-org/configure/-/epics/3)
-1. [Prep for new combined Ops Section GC](https://gitlab.com/gitlab-com/Product/-/issues/1108)
-1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
-1. Learning Goal - [Parent Child Pipelines](https://docs.gitlab.com/ee/ci/parent_child_pipelines.html)
+1. Y - [Cover for Thao who is on PTO](https://gitlab.com/gitlab-com/Product/-/issues/1048)
+1. Y - Participate in the [Configure Design Sprint](https://gitlab.com/groups/gitlab-org/configure/-/epics/3)
+1. Y - [Prep for new combined Ops Section GC](https://gitlab.com/gitlab-com/Product/-/issues/1108)
+1. N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. Y - Learning Goal - [Parent Child Pipelines](https://docs.gitlab.com/ee/ci/parent_child_pipelines.html)
 
 ## 2020-04-20
 1. Y - [Cover for Thao who is on PTO](https://gitlab.com/gitlab-com/Product/-/issues/1048)
