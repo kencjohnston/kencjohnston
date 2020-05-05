@@ -44,7 +44,8 @@ If we are working together, or even if we aren't, here are some things it might 
 * I want to be the type of leader I'd like to have - Loving, Trusting, Fair and Consistent.
 
 ### Logistics
-* I block off my calendar for school pick-up/dinner/bed-time from 2:00PM - 7:45PM CT.
+* I block off my calendar for family time/dinner/bed-time from 1:00PM - 7:50PM CT.
+* My day typically starts early with a block of dedicated focus/work time from 6:00AM - 8:50AM CT.
 * When you need to reach me, here are my communication priorities and preference:
     * GitLab issues - Direct mention me on issues, I prefer interacting with issues to all other collaboration mechanisms. I aggressively follow up on TODOs. 
     * Slack - If I'm working, I'm on slack. For small group discussions, never hesitate to create a dedicated public chat room. Please avoid DMs unless they really need to be private.
