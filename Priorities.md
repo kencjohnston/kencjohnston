@@ -20,13 +20,21 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-05-04
-1. Finalize [Ops Section GC Prep](https://gitlab.com/gitlab-com/Product/-/issues/1108)
+## 2020-05-11
+1. Come to a decision on timeline for rollout of this [Efficiency initiative](https://gitlab.com/gitlab-org/gitlab/-/issues/210457)
+1. Finalize [Ops Section North Star Metric Review Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1049)
+1. [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1156)
 1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
-1. [Ops Section North Star Metric Review Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1049)
-1. [Ensure Regular CDF Reviews for Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/1136)
-1. [Transition Stable Counterparts for Configure and Monitor](https://gitlab.com/gitlab-com/Product/-/issues/1135)
-1. Learning Goal - [Advanced Feature Flag Usage](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html) 
+1. Follow Up and Goal Setting from [NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1049)
+1. Learning Goal - [Multi-Project Pipelines](https://gitlab.com/groups/gitlab-org/-/epics/3156#note_340245113) 
+
+## 2020-05-04
+Y - Finalize [Ops Section GC Prep](https://gitlab.com/gitlab-com/Product/-/issues/1108)
+N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+Y - [Ops Section North Star Metric Review Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1049)
+Y - [Ensure Regular CDF Reviews for Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/1136)
+Y - [Transition Stable Counterparts for Configure and Monitor](https://gitlab.com/gitlab-com/Product/-/issues/1135)
+Y - Learning Goal - [Advanced Feature Flag Usage](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html) 
 
 ## 2020-04-27
 Note - short week for me as I'm taking an PTO day on Thursday and Family and Friends First day on Friday.
