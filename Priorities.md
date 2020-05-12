@@ -29,12 +29,12 @@ These designations are added to the previous week's priority list when adding th
 1. Learning Goal - [Multi-Project Pipelines](https://gitlab.com/groups/gitlab-org/-/epics/3156#note_340245113) 
 
 ## 2020-05-04
-Y - Finalize [Ops Section GC Prep](https://gitlab.com/gitlab-com/Product/-/issues/1108)
-N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
-Y - [Ops Section North Star Metric Review Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1049)
-Y - [Ensure Regular CDF Reviews for Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/1136)
-Y - [Transition Stable Counterparts for Configure and Monitor](https://gitlab.com/gitlab-com/Product/-/issues/1135)
-Y - Learning Goal - [Advanced Feature Flag Usage](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html) 
+1. Y - Finalize [Ops Section GC Prep](https://gitlab.com/gitlab-com/Product/-/issues/1108)
+1. N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. Y - [Ops Section North Star Metric Review Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1049)
+1. Y - [Ensure Regular CDF Reviews for Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/1136)
+1. Y - [Transition Stable Counterparts for Configure and Monitor](https://gitlab.com/gitlab-com/Product/-/issues/1135)
+1. Y - Learning Goal - [Advanced Feature Flag Usage](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html) 
 
 ## 2020-04-27
 Note - short week for me as I'm taking an PTO day on Thursday and Family and Friends First day on Friday.
