@@ -20,13 +20,22 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-05-11
-1. Come to a decision on timeline for rollout of this [Efficiency initiative](https://gitlab.com/gitlab-org/gitlab/-/issues/210457)
-1. Finalize [Ops Section North Star Metric Review Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1049)
+## 2020-05-18
 1. [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1156)
-1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. Close down the CI Minutes [Efficiency initiative](https://gitlab.com/gitlab-org/gitlab/-/issues/210457)
+1. [Update Ops Section Themes and Record Video](https://gitlab.com/gitlab-com/Product/-/issues/994) for E-Group Review
 1. Follow Up and Goal Setting from [NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
-1. Learning Goal - [Multi-Project Pipelines](https://gitlab.com/groups/gitlab-org/-/epics/3156#note_340245113) 
+1. [Coordinate Documentation of all Ops Section Usage Ping Measures](https://gitlab.com/gitlab-com/Product/-/issues/1166)
+1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/) 
+
+## 2020-05-11
+1. Y - Come to a decision on timeline for rollout of this [Efficiency initiative](https://gitlab.com/gitlab-org/gitlab/-/issues/210457)
+1. Y - Finalize [Ops Section North Star Metric Review Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1049)
+1. Y - [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1156)
+1. N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. Y - Follow Up and Goal Setting from [NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
+1. Y - Learning Goal - [Multi-Project Pipelines](https://gitlab.com/groups/gitlab-org/-/epics/3156#note_340245113) - [YouTube Video](https://www.youtube.com/watch?v=fTqUbXbUBcA)
 
 ## 2020-05-04
 1. Y - Finalize [Ops Section GC Prep](https://gitlab.com/gitlab-com/Product/-/issues/1108)
