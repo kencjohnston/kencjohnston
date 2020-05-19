@@ -77,7 +77,7 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * When sharing info with me, my preference is to consume YOUR expertise. Rather than sharing an Analyst Report relevant for your categories, share an MR where you reference it and highlight how it impacts your product scope.
 
 #### 1 to 5s
-In order to get a better sense of our personal and professional ups and downs - I like to share "1 to 5s" at the start of 1:1s and team meetings. The process is the answer to the question:
+In order to get a better sense of our personal and professional ups and downs - I like to share "1 to 5s" at the start of 1:1s and team meetings. The process is for each team member to answer the question:
 > As a combination both personal and professional - one a scale of 1-5 (with 1 being a horrible day and 5 being an amazing day) how are you today?
 
 ### Personality Tests
