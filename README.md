@@ -76,6 +76,10 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 * When sharing info with me, my preference is to consume YOUR expertise. Rather than sharing an Analyst Report relevant for your categories, share an MR where you reference it and highlight how it impacts your product scope.
 
+#### 1 to 5s
+In order to get a better sense of our personal and professional ups and downs - I like to share "1 to 5s" at the start of 1:1s and team meetings. The process is the answer to the question:
+> As a combination both personal and professional - one a scale of 1-5 (with 1 being a horrible day and 5 being an amazing day) how are you today?
+
 ### Personality Tests
 * [Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx?utm_source=google&utm_medium=cpc&utm_campaign=Strengths_ECommerce_Brand_Search_US&utm_content=strengths%20finder&gclid=CjwKCAjwguzzBRBiEiwAgU0FT6jwCih5cTNJnta-h6m3YsJ5mAQG4dRikPdeCp79Wjp1mT0bGamTpRoCIM4QAvD_BwE) - Futuristic, Learner, Strategic, Ideation, Intellection (Note these are ALL in the Strategic Thinking quadrant)
 * [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) - [INFP](https://www.16personalities.com/infp-personality) - Borderline between I&E, strong N, border between T&F, extreme P
