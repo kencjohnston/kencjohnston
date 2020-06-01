@@ -20,14 +20,26 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-05-18
-1. [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1156)
-1. Close down the CI Minutes [Efficiency initiative](https://gitlab.com/gitlab-org/gitlab/-/issues/210457)
+## 2020-06-01
 1. [Update Ops Section Themes and Record Video](https://gitlab.com/gitlab-com/Product/-/issues/994) for E-Group Review
-1. Follow Up and Goal Setting from [NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
+1. [Prep for June NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
 1. [Coordinate Documentation of all Ops Section Usage Ping Measures](https://gitlab.com/gitlab-com/Product/-/issues/1166)
+1. [Verify - Consider prioritizing UX polish higher in CI](https://gitlab.com/gitlab-com/Product/-/issues/1209)
+1. [Product Walk-through - Add New CI Job based on container built in different project](https://gitlab.com/gitlab-com/Product/-/issues/1198)
 1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
 1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/) 
+
+## 2020-05-25
+PTO
+
+## 2020-05-18
+1. Y - [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1156)
+1. Y - Close down the CI Minutes [Efficiency initiative](https://gitlab.com/gitlab-org/gitlab/-/issues/210457)
+1. N - [Update Ops Section Themes and Record Video](https://gitlab.com/gitlab-com/Product/-/issues/994) for E-Group Review
+1. N - Follow Up and Goal Setting from [NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
+1. N - [Coordinate Documentation of all Ops Section Usage Ping Measures](https://gitlab.com/gitlab-com/Product/-/issues/1166)
+1. N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. N - Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/) 
 
 ## 2020-05-11
 1. Y - Come to a decision on timeline for rollout of this [Efficiency initiative](https://gitlab.com/gitlab-org/gitlab/-/issues/210457)
