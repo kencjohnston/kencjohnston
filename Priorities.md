@@ -20,14 +20,25 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-06-01
-1. [Update Ops Section Themes and Record Video](https://gitlab.com/gitlab-com/Product/-/issues/994) for E-Group Review
+## 2020-06-08
+Short week, Friends and Family day on Friday
+
+1. [Ops Section - Talent Assessment](https://gitlab.com/gitlab-com/Product/-/issues/1223)
+1. [Document that for Certain Ops Sections Groups they are focused on SMAPU/GMAPU versus SMAU/GMAU](https://gitlab.com/gitlab-com/Product/-/issues/1219)
+1. [Finalize Team Member Realignment to Verify and Fulfillment](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7795)
+1. [Add Standard Steps to Jenkins Migration Process Documentation](https://gitlab.com/gitlab-org/gitlab/-/issues/220790)
 1. [Prep for June NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
-1. [Coordinate Documentation of all Ops Section Usage Ping Measures](https://gitlab.com/gitlab-com/Product/-/issues/1166)
 1. [Verify - Consider prioritizing UX polish higher in CI](https://gitlab.com/gitlab-com/Product/-/issues/1209)
-1. [Product Walk-through - Add New CI Job based on container built in different project](https://gitlab.com/gitlab-com/Product/-/issues/1198)
-1. [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
-1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/) 
+1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
+
+## 2020-06-01
+1. Y - [Update Ops Section Themes and Record Video](https://gitlab.com/gitlab-com/Product/-/issues/994) for E-Group Review
+1. Y - [Prep for June NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
+1. Y - [Coordinate Documentation of all Ops Section Usage Ping Measures](https://gitlab.com/gitlab-com/Product/-/issues/1166)
+1. N - [Verify - Consider prioritizing UX polish higher in CI](https://gitlab.com/gitlab-com/Product/-/issues/1209)
+1. N - [Product Walk-through - Add New CI Job based on container built in different project](https://gitlab.com/gitlab-com/Product/-/issues/1198)
+1. N - [Prepare a Microservices Sample Project](https://gitlab.com/gitlab-com/Product/-/issues/839) in order to [Document and Record a New Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/951) next week
+1. Y - Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/) 
 
 ## 2020-05-25
 PTO
