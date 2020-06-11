@@ -25,7 +25,7 @@ Short week, Friends and Family day on Friday
 
 1. Y - [Ops Section - Talent Assessment](https://gitlab.com/gitlab-com/Product/-/issues/1223)
 1. Y - [Document that for Certain Ops Sections Groups they are focused on SMAPU/GMAPU versus SMAU/GMAU](https://gitlab.com/gitlab-com/Product/-/issues/1219)
-1. [Finalize Team Member Realignment to Verify and Fulfillment](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7795)
+1. Y - [Finalize Team Member Realignment to Verify and Fulfillment](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7795)
 1. [Add Standard Steps to Jenkins Migration Process Documentation](https://gitlab.com/gitlab-org/gitlab/-/issues/220790)
 1. [Prep for June NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
 1. [Verify - Consider prioritizing UX polish higher in CI](https://gitlab.com/gitlab-com/Product/-/issues/1209)
