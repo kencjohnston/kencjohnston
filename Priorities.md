@@ -20,15 +20,23 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-06-15
+1. [Prepare for and Delivery 13.2 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1227)
+1. [Prepare for and delivery Ops Section June GC](https://gitlab.com/gitlab-com/Product/-/issues/1240)
+1. [Prepare for Junes NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
+1. [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
+1. [Complete Understanding of Product Hierarchy and Org Structure Distinction](https://gitlab.com/gitlab-com/Product/-/issues/1226)
+1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
+
 ## 2020-06-08
 Short week, Friends and Family day on Friday
 
 1. Y - [Ops Section - Talent Assessment](https://gitlab.com/gitlab-com/Product/-/issues/1223)
 1. Y - [Document that for Certain Ops Sections Groups they are focused on SMAPU/GMAPU versus SMAU/GMAU](https://gitlab.com/gitlab-com/Product/-/issues/1219)
 1. Y - [Finalize Team Member Realignment to Verify and Fulfillment](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7795)
-1. [Add Standard Steps to Jenkins Migration Process Documentation](https://gitlab.com/gitlab-org/gitlab/-/issues/220790)
-1. [Prep for June NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
-1. [Verify - Consider prioritizing UX polish higher in CI](https://gitlab.com/gitlab-com/Product/-/issues/1209)
+1. In Review - [Add Standard Steps to Jenkins Migration Process Documentation](https://gitlab.com/gitlab-org/gitlab/-/issues/220790)
+1. Y - [Prep for June NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1161)
+1. Y - [Verify - Consider prioritizing UX polish higher in CI](https://gitlab.com/gitlab-com/Product/-/issues/1209)
 1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
 
 ## 2020-06-01
