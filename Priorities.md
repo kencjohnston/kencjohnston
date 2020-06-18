@@ -21,8 +21,8 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-06-15
-1. [Prepare for and Delivery 13.2 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1227)
-1. [Prepare for and delivery Ops Section June GC](https://gitlab.com/gitlab-com/Product/-/issues/1240)
+1. Y - [Prepare for and Delivery 13.2 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1227)
+1. T - [Prepare for and delivery Ops Section June GC](https://gitlab.com/gitlab-com/Product/-/issues/1240)
 1. [Prepare for Junes NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
 1. [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
 1. [Complete Understanding of Product Hierarchy and Org Structure Distinction](https://gitlab.com/gitlab-com/Product/-/issues/1226)
