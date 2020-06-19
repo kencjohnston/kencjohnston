@@ -23,9 +23,9 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-06-15
 1. Y - [Prepare for and Deliver 13.2 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1227)
 1. Y - [Prepare for and deliver Ops Section June GC](https://gitlab.com/gitlab-com/Product/-/issues/1240)
-1. [Prepare for Junes NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
-1. [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
-1. [Complete Understanding of Product Hierarchy and Org Structure Distinction](https://gitlab.com/gitlab-com/Product/-/issues/1226)
+1. N - [Prepare for Junes NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
+1. In Review - [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
+1. In Review - [Complete Understanding of Product Hierarchy and Org Structure Distinction](https://gitlab.com/gitlab-com/Product/-/issues/1226)
 1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
 
 ## 2020-06-08
