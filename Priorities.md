@@ -23,11 +23,11 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-06-22
 I'll be attending [virtual DOES](https://events.itrevolution.com/virtual/) this week Tue-Thur at odd times so my calendar will be adjusted.
 
-1. [Attend DevOps Enterprise Summit London](https://gitlab.com/gitlab-com/Product/-/issues/1262)
+1. Y - [Attend DevOps Enterprise Summit London](https://gitlab.com/gitlab-com/Product/-/issues/1262)
 1. [Prepare for Junes NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
 1. [Perform One Walk-Through](https://gitlab.com/gitlab-com/Product/-/issues/951)
 1. [Understand Top 5 Inflight Opportunties](https://gitlab.com/gitlab-com/Product/-/issues/1261)
-1. Make Progress on [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
+1. Y - Make Progress on [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
 1. Make Progress on [Encourage Iterations Smaller than our Monthly Milestones](https://gitlab.com/gitlab-com/Product/-/issues/1247)
 1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
 
