@@ -20,15 +20,27 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-06-29
+Short week as I'm out Friday for observance of the US July 4th Holiday.
+
+1. [Present and Follow Up from Performance Indicator Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
+1. Finalize Process for [understanding Top 5 Inflight Opportunities](https://gitlab.com/gitlab-com/Product/-/issues/1261)
+1. Follow up from [Attending DevOps Enterprise Summit](https://gitlab.com/gitlab-com/Product/-/issues/1262)
+1. Make Progress on [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
+1. Make Progress on [Encourage Iterations Smaller than our Monthly Milestones](https://gitlab.com/gitlab-com/Product/-/issues/1247)
+1. Begin work on connecting with [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Begin work on [Understanding Tier Value by Stage](https://gitlab.com/gitlab-com/Product/-/issues/1276)
+1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
+
 ## 2020-06-22
 I'll be attending [virtual DOES](https://events.itrevolution.com/virtual/) this week Tue-Thur at odd times so my calendar will be adjusted.
 
 1. Y - [Attend DevOps Enterprise Summit London](https://gitlab.com/gitlab-com/Product/-/issues/1262)
-1. [Prepare for Junes NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
-1. [Perform One Walk-Through](https://gitlab.com/gitlab-com/Product/-/issues/951)
-1. [Understand Top 5 Inflight Opportunties](https://gitlab.com/gitlab-com/Product/-/issues/1261)
+1. Y - [Prepare for Junes NSM Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
+1. N - [Perform One Walk-Through](https://gitlab.com/gitlab-com/Product/-/issues/951)
+1. Y - [Understand Top 5 Inflight Opportunties](https://gitlab.com/gitlab-com/Product/-/issues/1261)
 1. Y - Make Progress on [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
-1. Make Progress on [Encourage Iterations Smaller than our Monthly Milestones](https://gitlab.com/gitlab-com/Product/-/issues/1247)
+1. N - Make Progress on [Encourage Iterations Smaller than our Monthly Milestones](https://gitlab.com/gitlab-com/Product/-/issues/1247)
 1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
 
 ## 2020-06-15
