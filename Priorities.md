@@ -25,7 +25,7 @@ Short week as I'm out Friday for observance of the US July 4th Holiday.
 
 1. Y - [Present and Follow Up from Performance Indicator Review](https://gitlab.com/gitlab-com/Product/-/issues/1165)
 1. Y - Finalize Process for [understanding Top 5 Inflight Opportunities](https://gitlab.com/gitlab-com/Product/-/issues/1261)
-1. Follow up from [Attending DevOps Enterprise Summit](https://gitlab.com/gitlab-com/Product/-/issues/1262)
+1. Y - Follow up from [Attending DevOps Enterprise Summit](https://gitlab.com/gitlab-com/Product/-/issues/1262)
 1. Make Progress on [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
 1. Make Progress on [Encourage Iterations Smaller than our Monthly Milestones](https://gitlab.com/gitlab-com/Product/-/issues/1247)
 1. Begin work on connecting with [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
