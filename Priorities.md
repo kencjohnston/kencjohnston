@@ -27,9 +27,9 @@ Short week as I'm out Friday for observance of the US July 4th Holiday.
 1. Y - Finalize Process for [understanding Top 5 Inflight Opportunities](https://gitlab.com/gitlab-com/Product/-/issues/1261)
 1. Y - Follow up from [Attending DevOps Enterprise Summit](https://gitlab.com/gitlab-com/Product/-/issues/1262)
 1. Y - Make Progress on [Build out Product Group Function Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
-1. Make Progress on [Encourage Iterations Smaller than our Monthly Milestones](https://gitlab.com/gitlab-com/Product/-/issues/1247)
-1. Begin work on connecting with [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
-1. Begin work on [Understanding Tier Value by Stage](https://gitlab.com/gitlab-com/Product/-/issues/1276)
+1. N - Make Progress on [Encourage Iterations Smaller than our Monthly Milestones](https://gitlab.com/gitlab-com/Product/-/issues/1247)
+1. N - Begin work on connecting with [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Y - Begin work on [Understanding Tier Value by Stage](https://gitlab.com/gitlab-com/Product/-/issues/1276)
 1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
 
 ## 2020-06-22
