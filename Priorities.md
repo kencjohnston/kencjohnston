@@ -20,6 +20,19 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-07-13
+1. [Ops Section Tiering Review](https://gitlab.com/gitlab-com/Product/-/issues/1324)
+1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1323)
+1. [Finalize Ops Section PM Org Structure adjustments](https://gitlab.com/gitlab-com/Product/-/issues/1319)
+1. Make Progress on [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Make Progress on [Collecting Telemetry Arch issues for Q3 OKR](https://gitlab.com/gitlab-com/Product/-/issues/1316)
+1. [Merge first round of Product Group Functional Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
+1. [Kickoff Prep]()
+1. Learning Goal - MLOps ([CML Walk-through](https://gitlab.com/gitlab-com/Product/-/issues/1318))
+
+## 2020-07-06
+This was a short week for me and I never got to creating my priorities list
+
 ## 2020-06-29
 Short week as I'm out Friday for observance of the US July 4th Holiday.
 
@@ -30,7 +43,7 @@ Short week as I'm out Friday for observance of the US July 4th Holiday.
 1. N - Make Progress on [Encourage Iterations Smaller than our Monthly Milestones](https://gitlab.com/gitlab-com/Product/-/issues/1247)
 1. N - Begin work on connecting with [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
 1. Y - Begin work on [Understanding Tier Value by Stage](https://gitlab.com/gitlab-com/Product/-/issues/1276)
-1. Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
+1. Y (Completed) Learning Goal - Reading [Competing Against Luck](https://www.amazon.com/gp/product/0062435612/)
 
 ## 2020-06-22
 I'll be attending [virtual DOES](https://events.itrevolution.com/virtual/) this week Tue-Thur at odd times so my calendar will be adjusted.
