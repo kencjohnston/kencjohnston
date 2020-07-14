@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-07-13
 1. [Ops Section Tiering Review](https://gitlab.com/gitlab-com/Product/-/issues/1324)
 1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1323)
-1. [Finalize Ops Section PM Org Structure adjustments](https://gitlab.com/gitlab-com/Product/-/issues/1319)
+1. Y - [Finalize Ops Section PM Org Structure adjustments](https://gitlab.com/gitlab-com/Product/-/issues/1319)
 1. Make Progress on [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
 1. Make Progress on [Collecting Telemetry Arch issues for Q3 OKR](https://gitlab.com/gitlab-com/Product/-/issues/1316)
 1. [Merge first round of Product Group Functional Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
