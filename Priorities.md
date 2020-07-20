@@ -20,7 +20,7 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-07-13
+## 2020-07-20
 
 This week I'm transitioning my schedule to [an earlier start](https://gitlab.com/kencjohnston/README/-/commit/2cdeda2eeee3b1f986ba1350171b28d75dbf638a). As a result I have limited availability.
 
