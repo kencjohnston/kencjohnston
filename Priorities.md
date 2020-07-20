@@ -21,13 +21,25 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-07-13
+
+This week I'm transitioning my schedule to [an earlier start](https://gitlab.com/kencjohnston/README/-/commit/2cdeda2eeee3b1f986ba1350171b28d75dbf638a). As a result I have limited availability.
+
+1. [Monday - Company Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1332)
+1. [Prep for Ops GC](https://gitlab.com/gitlab-com/Product/-/issues/1257)
+1. [Weekly Top Opportunities Review](https://gitlab.com/gitlab-com/Product/-/issues/1356)
+1. Make progress on [Encouraging iterations smaller than our monthly milestone](https://gitlab.com/gitlab-com/Product/-/issues/1247)
+1. Make progress on [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Y - Transfer [Collecting Telemetry Arch issues block MAU metrics](https://gitlab.com/gitlab-com/Product/-/issues/1316) to telemetry team
+1. Close out first round of [Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) and communicate
+
+## 2020-07-13
 1. Y - [Ops Section Tiering Review](https://gitlab.com/gitlab-com/Product/-/issues/1324)
 1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1323)
 1. Y - [Finalize Ops Section PM Org Structure adjustments](https://gitlab.com/gitlab-com/Product/-/issues/1319)
 1. Y - Make Progress on [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
 1. Y - Make Progress on [Collecting Telemetry Arch issues for Q3 OKR](https://gitlab.com/gitlab-com/Product/-/issues/1316)
 1. Y - [Merge first round of Product Group Functional Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234)
-1. [Kickoff Prep]()
+1. Y - [Kickoff Prep]()
 1. Learning Goal - MLOps ([CML Walk-through](https://gitlab.com/gitlab-com/Product/-/issues/1318))
 
 ## 2020-07-06
