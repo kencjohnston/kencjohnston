@@ -21,13 +21,13 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-07-27
-1. [Coverage for Jackie who is OoO](https://gitlab.com/gitlab-com/Product/-/issues/1326)
-1. [Ops Section GC and Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1257)
-1. [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1290)
-1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1356)
+1. Y - [Coverage for Jackie who is OoO](https://gitlab.com/gitlab-com/Product/-/issues/1326)
+1. Y - [Ops Section GC and Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1257)
+1. Y - [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1290)
+1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1356)
 1. [Define Release Stage PI Structure](https://gitlab.com/gitlab-com/Product/-/issues/1381)
-1. Make progress on [Encouraging iterations smaller than our monthly milestone](https://gitlab.com/gitlab-com/Product/-/issues/1247)
-1. Make progress on [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Y - Make progress on [Encouraging iterations smaller than our monthly milestone](https://gitlab.com/gitlab-com/Product/-/issues/1247)
+1. Y - Make progress on [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
 1. Close out first round of [Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) and communicate
 1. Learning Goal - Getting started with GitLab CD 
 
