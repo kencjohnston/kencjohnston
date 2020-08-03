@@ -6,7 +6,7 @@ This content is meant to communicate how I intend to allocate my time. I review 
 | Team Development | CDF Reviews, Career Development, GitLab Values Coaching | 35% |
 | Sensing Mechanisms | Customer interviews, analyst inquiries, competitive review | 20% |
 | Cross Section Product Experience | Think Big-Think Small, Walk-throughs, learning goals, direction content review | 15% |
-| Product Management Leadership Priorities | North Star Metrics, Data and ROI focus | 10% |
+| Product Management Leadership Priorities | Performance Indicator, Tier Strategy and ROI focus | 10% |
 | External Evangelism | Ops vision, analyst briefings, conference speaking | 10% |
 | Core Team Engagement | UX, Development, Quality | 5% |
 | Personal Growth / Leadership Opportunities | Representing GitLab externally, Representing Product internally | 5% |
@@ -20,15 +20,24 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-08-03
+1. Prep, Deliver and Follow Up for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1290)
+1. [Draft Funnels for All SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1386)
+1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1356)
+1. Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Ensure progress on [Encouraging iterations smaller than our monthly milestone](https://gitlab.com/gitlab-com/Product/-/issues/1247)
+1. Close out first round of [Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) and communicate
+1. Learning Goal - [Monorepos](https://gitlab.com/gitlab-com/Product/-/issues/1389)
+
 ## 2020-07-27
 1. Y - [Coverage for Jackie who is OoO](https://gitlab.com/gitlab-com/Product/-/issues/1326)
 1. Y - [Ops Section GC and Follow Up](https://gitlab.com/gitlab-com/Product/-/issues/1257)
 1. Y - [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1290)
 1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1356)
-1. [Define Release Stage PI Structure](https://gitlab.com/gitlab-com/Product/-/issues/1381)
+1. Y - [Define Release Stage PI Structure](https://gitlab.com/gitlab-com/Product/-/issues/1381)
 1. Y - Make progress on [Encouraging iterations smaller than our monthly milestone](https://gitlab.com/gitlab-com/Product/-/issues/1247)
 1. Y - Make progress on [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
-1. Close out first round of [Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) and communicate
+1. N - Close out first round of [Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) and communicate
 1. Learning Goal - Getting started with GitLab CD 
 
 ## 2020-07-20
