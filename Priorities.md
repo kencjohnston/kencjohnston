@@ -21,9 +21,9 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-08-03
-1. Prep, Deliver and Follow Up for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1290)
-1. [Draft Funnels for All SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1386)
-1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1356)
+1. Y - Prep, Deliver and Follow Up for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1290)
+1. Started - [Draft Funnels for All SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1386)
+1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1356)
 1. Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
 1. Ensure progress on [Encouraging iterations smaller than our monthly milestone](https://gitlab.com/gitlab-com/Product/-/issues/1247)
 1. Close out first round of [Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) and communicate
