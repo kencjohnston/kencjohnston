@@ -20,13 +20,24 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-08-10
+Friday is Friends and Family Day!
+
+1. [Prep for Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1418)
+1. [MVC and New Config Review](https://gitlab.com/gitlab-com/Product/-/issues/1413)
+1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1417) (Now with Command and Account Plans! I'm going to [propose an update to the Sales Hanbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8697))
+1. [Draft Funnels for All SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1386)
+1. [Docs Language Review for Restrictiveness](https://gitlab.com/gitlab-com/Product/-/issues/1410)
+1. Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Learning Goal - [Monorepos](https://gitlab.com/gitlab-com/Product/-/issues/1389)
+
 ## 2020-08-03
 1. Y - Prep, Deliver and Follow Up for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1290)
 1. Started - [Draft Funnels for All SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1386)
 1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1356)
-1. Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
-1. Ensure progress on [Encouraging iterations smaller than our monthly milestone](https://gitlab.com/gitlab-com/Product/-/issues/1247)
-1. Close out first round of [Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) and communicate
+1. N - Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Y - Ensure progress on [Encouraging iterations smaller than our monthly milestone](https://gitlab.com/gitlab-com/Product/-/issues/1247)
+1. N - Close out first round of [Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) and communicate
 1. Learning Goal - [Monorepos](https://gitlab.com/gitlab-com/Product/-/issues/1389)
 
 ## 2020-07-27
