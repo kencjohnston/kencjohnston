@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-08-10
 Friday is Friends and Family Day!
 
-1. [Prep for Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1418)
+1. Y - [Prep for Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1418)
 1. Y - [MVC and New Config Review](https://gitlab.com/gitlab-com/Product/-/issues/1413)
 1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1417) (Now with Command and Account Plans! I'm going to [propose an update to the Sales Hanbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8697))
 1. Y - Make Progress on [Draft Funnels for All SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1386)
