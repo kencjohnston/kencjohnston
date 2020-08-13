@@ -24,9 +24,9 @@ These designations are added to the previous week's priority list when adding th
 Friday is Friends and Family Day!
 
 1. [Prep for Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1418)
-1. [MVC and New Config Review](https://gitlab.com/gitlab-com/Product/-/issues/1413)
-1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1417) (Now with Command and Account Plans! I'm going to [propose an update to the Sales Hanbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8697))
-1. [Draft Funnels for All SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1386)
+1. Y - [MVC and New Config Review](https://gitlab.com/gitlab-com/Product/-/issues/1413)
+1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1417) (Now with Command and Account Plans! I'm going to [propose an update to the Sales Hanbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8697))
+1. Y - Make Progress on [Draft Funnels for All SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1386)
 1. [Docs Language Review for Restrictiveness](https://gitlab.com/gitlab-com/Product/-/issues/1410)
 1. Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
 1. Learning Goal - [Monorepos](https://gitlab.com/gitlab-com/Product/-/issues/1389)
