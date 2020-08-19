@@ -23,9 +23,9 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-08-17
 I'm off the next two weeks so trying to end the week with things wrapped up.
 
-1. [Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1418)
+1. Y - [Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1418)
 1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1438)
-1. Prep [PTO Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/1440)
+1. Y - Prep [PTO Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/1440)
 1. [Docs Language Review for Restrictiveness](https://gitlab.com/gitlab-com/Product/-/issues/1410)
 1. [PI Section Status and Other Updates](https://gitlab.com/gitlab-com/Product/-/issues/1428)
 1. Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
