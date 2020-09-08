@@ -20,16 +20,25 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-09-08
+1. This is CDF Review week - and Jason and Kevin and I will have our first CDF Review Review (so we can be better at reviewing CDFs) next week. 
+1. Prep for [Ops Section PI Review Meeting](https://gitlab.com/gitlab-com/Product/-/issues/1490) next Monday
+1. Prep for [Ops Section Group Conversation](https://gitlab.com/gitlab-com/Product/-/issues/1387) next week Wednesday
+1. [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
+1. [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) issue
+1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1503)
+1. Learning Goal - [Incorporate Notes from re-reading Accelerate](https://gitlab.com/gitlab-com/Product/-/issues/1510)
+
 ## 2020-08-17
 I'm off the next two weeks so trying to end the week with things wrapped up.
 
 1. Y - [Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1418)
-1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1438)
+1. Y - [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1438)
 1. Y - Prep [PTO Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/1440)
-1. [Docs Language Review for Restrictiveness](https://gitlab.com/gitlab-com/Product/-/issues/1410)
-1. [PI Section Status and Other Updates](https://gitlab.com/gitlab-com/Product/-/issues/1428)
-1. Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
-1. Learning Goal - Reading [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM) again.
+1. N - [Docs Language Review for Restrictiveness](https://gitlab.com/gitlab-com/Product/-/issues/1410)
+1. N - [PI Section Status and Other Updates](https://gitlab.com/gitlab-com/Product/-/issues/1428)
+1. N - Setup interviews from new NPS for [100 Customers a Year](https://gitlab.com/gitlab-com/Product/-/issues/1280)
+1. Y - Learning Goal - Reading [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM) again.
 
 ## 2020-08-10
 Friday is Friends and Family Day!
