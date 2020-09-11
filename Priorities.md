@@ -22,8 +22,8 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-09-08
-1. This is CDF Review week - and Jason and Kevin and I will have our first CDF Review Review (so we can be better at reviewing CDFs) next week. 
-1. Prep for [Ops Section PI Review Meeting](https://gitlab.com/gitlab-com/Product/-/issues/1490) next Monday
+1. Y - This is CDF Review week - and Jason and Kevin and I will have our first CDF Review Review (so we can be better at reviewing CDFs) next week. 
+1. Y - Prep for [Ops Section PI Review Meeting](https://gitlab.com/gitlab-com/Product/-/issues/1490) next Monday
 1. Prep for [Ops Section Group Conversation](https://gitlab.com/gitlab-com/Product/-/issues/1387) next week Wednesday
 1. [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
 1. [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) issue
