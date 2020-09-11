@@ -27,7 +27,7 @@ These designations are added to the previous week's priority list when adding th
 1. Prep for [Ops Section Group Conversation](https://gitlab.com/gitlab-com/Product/-/issues/1387) next week Wednesday
 1. [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
 1. [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) issue
-1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1503)
+1. N - [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1503)
 1. Learning Goal - [Incorporate Notes from re-reading Accelerate](https://gitlab.com/gitlab-com/Product/-/issues/1510)
 
 ## 2020-08-17
