@@ -21,12 +21,21 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-09-15
+1. [Ops Section Group Conversation](https://gitlab.com/gitlab-com/Product/-/issues/1387) Wednesday
+1. [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
+1. Prep and Deliver Company-wide [Monthly Release Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1502)
+1. Follow up actions from [Notes and Actions from Re-reading Accelerate](https://gitlab.com/gitlab-com/Product/-/issues/1510)
+1. [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) Issue
+1. Summarize and transfer next steps in [Are we really dogfooding Feature Flags?](https://gitlab.com/gitlab-com/Product/-/issues/1460)
+1. Learning Goal - Research for [Define a Vision for Ops Executive Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1518)
+
 ## 2020-09-08
 1. Y - This is CDF Review week - and Jason and Kevin and I will have our first CDF Review Review (so we can be better at reviewing CDFs) next week. 
 1. Y - Prep for [Ops Section PI Review Meeting](https://gitlab.com/gitlab-com/Product/-/issues/1490) next Monday
-1. Prep for [Ops Section Group Conversation](https://gitlab.com/gitlab-com/Product/-/issues/1387) next week Wednesday
-1. [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
-1. [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) issue
+1. Y - Prep for [Ops Section Group Conversation](https://gitlab.com/gitlab-com/Product/-/issues/1387) next week Wednesday
+1. N - [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
+1. N -[Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) issue
 1. N - [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1503)
 1. Learning Goal - [Incorporate Notes from re-reading Accelerate](https://gitlab.com/gitlab-com/Product/-/issues/1510)
 
