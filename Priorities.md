@@ -26,7 +26,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
 1. Prep and Deliver Company-wide [Monthly Release Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1502)
 1. Follow up actions from [Notes and Actions from Re-reading Accelerate](https://gitlab.com/gitlab-com/Product/-/issues/1510)
-1. [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) Issue
+1. Y - [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) Issue
 1. Summarize and transfer next steps in [Are we really dogfooding Feature Flags?](https://gitlab.com/gitlab-com/Product/-/issues/1460)
 1. Learning Goal - Research for [Define a Vision for Ops Executive Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1518)
 
