@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-09-15
 1. Y - [Ops Section Group Conversation](https://gitlab.com/gitlab-com/Product/-/issues/1387) Wednesday
 1. Y - [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
-1. Prep and Deliver Company-wide [Monthly Release Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1502)
+1. Y - Prep and Deliver Company-wide [Monthly Release Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1502)
 1. Y - Follow up actions from [Notes and Actions from Re-reading Accelerate](https://gitlab.com/gitlab-com/Product/-/issues/1510)
 1. Y - [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) Issue
 1. Y - Summarize and transfer next steps in [Are we really dogfooding Feature Flags?](https://gitlab.com/gitlab-com/Product/-/issues/1460)
