@@ -21,14 +21,25 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-09-15
+## 2020-09-21
+Note - OoO on Thursday for Pod Parent day.
+
+1. [Review and Update Ops Section Direction](https://gitlab.com/gitlab-com/Product/-/issues/1542)
+1. [Update TAM and SAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have new IDC data
+1. [Build a Micro-services example for walk-throughs](https://gitlab.com/gitlab-com/Product/-/issues/839)
+1. [PM Coverage for Orit](https://gitlab.com/gitlab-com/Product/-/issues/1524)
+1. [Product <> GTM Sensing Mechanisms Update](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1549)
+1. Learning Goal - Research for [Define a Vision for Ops Executive Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1518)
+
+## 2020-09-14
 1. Y - [Ops Section Group Conversation](https://gitlab.com/gitlab-com/Product/-/issues/1387) Wednesday
 1. Y - [Review Draft Funnels](https://gitlab.com/gitlab-com/Product/-/issues/1386)
 1. Y - Prep and Deliver Company-wide [Monthly Release Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1502)
 1. Y - Follow up actions from [Notes and Actions from Re-reading Accelerate](https://gitlab.com/gitlab-com/Product/-/issues/1510)
 1. Y - [Close out Initial Product Competencies](https://gitlab.com/gitlab-com/Product/-/issues/1234) Issue
 1. Y - Summarize and transfer next steps in [Are we really dogfooding Feature Flags?](https://gitlab.com/gitlab-com/Product/-/issues/1460)
-1. Learning Goal - Research for [Define a Vision for Ops Executive Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1518)
+1. N - Learning Goal - Research for [Define a Vision for Ops Executive Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1518)
 
 ## 2020-09-08
 1. Y - This is CDF Review week - and Jason and Kevin and I will have our first CDF Review Review (so we can be better at reviewing CDFs) next week. 
