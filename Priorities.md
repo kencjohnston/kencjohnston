@@ -24,12 +24,12 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-09-21
 Note - OoO on Thursday for Pod Parent day.
 
-1. [Review and Update Ops Section Direction](https://gitlab.com/gitlab-com/Product/-/issues/1542)
-1. [Update TAM and SAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have new IDC data
+1. Y - [Review and Update Ops Section Direction](https://gitlab.com/gitlab-com/Product/-/issues/1542)
+1. Y - [Update TAM and SAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have new IDC data
 1. [Build a Micro-services example for walk-throughs](https://gitlab.com/gitlab-com/Product/-/issues/839)
 1. [PM Coverage for Orit](https://gitlab.com/gitlab-com/Product/-/issues/1524)
 1. [Product <> GTM Sensing Mechanisms Update](https://gitlab.com/gitlab-com/Product/-/issues/1540)
-1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1549)
+1. Y - [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1549)
 1. Learning Goal - Research for [Define a Vision for Ops Executive Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1518)
 
 ## 2020-09-14
