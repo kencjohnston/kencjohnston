@@ -21,13 +21,25 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-10-05
+_Note_: Friends and Family Day on Friday.
+
+1. [Ops Section PI Review Prep](https://gitlab.com/gitlab-com/Product/-/issues/1588)
+1. [5 Minute Production App Walkthrough](https://gitlab.com/gitlab-com/Product/-/issues/1601)
+1. [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. [Discussion about having Ops Section Q4 goals](https://gitlab.com/gitlab-com/Product/-/issues/1595)
+1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1598)
+1. Learning Goal - Principles for CI YAML Syntax
+
 ## 2020-09-28
-1. [Build a Micro-services example for walk-throughs](https://gitlab.com/gitlab-com/Product/-/issues/839)
-1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1549)
-1. [Product <> GTM Sensing Mechanisms Update](https://gitlab.com/gitlab-com/Product/-/issues/1540)
-1. [PM Coverage for Orit](https://gitlab.com/gitlab-com/Product/-/issues/1524)
-1. [Direction Page Reviews](https://gitlab.com/gitlab-com/Product/-/issues/1542)
-1. Learning Goal - Research for [Define a Vision for Ops Executive Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1518)
+I ended up prioritizing communicating and opening the Group Manager Product, Verify position during this week.
+
+1. N - [Build a Micro-services example for walk-throughs](https://gitlab.com/gitlab-com/Product/-/issues/839)
+1. N - [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1549)
+1. N - [Product <> GTM Sensing Mechanisms Update](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. Y - [PM Coverage for Orit](https://gitlab.com/gitlab-com/Product/-/issues/1524)
+1. Y - [Direction Page Reviews](https://gitlab.com/gitlab-com/Product/-/issues/1542)
+1. Y - Learning Goal - Research for [Define a Vision for Ops Executive Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1518)
 
 ## 2020-09-21
 Note - OoO on Thursday for Pod Parent day.
