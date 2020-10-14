@@ -21,14 +21,27 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-10-12
+_Note_: Short week with Columbus Day on Monday
+
+1. Y - [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1588)
+1. Hiring - Interviews and Hiring Prep for GMP, Verify position
+1. [Update SAM and TAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have usable data
+1. [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1599)
+1. [Product GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. [Follow Up on 5 Minute Production App](https://gitlab.com/gitlab-com/Product/-/issues/1601)
+1. Resolve [Ops Section FY21 - Q4 Goals](https://gitlab.com/gitlab-com/Product/-/issues/1595) Discussion
+1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1626)
+1. Learning Goal - Principles for CI YAML Syntax
+
 ## 2020-10-05
 _Note_: Friends and Family Day on Friday.
 
-1. [Ops Section PI Review Prep](https://gitlab.com/gitlab-com/Product/-/issues/1588)
-1. [5 Minute Production App Walkthrough](https://gitlab.com/gitlab-com/Product/-/issues/1601)
-1. [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
-1. [Discussion about having Ops Section Q4 goals](https://gitlab.com/gitlab-com/Product/-/issues/1595)
-1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1598)
+1. Y - [Ops Section PI Review Prep](https://gitlab.com/gitlab-com/Product/-/issues/1588)
+1. Y - [5 Minute Production App Walkthrough](https://gitlab.com/gitlab-com/Product/-/issues/1601)
+1. N - [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. Y - [Discussion about having Ops Section Q4 goals](https://gitlab.com/gitlab-com/Product/-/issues/1595)
+1. Y - [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1598)
 1. Learning Goal - Principles for CI YAML Syntax
 
 ## 2020-09-28
