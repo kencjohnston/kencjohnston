@@ -25,12 +25,12 @@ These designations are added to the previous week's priority list when adding th
 _Note_: Short week with Columbus Day on Monday
 
 1. Y - [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1588)
-1. Hiring - Interviews and Hiring Prep for GMP, Verify position
+1. Y - Hiring - Interviews and Hiring Prep for GMP, Verify position
 1. [Update SAM and TAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have usable data
 1. [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1599)
 1. [Product GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. [Follow Up on 5 Minute Production App](https://gitlab.com/gitlab-com/Product/-/issues/1601)
-1. Resolve [Ops Section FY21 - Q4 Goals](https://gitlab.com/gitlab-com/Product/-/issues/1595) Discussion
+1. Y - Resolve [Ops Section FY21 - Q4 Goals](https://gitlab.com/gitlab-com/Product/-/issues/1595) Discussion
 1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1626)
 1. Learning Goal - Principles for CI YAML Syntax
 
