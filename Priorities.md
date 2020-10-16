@@ -28,10 +28,10 @@ _Note_: Short week with Columbus Day on Monday
 1. Y - Hiring - Interviews and Hiring Prep for GMP, Verify position
 1. [Update SAM and TAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have usable data
 1. [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1599)
-1. [Product GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. Y - [Product GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. Y - [Follow Up on 5 Minute Production App](https://gitlab.com/gitlab-com/Product/-/issues/1601)
 1. Y - Resolve [Ops Section FY21 - Q4 Goals](https://gitlab.com/gitlab-com/Product/-/issues/1595) Discussion
-1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1626)
+1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1626)
 1. Learning Goal - Principles for CI YAML Syntax
 
 ## 2020-10-05
