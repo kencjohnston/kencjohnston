@@ -21,13 +21,25 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-10-20
+
+1. [Update SAM and TAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have usable data
+1. [Kickoff Delivery](https://gitlab.com/gitlab-com/Product/-/issues/1599)
+1. Send out [Sensing Mechanism Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. Create [Product Tier Strategy Review Process](https://gitlab.com/gitlab-com/Product/-/issues/1653)
+1. [Ops Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/1645)
+1. Solicit Personal [Quaterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
+1. [Assign Walk-Through App Ownership](https://gitlab.com/gitlab-com/Product/-/issues/1652)
+1. Begin discussion on [Ops Section Analyst Update](https://gitlab.com/gitlab-com/Product/-/issues/1654)
+1. Learning Goal - Principles for CI YAML Syntax
+
 ## 2020-10-12
 _Note_: Short week with Columbus Day on Monday
 
 1. Y - [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1588)
 1. Y - Hiring - Interviews and Hiring Prep for GMP, Verify position
-1. [Update SAM and TAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have usable data
-1. [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1599)
+1. N - [Update SAM and TAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have usable data
+1. Y - [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1599)
 1. Y - [Product GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. Y - [Follow Up on 5 Minute Production App](https://gitlab.com/gitlab-com/Product/-/issues/1601)
 1. Y - Resolve [Ops Section FY21 - Q4 Goals](https://gitlab.com/gitlab-com/Product/-/issues/1595) Discussion
