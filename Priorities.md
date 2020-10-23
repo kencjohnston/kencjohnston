@@ -28,7 +28,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Send out [Sensing Mechanism Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. Y - Create [Product Tier Strategy Review Process](https://gitlab.com/gitlab-com/Product/-/issues/1653)
 1. Y - [Ops Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/1645)
-1. Solicit Personal [Quaterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
+1. Y - Solicit Personal [Quaterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
 1. [Assign Walk-Through App Ownership](https://gitlab.com/gitlab-com/Product/-/issues/1652)
 1. Begin discussion on [Ops Section Analyst Update](https://gitlab.com/gitlab-com/Product/-/issues/1654)
 1. Learning Goal - Principles for CI YAML Syntax
