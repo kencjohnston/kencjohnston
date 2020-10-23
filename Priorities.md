@@ -26,8 +26,8 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Update SAM and TAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have usable data
 1. Y - [Kickoff Delivery](https://gitlab.com/gitlab-com/Product/-/issues/1599)
 1. Y - Send out [Sensing Mechanism Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
-1. Create [Product Tier Strategy Review Process](https://gitlab.com/gitlab-com/Product/-/issues/1653)
-1. [Ops Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/1645)
+1. Y - Create [Product Tier Strategy Review Process](https://gitlab.com/gitlab-com/Product/-/issues/1653)
+1. Y - [Ops Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/1645)
 1. Solicit Personal [Quaterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
 1. [Assign Walk-Through App Ownership](https://gitlab.com/gitlab-com/Product/-/issues/1652)
 1. Begin discussion on [Ops Section Analyst Update](https://gitlab.com/gitlab-com/Product/-/issues/1654)
