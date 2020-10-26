@@ -21,6 +21,18 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-10-27
+1. Prep for [Ops Section CAB Presentation](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/2543)
+1. Manager Handoffs as part of [Jason's Transition](https://gitlab.com/gitlab-com/Product/-/issues/1573)
+1. Get final review and [update TAM from IDC Reports](https://gitlab.com/gitlab-com/Product/-/issues/1425)
+1. Next Steps on [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. Review [Gartner IT Ops and Cloud Management Reports](https://gitlab.com/gitlab-com/Product/-/issues/1668)
+1. Competitive [Research on Fyipe](https://gitlab.com/gitlab-com/Product/-/issues/1672)
+1. Weekly [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1671)
+1. Next [Steps on Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
+1. Progress [Q4 Ops Section Analyst Update](https://gitlab.com/gitlab-com/Product/-/issues/1654)
+1. Learning Goal - Principles for CI YAML Syntax
+
 ## 2020-10-20
 
 1. Y - [Update SAM and TAM](https://gitlab.com/gitlab-com/Product/-/issues/1425) now that we have usable data
@@ -29,9 +41,9 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Create [Product Tier Strategy Review Process](https://gitlab.com/gitlab-com/Product/-/issues/1653)
 1. Y - [Ops Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/1645)
 1. Y - Solicit Personal [Quaterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
-1. [Assign Walk-Through App Ownership](https://gitlab.com/gitlab-com/Product/-/issues/1652)
+1. N - [Assign Walk-Through App Ownership](https://gitlab.com/gitlab-com/Product/-/issues/1652)
 1. Y - Begin discussion on [Ops Section Analyst Update](https://gitlab.com/gitlab-com/Product/-/issues/1654)
-1. Learning Goal - Principles for CI YAML Syntax
+1. Y (AMA Scheduled) - Learning Goal - Principles for CI YAML Syntax
 
 ## 2020-10-12
 _Note_: Short week with Columbus Day on Monday
