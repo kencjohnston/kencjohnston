@@ -22,7 +22,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-10-27
-1. Prep for [Ops Section CAB Presentation](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/2543)
+1. Y - Prep for [Ops Section CAB Presentation](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/2543)
 1. Manager Handoffs as part of [Jason's Transition](https://gitlab.com/gitlab-com/Product/-/issues/1573)
 1. Get final review and [update TAM from IDC Reports](https://gitlab.com/gitlab-com/Product/-/issues/1425)
 1. Next Steps on [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
