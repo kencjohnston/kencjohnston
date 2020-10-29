@@ -23,15 +23,15 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2020-10-27
 1. Y - Prep for [Ops Section CAB Presentation](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/2543)
-1. Manager Handoffs as part of [Jason's Transition](https://gitlab.com/gitlab-com/Product/-/issues/1573)
+1. Y- Manager Handoffs as part of [Jason's Transition](https://gitlab.com/gitlab-com/Product/-/issues/1573)
 1. Get final review and [update TAM from IDC Reports](https://gitlab.com/gitlab-com/Product/-/issues/1425)
-1. Next Steps on [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. Y - Next Steps on [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. Review [Gartner IT Ops and Cloud Management Reports](https://gitlab.com/gitlab-com/Product/-/issues/1668)
 1. Competitive [Research on Fyipe](https://gitlab.com/gitlab-com/Product/-/issues/1672)
-1. Weekly [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1671)
-1. Next [Steps on Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
-1. Progress [Q4 Ops Section Analyst Update](https://gitlab.com/gitlab-com/Product/-/issues/1654)
-1. Learning Goal - Principles for CI YAML Syntax
+1. Y - Weekly [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1671)
+1. Y - Next [Steps on Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
+1. Y - Progress [Q4 Ops Section Analyst Update](https://gitlab.com/gitlab-com/Product/-/issues/1654)
+1. Y - Learning Goal - Principles for CI YAML Syntax
 
 ## 2020-10-20
 
