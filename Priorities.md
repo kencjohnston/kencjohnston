@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-10-27
 1. Y - Prep for [Ops Section CAB Presentation](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/2543)
 1. Y- Manager Handoffs as part of [Jason's Transition](https://gitlab.com/gitlab-com/Product/-/issues/1573)
-1. Get final review and [update TAM from IDC Reports](https://gitlab.com/gitlab-com/Product/-/issues/1425)
+1. Y - Get final review and [update TAM from IDC Reports](https://gitlab.com/gitlab-com/Product/-/issues/1425)
 1. Y - Next Steps on [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. Review [Gartner IT Ops and Cloud Management Reports](https://gitlab.com/gitlab-com/Product/-/issues/1668)
 1. Y - Competitive [Research on Fyipe](https://gitlab.com/gitlab-com/Product/-/issues/1672)
