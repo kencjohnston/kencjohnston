@@ -27,7 +27,7 @@ These designations are added to the previous week's priority list when adding th
 1. Get final review and [update TAM from IDC Reports](https://gitlab.com/gitlab-com/Product/-/issues/1425)
 1. Y - Next Steps on [Product <> GTM Sensing Mechanisms Survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. Review [Gartner IT Ops and Cloud Management Reports](https://gitlab.com/gitlab-com/Product/-/issues/1668)
-1. Competitive [Research on Fyipe](https://gitlab.com/gitlab-com/Product/-/issues/1672)
+1. Y - Competitive [Research on Fyipe](https://gitlab.com/gitlab-com/Product/-/issues/1672)
 1. Y - Weekly [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1671)
 1. Y - Next [Steps on Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
 1. Y - Progress [Q4 Ops Section Analyst Update](https://gitlab.com/gitlab-com/Product/-/issues/1654)
