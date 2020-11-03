@@ -27,7 +27,7 @@ I'm OoO on Wednesday and attending QBRs on Monday and Tuesday morning.
 1. Y - Contribute to QBRs
 1. Begin prep for [Ops Section PI review](https://gitlab.com/gitlab-com/Product/-/issues/1690)
 1. Y - [Complete feature assignment for PnP Research](https://gitlab.com/gitlab-com/packaging-and-pricing/pricing-handbook/-/issues/268)
-1. Finalize and [merge TAM and SAM update](https://gitlab.com/gitlab-com/Product/-/issues/1425)
+1. Y - Finalize and [merge TAM and SAM update](https://gitlab.com/gitlab-com/Product/-/issues/1425)
 1. [Assign Walk Through App Ownership](https://gitlab.com/gitlab-com/Product/-/issues/1652)
 1. Widely distribute [Product<>GTM survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. Review and respond to [Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
