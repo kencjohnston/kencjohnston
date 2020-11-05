@@ -65,7 +65,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I consider Slack to be asynchronous. If there is a timeline for a request you might have please specificy it. For example - "Hey, can you review the Kickoff list prior to the kickoff meeting tomorrow?"
 * I'm a big believer in inbox zero and I process my email, slack and GitLab TODO inbox to zero multiple times a day to keep my focus on my [personal GitLab issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston).
 * I use ToDoist for short-term tasks and reminders that aren't appropriate for GitLab issues.
-* 👣 I will add FYI or FYA/R (and avoid the non-specific CC) to responses to ensure I'm setting expectations correctly.
+* 👣 I will add `FYI` or `FYA/R` (and avoid the non-specific CC) to responses to ensure I'm setting expectations correctly.
 * 👣 I'm still learning how to balance [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) and that can sometimes result in more annoyance then effectiveness. Please don't hesitate to call me out if you feel like I'm over-communicating.
 
 ### Teams I Support
@@ -75,6 +75,7 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * I will never take offense to skip-leveling, if you have a concern [you can and should take it to whoever you think will be effective in alleviating it](https://about.gitlab.com/handbook/leadership/#communication-should-be-direct-not-hierarchical).
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 * When sharing info with me, my preference is to consume YOUR expertise. Rather than sharing an Analyst Report relevant for your categories, share an MR where you reference it and highlight how it impacts your product scope.
+* I'll often provide feedback about a general pattern or trend and intentioanlly do not expect response or action on the specific example. When doing so I'll preface my comments with `FYI`.
 
 #### 1 to 5s
 In order to get a better sense of our personal and professional ups and downs - I like to share "1 to 5s" at the start of 1:1s and team meetings. The process is for each team member to answer the question:
