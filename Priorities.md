@@ -30,7 +30,7 @@ I'm OoO on Wednesday and attending QBRs on Monday and Tuesday morning.
 1. Y - Finalize and [merge TAM and SAM update](https://gitlab.com/gitlab-com/Product/-/issues/1425)
 1. [Assign Walk Through App Ownership](https://gitlab.com/gitlab-com/Product/-/issues/1652)
 1. Widely distribute [Product<>GTM survey](https://gitlab.com/gitlab-com/Product/-/issues/1540)
-1. Review and respond to [Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
+1. Y - Review and respond to [Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/1651)
 1. Y - [Weekly Top Opp Review](https://gitlab.com/gitlab-com/Product/-/issues/1692) (first week of the quarter makes this an odd one)
 1. Learning Goal - Read and Contribute Lessons Learned from [Gartner 2020 IT Ops and Cloud Management Reports](https://gitlab.com/gitlab-com/Product/-/issues/1668)
 
