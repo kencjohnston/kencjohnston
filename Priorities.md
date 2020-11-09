@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2020-11-09
 I'm OoO on Wednesday for Veterans Day and attending QBRs on Monday and Friday
-1. Contribute to QBRs
+1. Y - Contribute to QBRs
 1. Present and Followup from [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1690)
 1. [Add and Review Ops Section Opportunities in SSOT](https://gitlab.com/gitlab-com/Product/-/issues/1701)
 1. [Create an Ops Section PI Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1701) of my own 
