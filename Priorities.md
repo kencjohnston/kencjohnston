@@ -21,6 +21,16 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-11-09
+I'm OoO on Wednesday for Veterans Day and attending QBRs on Monday and Friday
+1. Contribute to QBRs
+1. Present and Followup from [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1690)
+1. [Add and Review Ops Section Opportunities in SSOT](https://gitlab.com/gitlab-com/Product/-/issues/1701)
+1. [Create an Ops Section PI Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1701) of my own 
+1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1718)
+1. [Update Product Investment by Group based on new method add new table that includes growth](https://gitlab.com/gitlab-com/Product/-/issues/1712)
+1. Learning Goal - Review Actionable Insights from [CI Adoption Research](https://gitlab.com/groups/gitlab-org/-/epics/4124)
+
 ## 2020-11-02
 I'm OoO on Wednesday and attending QBRs on Monday and Tuesday morning.
 
