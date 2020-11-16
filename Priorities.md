@@ -21,12 +21,23 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-11-16
+ENT Leadership QBR on Wednesday
+1. Contribute to QBRs
+1. [Schedule Customer Contact](https://gitlab.com/gitlab-com/Product/-/issues/1740)
+1. [Kickoff Call on Wednesday](https://gitlab.com/gitlab-com/Product/-/issues/1704)
+1. [Complete DI&B Training](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/487)
+1. [Ops Section Dashboard Creation](https://gitlab.com/gitlab-com/Product/-/issues/1693)
+1. [Finalize and Present Sensing Mechanism Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. [Present Ops Section Opportunities in PLT](https://gitlab.com/gitlab-com/Product/-/issues/1701)
+1. Learning Goal - Expirementation, A/B, and Feature Flags market
+
 ## 2020-11-09
 I'm OoO on Wednesday for Veterans Day and attending QBRs on Monday and Friday
 1. Y - Contribute to QBRs
 1. Y - Present and Followup from [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1690)
 1. Y - [Add Ops Section Opportunities in SSOT](https://gitlab.com/gitlab-com/Product/-/issues/1701)
-1. [Create an Ops Section PI Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1701) of my own 
+1. N - [Create an Ops Section PI Dashboard](https://gitlab.com/gitlab-com/Product/-/issues/1701) of my own 
 1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1718)
 1. Y - [Update Product Investment by Group based on new method add new table that includes growth](https://gitlab.com/gitlab-com/Product/-/issues/1712)
 1. Y - Learning Goal - Review Actionable Insights from [CI Adoption Research](https://gitlab.com/groups/gitlab-org/-/epics/4124)
