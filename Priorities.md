@@ -25,6 +25,7 @@ These designations are added to the previous week's priority list when adding th
 ENT Leadership QBR on Wednesday
 1. Contribute to QBRs
 1. [Schedule Customer Contact](https://gitlab.com/gitlab-com/Product/-/issues/1740)
+1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1741)
 1. [Kickoff Call on Wednesday](https://gitlab.com/gitlab-com/Product/-/issues/1704)
 1. [Complete DI&B Training](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/487)
 1. [Ops Section Dashboard Creation](https://gitlab.com/gitlab-com/Product/-/issues/1693)
