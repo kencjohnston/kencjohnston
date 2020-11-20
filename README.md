@@ -23,7 +23,8 @@ If we are working together, or even if we aren't, here are some things it might 
 * I'm never the smartest person in the room, if I share opinions consider them [Minimally Viable](https://about.gitlab.com/handbook/values/#minimum-viable-change-mvc)
 * I prefer to discuss things directly, both with my teams and my manager. I'd rather know someone's direct intention than to be coached around an issue socratically.
 * I believe in [playing to your strengths](https://hbr.org/2005/01/how-to-play-to-your-strengths), and building complete teams based on coordinated strengths. 
-* 👣 I aspire to use [inclusive language](https://docs.google.com/presentation/d/186RK9QqOYxF8BmVS15AOKvwFpt4WglKKDR7cUCeDGkE/edit?usp=sharing), eliminate [co-optation](https://www.youtube.com/watch?v=zNCrMEOqHpc) and create an inclusive environment. Please call out when I make mistakes or fail. I will ALWAYS thank you for it.
+* 👣 I aspire to use [inclusive language](https://docs.google.com/presentation/d/186RK9QqOYxF8BmVS15AOKvwFpt4WglKKDR7cUCeDGkE/edit?usp=sharing), actively listen and eliminate [co-optation](https://www.youtube.com/watch?v=zNCrMEOqHpc). Please call out when I make mistakes or fail. I will ALWAYS thank you for it.
+* 👣 I hope to inspire an upstanding (not bystanding), psychologically safe, and growth oriented work environment via my daily actions so that everyone can contribute in an environment where they experience belonging. 
 * Outside of work I love to cook, play soccer, build puzzles and travel. I created this [5x5 presentation](https://docs.google.com/presentation/d/1K9Cpnr6gVJroLbbAbGaHMVPmpM5ICCZ1AESuo4N5u7A/edit#slide=id.p) to walk through more about me. 
 
 ### Product
