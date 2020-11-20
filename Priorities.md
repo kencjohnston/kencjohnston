@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2020-11-16
 ENT Leadership QBR on Wednesday
-1. Contribute to QBRs
+1. Y - Contribute to QBRs
 1. [Schedule Customer Contact](https://gitlab.com/gitlab-com/Product/-/issues/1740)
 1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1741)
 1. Y - [Kickoff Call on Wednesday](https://gitlab.com/gitlab-com/Product/-/issues/1704)
