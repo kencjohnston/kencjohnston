@@ -29,9 +29,9 @@ ENT Leadership QBR on Wednesday
 1. Y - [Kickoff Call on Wednesday](https://gitlab.com/gitlab-com/Product/-/issues/1704)
 1. Y - [Complete DI&B Training](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/487)
 1. Y - [Ops Section Dashboard Creation](https://gitlab.com/gitlab-com/Product/-/issues/1693)
-1. [Finalize and Present Sensing Mechanism Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1540)
+1. N - [Finalize and Present Sensing Mechanism Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. Y - [Present Ops Section Opportunities in PLT](https://gitlab.com/gitlab-com/Product/-/issues/1701)
-1. Learning Goal - Expirementation, A/B, and Feature Flags market
+1. N- Learning Goal - Expirementation, A/B, and Feature Flags market
 
 ## 2020-11-09
 I'm OoO on Wednesday for Veterans Day and attending QBRs on Monday and Friday
