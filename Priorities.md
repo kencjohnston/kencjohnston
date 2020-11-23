@@ -25,7 +25,7 @@ These designations are added to the previous week's priority list when adding th
 Out on Wednesday, Thursday and Friday or this week.
 1. [Finalize and Present Sensing Mechanism Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. [Direction Page Updates](https://gitlab.com/gitlab-com/Product/-/issues/1751)
-1. [Add +10 Investment Priorioties to Ops Direction](https://gitlab.com/gitlab-com/Product/-/issues/1771)
+1. Y - [Add +10 Investment Priorioties to Ops Direction](https://gitlab.com/gitlab-com/Product/-/issues/1771)
 1. [Communicate Future Investment Plan by Category in Groups](https://gitlab.com/gitlab-com/Product/-/issues/1708)
 1. [Add Product Group displays to Ops Section Page](https://gitlab.com/gitlab-com/Product/-/issues/1676)
 1. [Create a handbook include for displaying recent release post items from a group](https://gitlab.com/gitlab-com/Product/-/issues/1681)
