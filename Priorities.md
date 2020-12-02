@@ -22,8 +22,8 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-11-30
-1. [Coverage for Kevin while he's CEO Shadowing](https://gitlab.com/gitlab-com/Product/-/issues/1742)
-1. [Fix TAM/SAM Calculations Using New Functional Market Breakout](https://gitlab.com/gitlab-com/Product/-/issues/1787)
+1. Y - [Coverage for Kevin while he's CEO Shadowing](https://gitlab.com/gitlab-com/Product/-/issues/1742)
+1. Y - [Fix TAM/SAM Calculations Using New Functional Market Breakout](https://gitlab.com/gitlab-com/Product/-/issues/1787)
 1. [Review Direction and other Monthly Updates](https://gitlab.com/gitlab-com/Product/-/issues/1751)
 1. [Finalize and Present Sensing Mechanism Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. [Consider Group Direction Pages (instead of Category)](https://gitlab.com/gitlab-com/Product/-/issues/1792)
