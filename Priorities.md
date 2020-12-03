@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Consider Group Direction Pages (instead of Category)](https://gitlab.com/gitlab-com/Product/-/issues/1792)
 1. [Communicate Future Investment Plan by Category in Groups](https://gitlab.com/gitlab-com/Product/-/issues/1708)
 1. [Add Product Group displays to Ops Section Page](https://gitlab.com/gitlab-com/Product/-/issues/1676)
-1. [Ensure BambooHR and Team.yml are in sync](https://gitlab.com/gitlab-com/Product/-/issues/1772)
+1. N - [Ensure BambooHR and Team.yml are in sync](https://gitlab.com/gitlab-com/Product/-/issues/1772)
 1. Learning Goal - Create my own [Ops Section Chart in Sisense](https://gitlab.com/gitlab-com/Product/-/issues/1793)
 
 ## 2020-11-23
