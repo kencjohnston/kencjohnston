@@ -26,7 +26,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Fix TAM/SAM Calculations Using New Functional Market Breakout](https://gitlab.com/gitlab-com/Product/-/issues/1787)
 1. [Review Direction and other Monthly Updates](https://gitlab.com/gitlab-com/Product/-/issues/1751)
 1. [Finalize and Present Sensing Mechanism Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1540)
-1. [Consider Group Direction Pages (instead of Category)](https://gitlab.com/gitlab-com/Product/-/issues/1792)
+1. Y - [Consider Group Direction Pages (instead of Category)](https://gitlab.com/gitlab-com/Product/-/issues/1792)
 1. [Communicate Future Investment Plan by Category in Groups](https://gitlab.com/gitlab-com/Product/-/issues/1708)
 1. [Add Product Group displays to Ops Section Page](https://gitlab.com/gitlab-com/Product/-/issues/1676)
 1. N - [Ensure BambooHR and Team.yml are in sync](https://gitlab.com/gitlab-com/Product/-/issues/1772)
