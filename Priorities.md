@@ -22,9 +22,9 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-12-07
-1. Prep for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1799)
-1. Make Progress on organizing for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
-1. Update `What's New` to the description and files and Merge the [TAM/SAM Fix](https://gitlab.com/gitlab-com/Product/-/issues/1787)
+1. Y - Prep for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1799)
+1. Y - Make Progress on organizing for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
+1. Y - Update `What's New` to the description and files and Merge the [TAM/SAM Fix](https://gitlab.com/gitlab-com/Product/-/issues/1787)
 1. [Finalize and Present Sensing Mechanism Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1540)
 1. [Improve our use of the word `land` in our Product Direction](https://gitlab.com/gitlab-com/Product/-/issues/1818)
 1. [Communicate Future Investment Plan by Category in Groups](https://gitlab.com/gitlab-com/Product/-/issues/1708)
