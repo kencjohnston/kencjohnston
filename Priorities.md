@@ -26,7 +26,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Make Progress on organizing for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
 1. Y - Update `What's New` to the description and files and Merge the [TAM/SAM Fix](https://gitlab.com/gitlab-com/Product/-/issues/1787)
 1. Y - [Finalize and Present Sensing Mechanism Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1540)
-1. [Improve our use of the word `land` in our Product Direction](https://gitlab.com/gitlab-com/Product/-/issues/1818)
+1. Y - [Improve our use of the word `land` in our Product Direction](https://gitlab.com/gitlab-com/Product/-/issues/1818)
 1. [Communicate Future Investment Plan by Category in Groups](https://gitlab.com/gitlab-com/Product/-/issues/1708)
 1. [Add Product Group displays to Ops Section Page](https://gitlab.com/gitlab-com/Product/-/issues/1676)
 1. Learning Goal - Create my own [Ops Section Chart in Sisense](https://gitlab.com/gitlab-com/Product/-/issues/1793)
