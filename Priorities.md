@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-12-14
 Shorter week with Friends and Family Day on Friday.
 1. [Ops Section PM - Annual Performance Review Conversations](https://gitlab.com/gitlab-com/Product/-/issues/1851)
-1. [Update Auto DevOps Vision](https://gitlab.com/gitlab-com/Product/-/issues/1843)
+1. Y - [Update Auto DevOps Vision](https://gitlab.com/gitlab-com/Product/-/issues/1843)
 1. [Prep and Delivery 13.8 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1826)
 1. [Review GitHub Public Roadmap](https://gitlab.com/gitlab-com/Product/-/issues/1846)
 1. Y - [Weekly Commit Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1850)
