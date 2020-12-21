@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2020-12-21
 Short week, on PTO W-F.
-1. [Contribute Ops Content for SKO Product Key Note](https://gitlab.com/gitlab-com/Product/-/issues/1856)
+1. Y - [Contribute Ops Content for SKO Product Key Note](https://gitlab.com/gitlab-com/Product/-/issues/1856)
 1. [Merge Updated Auto DevOps Vision](https://gitlab.com/gitlab-com/Product/-/issues/1843)
 1. [Distill the lessons learned from IaC Initial Success](https://gitlab.com/gitlab-com/Product/-/issues/1858)
 1. [Ops Section PI Exploration](https://gitlab.com/gitlab-com/Product/-/issues/1857)
