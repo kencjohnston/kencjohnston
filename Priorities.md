@@ -21,6 +21,14 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-12-21
+Short week, on PTO W-F.
+1. [Contribute Ops Content for SKO Product Key Note](https://gitlab.com/gitlab-com/Product/-/issues/1856)
+1. [Merge Updated Auto DevOps Vision](https://gitlab.com/gitlab-com/Product/-/issues/1843)
+1. [Distill the lessons learned from IaC Initial Success](https://gitlab.com/gitlab-com/Product/-/issues/1858)
+1. [Ops Section PI Exploration](https://gitlab.com/gitlab-com/Product/-/issues/1857)
+1. Learning Goal - [Walk Through GitLab CI - Focus on what things aren't named](https://gitlab.com/gitlab-com/Product/-/issues/1848)
+
 ## 2020-12-14
 Shorter week with Friends and Family Day on Friday.
 1. Y - [Ops Section PM - Annual Performance Review Conversations](https://gitlab.com/gitlab-com/Product/-/issues/1851)
@@ -28,7 +36,7 @@ Shorter week with Friends and Family Day on Friday.
 1. Y - [Prep and Delivery 13.8 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/1826)
 1. Y - [Review GitHub Public Roadmap](https://gitlab.com/gitlab-com/Product/-/issues/1846)
 1. Y - [Weekly Commit Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1850)
-1. Learning Goal - [Package Data Audit for items to display in UI](https://gitlab.com/gitlab-org/gitlab/-/issues/260426)
+1. Y - Learning Goal - [Package Data Audit for items to display in UI](https://gitlab.com/gitlab-org/gitlab/-/issues/260426)
 
 ## 2020-12-07
 1. Y - Prep for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1799)
