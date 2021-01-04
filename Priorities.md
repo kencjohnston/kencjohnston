@@ -27,7 +27,7 @@ Happy New Year :tada:! Limited availability with a Product Leadership Offsite th
 1. [Prep for Ops Section PI Update](https://gitlab.com/gitlab-com/Product/-/issues/1929)
 1. Progress [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801) issue
 1. Track [GitHub Public Roadmap Review Activities](https://gitlab.com/gitlab-com/Product/-/issues/1846)
-1. [Add Product Group Presentation to Ops Section Page](https://gitlab.com/gitlab-com/Product/-/issues/1676)
+1. Y - [Add Product Group Presentation to Ops Section Page](https://gitlab.com/gitlab-com/Product/-/issues/1676)
 1. [Create a weekly walk through issue template automation](https://gitlab.com/gitlab-com/Product/-/issues/1934)
 1. Learning Goal - None this week due to to PLT Offsite
 
