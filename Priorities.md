@@ -29,6 +29,7 @@ Happy New Year :tada:! Limited availability with a Product Leadership Offsite th
 1. Y - Track [GitHub Public Roadmap Review Activities](https://gitlab.com/gitlab-com/Product/-/issues/1846)
 1. Y - [Add Product Group Presentation to Ops Section Page](https://gitlab.com/gitlab-com/Product/-/issues/1676)
 1. Y - [Create a weekly walk through issue template automation](https://gitlab.com/gitlab-com/Product/-/issues/1934)
+1. Add a [Communicating to Internal Executives Competency](https://gitlab.com/gitlab-com/Product/-/issues/1259)
 1. Learning Goal - None this week due to to PLT Offsite
 
 ## 2020-12-21
