@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 ## 202-01-04
 Happy New Year :tada:! Limited availability with a Product Leadership Offsite this week.
 1. Y - Participate in Product Leadership Offsite
-1. [Prep for Ops Section PI Update](https://gitlab.com/gitlab-com/Product/-/issues/1929)
+1. Y - [Prep for Ops Section PI Update](https://gitlab.com/gitlab-com/Product/-/issues/1929)
 1. Progress [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801) issue
 1. Track [GitHub Public Roadmap Review Activities](https://gitlab.com/gitlab-com/Product/-/issues/1846)
 1. Y - [Add Product Group Presentation to Ops Section Page](https://gitlab.com/gitlab-com/Product/-/issues/1676)
