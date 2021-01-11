@@ -31,7 +31,7 @@ Shorter week with Friends and Family Day on Friday
 1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959)
 1. [13.9 Release Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1944)
 1. [Finalize and Close Out GitHub Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/1846)
-1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1976)
+1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1976)
 
 ## 2020-01-04
 Happy New Year :tada:! Limited availability with a Product Leadership Offsite this week.
