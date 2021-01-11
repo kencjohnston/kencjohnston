@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2020-01-11
 Shorter week with Friends and Family Day on Friday
 1. Solidify Next Steps for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
-1. Participate in and [Follow Up from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1929)
+1. Y - Participate in and [Follow Up from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1929)
 1. [Team Compensation Review](https://gitlab.com/gitlab-com/Product/-/issues/1961)
 1. [Draft and Prepare to Publish blog post on Completing the Feedback Loop](https://gitlab.com/gitlab-com/Product/-/issues/1977)
 1. [Monthly MVC, New Config and Pricing Review](https://gitlab.com/gitlab-com/Product/-/issues/1963)
