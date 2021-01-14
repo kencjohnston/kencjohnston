@@ -26,7 +26,7 @@ Shorter week with Friends and Family Day on Friday
 1. Solidify Next Steps for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
 1. Y - Participate in and [Follow Up from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1929)
 1. [Team Compensation Review](https://gitlab.com/gitlab-com/Product/-/issues/1961)
-1. [Draft and Prepare to Publish blog post on Completing the Feedback Loop](https://gitlab.com/gitlab-com/Product/-/issues/1977)
+1. Y - [Draft and Prepare to Publish blog post on Completing the Feedback Loop](https://gitlab.com/gitlab-com/Product/-/issues/1977)
 1. [Monthly MVC, New Config and Pricing Review](https://gitlab.com/gitlab-com/Product/-/issues/1963)
 1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959)
 1. [13.9 Release Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1944)
