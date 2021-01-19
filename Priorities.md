@@ -21,16 +21,26 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-01-19
+Shorter week with MLKJ Day on Monday
+1. [Kickoff Prep and Delivery](https://gitlab.com/gitlab-com/Product/-/issues/1944)
+1. Ensure we have strong next steps for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
+1. [Publish Blog Post for Completing the DevOps Loop](https://gitlab.com/gitlab-com/Product/-/issues/1977)
+1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
+1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/2009) now with insights on Tech Evals!
+1. [Finalize and Close Out GitHub Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/1846)
+1. Learning Goal - Attend [Crucial Conversation Training](https://gitlab.com/gitlab-com/Product/-/issues/1810)
+
 ## 2020-01-11
 Shorter week with Friends and Family Day on Friday
-1. Y- Solidify Next Steps for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
+1. Y - Solidify Next Steps for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
 1. Y - Participate in and [Follow Up from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/1929)
 1. Y - [Team Compensation Review](https://gitlab.com/gitlab-com/Product/-/issues/1961)
 1. Y - [Draft and Prepare to Publish blog post on Completing the Feedback Loop](https://gitlab.com/gitlab-com/Product/-/issues/1977)
 1. Y - [Monthly MVC, New Config and Pricing Review](https://gitlab.com/gitlab-com/Product/-/issues/1963)
-1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959)
+1. N - [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959)
 1. Y - [13.9 Release Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/1944)
-1. [Finalize and Close Out GitHub Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/1846)
+1. N - [Finalize and Close Out GitHub Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/1846)
 1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/1976)
 
 ## 2020-01-04
