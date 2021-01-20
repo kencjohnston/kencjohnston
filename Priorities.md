@@ -28,7 +28,7 @@ Shorter week with MLKJ Day on Monday
 1. Ensure we have strong next steps for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
 1. Y - [Publish Blog Post for Completing the DevOps Loop](https://gitlab.com/gitlab-com/Product/-/issues/1977)
 1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
-1. [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/2009) now with insights on Tech Evals!
+1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/2009) now with insights on Tech Evals!
 1. [Finalize and Close Out GitHub Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/1846)
 1. Learning Goal - Attend [Crucial Conversation Training](https://gitlab.com/gitlab-com/Product/-/issues/1810)
 
