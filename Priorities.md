@@ -21,13 +21,17 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2020-01-25
+1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
+1. [Ensure PMs are Providing a Compelling Vision and Goal](https://gitlab.com/gitlab-com/Product/-/issues/2025) to Product Groups
+
 ## 2020-01-19
 Shorter week with MLKJ Day on Monday
 1. Y - [Kickoff Prep and Delivery](https://gitlab.com/gitlab-com/Product/-/issues/1944)
 1. Y - [Provide Ops Section Tier Content for SKO](https://gitlab.com/gitlab-com/Product/-/issues/2017)
 1. Y - Ensure we have strong next steps for [Auto DevOps Adoption](https://gitlab.com/gitlab-com/Product/-/issues/1801)
 1. Y - [Publish Blog Post for Completing the DevOps Loop](https://gitlab.com/gitlab-com/Product/-/issues/1977)
-1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
+1. N - [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
 1. Y - [Weekly Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/2009) now with insights on Tech Evals!
 1. Y - [Finalize and Close Out GitHub Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/1846)
 1. Y - Learning Goal - Attend [Crucial Conversation Training](https://gitlab.com/gitlab-com/Product/-/issues/1810)
