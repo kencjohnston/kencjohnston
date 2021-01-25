@@ -22,8 +22,12 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2020-01-25
+1. Attend and Participate in the Product [Crucial Conversations Training](https://gitlab.com/gitlab-com/Product/-/issues/1810)
 1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
 1. [Ensure PMs are Providing a Compelling Vision and Goal](https://gitlab.com/gitlab-com/Product/-/issues/2025) to Product Groups
+1. [Remind PMs to Consider Discertionary Bonus for Product Group Members](https://gitlab.com/gitlab-com/Product/-/issues/2024)
+1. [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
+1. Learning Goal - Weekly Walk Through! 
 
 ## 2020-01-19
 Shorter week with MLKJ Day on Monday
