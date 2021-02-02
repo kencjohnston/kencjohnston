@@ -22,13 +22,22 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2020-01-25
+## 2021-02-01
+:tada: Start of a new Fiscal Year!
+1. Attend [Sales QBRs](https://gitlab.com/gitlab-com/Product/-/issues/2089) on Wed, Thur and Friday
+1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
+1. [Make Progress on Guided CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978) content
+1. [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
+1. [Reach out to Billionth Pipeline User](https://gitlab.com/gitlab-com/Product/-/issues/2087)
+1. [Improve Source-a-thon Scheduling for better geographic distribution in hiring](https://gitlab.com/gitlab-com/Product/-/issues/2081)
+
+## 2021-01-25
 1. Y - Attend and Participate in the Product [Crucial Conversations Training](https://gitlab.com/gitlab-com/Product/-/issues/1810)
 1. Y - Complete [Direction Page changes as part of our Tiering change announcement](https://gitlab.com/gitlab-com/packaging-and-pricing/pricing-handbook/-/issues/324)
-1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
+1. N - [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
 1. Y - [Ensure PMs are Providing a Compelling Vision and Goal](https://gitlab.com/gitlab-com/Product/-/issues/2025) to Product Groups
 1. Y - [Remind PMs to Consider Discertionary Bonus for Product Group Members](https://gitlab.com/gitlab-com/Product/-/issues/2024)
-1. [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
+1. N - [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
 1. Learning Goal - Weekly Walk Through! 
 
 ## 2020-01-19
