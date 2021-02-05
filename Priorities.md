@@ -25,10 +25,10 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-02-01
 :tada: Start of a new Fiscal Year!
 1. Y - Attend [Sales QBRs](https://gitlab.com/gitlab-com/Product/-/issues/2089) on Wed, Thur and Friday
-1. [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
-1. [Make Progress on Guided CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978) content
-1. [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
-1. [Reach out to Billionth Pipeline User](https://gitlab.com/gitlab-com/Product/-/issues/2087)
+1. N - [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
+1. N - [Make Progress on Guided CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978) content
+1. N - [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
+1. N - [Reach out to Billionth Pipeline User](https://gitlab.com/gitlab-com/Product/-/issues/2087)
 1. Y - [Improve Source-a-thon Scheduling for better geographic distribution in hiring](https://gitlab.com/gitlab-com/Product/-/issues/2081)
 
 ## 2021-01-25
