@@ -32,6 +32,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
 1. [Complete Competitor Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/2074)
 1. [MVC and New Config Review](https://gitlab.com/gitlab-com/Product/-/issues/2121)
+1. Learning Goal - [Azure DevOps Pipelines](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/)
 
 ## 2021-02-01
 :tada: Start of a new Fiscal Year!
