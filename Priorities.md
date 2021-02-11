@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-02-08
-1. [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2073)
+1. Y - [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2073)
 1. Y - Support the Opening of [Dev::Create GMP Role and Interview Process](https://gitlab.com/gitlab-com/Product/-/issues/2127)
 1. Reach out (or delegate) to our [Billionth Build User](https://gitlab.com/gitlab-com/Product/-/issues/2087)
 1. Y - [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
