@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
 1. Y - Propose a plan for [Encourage more Product Engagement in R&D Retros](https://gitlab.com/gitlab-com/Product/-/issues/2111)
 1. [Make Progress on Guided CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978) content
-1. [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
+1. Y - [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
 1. Y - [Complete Competitor Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/2074)
 1. Y - [MVC and New Config Review](https://gitlab.com/gitlab-com/Product/-/issues/2121)
 1. Learning Goal - [Azure DevOps Pipelines](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/)
