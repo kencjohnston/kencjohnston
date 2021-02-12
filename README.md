@@ -37,6 +37,7 @@ If we are working together, or even if we aren't, here are some things it might 
 ### Leadership
 * 👣 I'm a values leader, and I am very bought in to [GitLab's values](https://about.gitlab.com/handbook/values/). As a leader it is my responsibility to educate others, and advocate for our values. Please let me know if I'm failing to meet that standard. 
 * I want to be the type of leader I'd like to have - Loving, Trusting, Fair and Consistent.
+* 👣 My even keeled-ness can lead to my not showcasing my excitement. I'm working on making sure I pause, recognize accomplishment and highlight my excitement for where my team, product and company are headed.
 * I aspire to be a servant leader, but I've got a long-way to go. Please provide me feedback to help me get there.
 * I believe as a leader you get back what you give out. I once heard a talk that hypothesized that [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) tells us that if we want lovable results OUT of our teams, we have to have put love IN to them.
 * I want each of my team members to know they are a valuable contributor to a winning team and give them an inspiring mission.
@@ -44,8 +45,9 @@ If we are working together, or even if we aren't, here are some things it might 
 * I believe my role as a leader is to run straight at murkey or persistent problems. Feel free to point me in their direction. 
 * I was changed by the book [Drive](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/r), it helped me understand motivation in a new way. I always want a [team of missionaries, not mercenaries](https://svpg.com/missionaries-vs-mercenaries/). 
 * 👣 I'm working on being a better delegater, feel free to call me out if I'm leaving delegation ambigous or not delegating enough.
+* I believe that the job of a leader is to create capacity, whether through structure, empowerment or inspiration. 
+* No matter where I go, I consider myself a values advocate. As a leader it's my job to project, promote and further our companies values.
 * I tend to be direct, and I HATE micro-managing.
-
 
 ### Logistics
 * My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
@@ -70,7 +72,6 @@ If we are working together, or even if we aren't, here are some things it might 
 * I consider Slack to be asynchronous. If there is a timeline for a request you might have please specificy it. For example - "Hey, can you review the Kickoff list prior to the kickoff meeting tomorrow?"
 * I'm a big believer in inbox zero and I process my email, slack and GitLab TODO inbox to zero multiple times a day to keep my focus on my [personal GitLab issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston).
 * I use ToDoist for short-term tasks and reminders that aren't appropriate for GitLab issues.
-* 👣 I will add `FYI` or `FYA/R` (and avoid the non-specific CC) to responses to ensure I'm setting expectations correctly.
 * 👣 I'm still learning how to balance [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) and that can sometimes result in more annoyance then effectiveness. Please don't hesitate to call me out if you feel like I'm over-communicating.
 
 ### Teams I Support
@@ -80,7 +81,8 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * I will never take offense to skip-leveling, if you have a concern [you can and should take it to whoever you think will be effective in alleviating it](https://about.gitlab.com/handbook/leadership/#communication-should-be-direct-not-hierarchical).
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 * When sharing info with me, my preference is to consume YOUR expertise. Rather than sharing an Analyst Report relevant for your categories, share an MR where you reference it and highlight how it impacts your product scope.
-* I'll often provide feedback about a general pattern or trend and intentioanlly do not expect response or action on the specific example. When doing so I'll preface my comments with `FYI`.
+* 👣 I don't always do the best just of communicating priority, and expected actions when requesting them from team members. I'm working on doing so to enable you to make smart effectiveness choices. I will always thank you for asking for the Why, or an indication of priority.
+* 👣 I will add `FYI` or `FYA/R` (and avoid the non-specific CC) to responses to ensure I'm setting expectations correctly.
 
 #### 1 to 5s
 In order to get a better sense of our personal and professional ups and downs - I like to share "1 to 5s" at the start of 1:1s and team meetings. The process is for each team member to answer the question:
