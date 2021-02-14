@@ -30,7 +30,7 @@ If we are working together, or even if we aren't, here are some things it might 
 ### Product
 * I LOVE the function of Product Management. In my first tech-job after meeting a Product Manager I immediately thought - "That's who I want to be when I grow up!"
 * I'm a strong believer that while product managers are typically hyper-efficient individuals, they are one of the few individuals driving a company's effectiveness.
-* It can be hard to strike the balance between ambition and pursuit of new markets, and focus on delivering results in immediate ajacencies. Product Managers are one of the few groups looking out for those opportunities. I'm always interested in hearing and helping you evaluate new investment opportunities.
+* It can be hard to strike the balance between ambition and pursuit of new markets, and focus on delivering results in immediate adjacencies. Product Managers are one of the few groups looking out for those opportunities. I'm always interested in hearing and helping you evaluate new investment opportunities.
 * 👣 I'm working on striking the right balance between providing more direct input into Product Direction and empowering autonomy in teams I support. Please do not hesitate to call me out if I'm being overly directive.
 * I really enjoy coaching, mentoring and advising Product Managers. Do not hestitate to reach out to me.
 
