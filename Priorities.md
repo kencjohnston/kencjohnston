@@ -37,11 +37,11 @@ Short week because of US President's Day Holiday. Also :scream: - [My Board Isn'
 1. Y - Reach out (or delegate) to our [Billionth Build User](https://gitlab.com/gitlab-com/Product/-/issues/2087)
 1. Y - [Follow Up from Ops Section Offsite](https://gitlab.com/gitlab-com/Product/-/issues/1959) via [Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2005)
 1. Y - Propose a plan for [Encourage more Product Engagement in R&D Retros](https://gitlab.com/gitlab-com/Product/-/issues/2111)
-1. [Make Progress on Guided CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978) content
+1. N - [Make Progress on Guided CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978) content
 1. Y - [Create a Window in Problem and Solution Validation](https://gitlab.com/gitlab-com/Product/-/issues/1941)
 1. Y - [Complete Competitor Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/2074)
 1. Y - [MVC and New Config Review](https://gitlab.com/gitlab-com/Product/-/issues/2121)
-1. Learning Goal - [Azure DevOps Pipelines](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/)
+1. N - Learning Goal - [Azure DevOps Pipelines](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/)
 
 ## 2021-02-01
 :tada: Start of a new Fiscal Year!
