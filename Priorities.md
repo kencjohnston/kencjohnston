@@ -22,9 +22,14 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-02-22
+It's Release Day :rocket:, and I'm [OoO Tuesday-Thursday](https://gitlab.com/gitlab-com/Product/-/issues/2196) with F&F Day on Friday. 
+1. [Communicate Change of Speciality SSSOT](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
+1. Interviews for the GMP, Create position on Monday
+
 ## 2021-02-15
 Short week because of US President's Day Holiday. Also :scream: - [My Board Isn't Working](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston)! Update - It works now. :smile:
-1. [Communicate Change of Speciality SSSOT](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
+1. N - [Communicate Change of Speciality SSSOT](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. Y - [Coordinate and Delegate Vision for Pipeline/Jobs](https://gitlab.com/gitlab-com/Product/-/issues/2116)
 1. N - [Script for GitLab CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978)
 1. N - [Make Progress on Product Financial Model](https://gitlab.com/gitlab-com/Product/-/issues/2152)
