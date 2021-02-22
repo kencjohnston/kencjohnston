@@ -26,9 +26,9 @@ These designations are added to the previous week's priority list when adding th
 Short week because of US President's Day Holiday. Also :scream: - [My Board Isn't Working](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston)! Update - It works now. :smile:
 1. [Communicate Change of Speciality SSSOT](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. Y - [Coordinate and Delegate Vision for Pipeline/Jobs](https://gitlab.com/gitlab-com/Product/-/issues/2116)
-1. [Script for GitLab CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978)
-1. [Make Progress on Product Financial Model](https://gitlab.com/gitlab-com/Product/-/issues/2152)
-1. [Turn the Ops Direction Page into a Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
+1. N - [Script for GitLab CI/CD Introduction](https://gitlab.com/gitlab-com/Product/-/issues/1978)
+1. N - [Make Progress on Product Financial Model](https://gitlab.com/gitlab-com/Product/-/issues/2152)
+1. N - [Turn the Ops Direction Page into a Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
 1. Y - Learning Goal - [Gitaly and Infrastructure/Cost Challenges](https://gitlab.com/gitlab-com/Product/-/issues/2149)
 
 ## 2021-02-08
