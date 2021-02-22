@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-02-22
 It's Release Day :rocket:, and I'm [OoO Tuesday-Thursday](https://gitlab.com/gitlab-com/Product/-/issues/2196) with F&F Day on Friday. 
-1. x - [Communicate Change of Speciality SSSOT](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
+1. Y - [Communicate Change of Speciality SSSOT](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. Interviews for the GMP, Create position on Monday
 
 ## 2021-02-15
