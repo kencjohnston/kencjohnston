@@ -28,9 +28,9 @@ Happy March :four_leaf_clover:!
 1. [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2186)
 1. [Follow Up Updates for Specialty Field Addition](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. [Convert Direction into Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
-1. [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/2223) 
+1. Y - [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/2223) 
 1. [Progress on Product Finance Model](https://gitlab.com/gitlab-com/Product/-/issues/2152)
-1. [Clarify where TAM Means Total Addressable Market](https://gitlab.com/gitlab-com/Product/-/issues/2174)
+1. Y - [Clarify where TAM Means Total Addressable Market](https://gitlab.com/gitlab-com/Product/-/issues/2174)
 1. Learning Goal - [Review other Product Orgs Investment Process](https://gitlab.com/gitlab-com/Product/-/issues/2231)
 
 ## 2021-02-22
