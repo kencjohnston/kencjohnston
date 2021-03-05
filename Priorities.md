@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-03-01
 Happy March :four_leaf_clover:!
-1. [Finalize and Summarize Insights from QBRs](https://gitlab.com/gitlab-com/Product/-/issues/2089)
+1. Y - [Propose Summary Insights from QBRs](https://gitlab.com/gitlab-com/Product/-/issues/2089)
 1. [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2186)
 1. [Follow Up Updates for Specialty Field Addition](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. [Convert Direction into Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
