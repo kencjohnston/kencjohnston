@@ -31,7 +31,7 @@ Happy March :four_leaf_clover:!
 1. Y - [Top Opportunity Review](https://gitlab.com/gitlab-com/Product/-/issues/2223) 
 1. Y - [Progress on Product Finance Model](https://gitlab.com/gitlab-com/Product/-/issues/2152)
 1. Y - [Clarify where TAM Means Total Addressable Market](https://gitlab.com/gitlab-com/Product/-/issues/2174)
-1. Learning Goal - [Review other Product Orgs Investment Process](https://gitlab.com/gitlab-com/Product/-/issues/2231)
+1. N - Learning Goal - [Review other Product Orgs Investment Process](https://gitlab.com/gitlab-com/Product/-/issues/2231)
 
 ## 2021-02-22
 It's Release Day :rocket:, and I'm [OoO Tuesday-Thursday](https://gitlab.com/gitlab-com/Product/-/issues/2196) with F&F Day on Friday. 
