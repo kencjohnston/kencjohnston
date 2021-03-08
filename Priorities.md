@@ -27,7 +27,7 @@ Happy International Women's Day!
 
 1. [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2186)
 1. [Convert Direction into Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
-1. [Follow Up Updates for Specialty Field Addition](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
+1. Y - [Follow Up Updates for Specialty Field Addition](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. [Distribute Insights from QBRs](https://gitlab.com/gitlab-com/Product/-/issues/2089)
 1. [Document how to Consider External Opportunities as a GitLab PM](https://gitlab.com/gitlab-com/Product/-/issues/2240)
 1. [Progress on Product Finance Model](https://gitlab.com/gitlab-com/Product/-/issues/2152)
