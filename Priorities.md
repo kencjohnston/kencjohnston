@@ -23,6 +23,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-03-08
+Happy International Women's Day!
 
 1. [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2186)
 1. [Convert Direction into Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
