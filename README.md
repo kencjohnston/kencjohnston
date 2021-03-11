@@ -35,7 +35,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I really enjoy coaching, mentoring and advising Product Managers. Do not hestitate to reach out to me.
 
 ### Leadership
-* 👣 I'm a values leader, and I am very bought in to [GitLab's values](https://about.gitlab.com/handbook/values/). As a leader it is my responsibility to educate others, and advocate for our values. Please let me know if I'm failing to meet that standard. 
+* 👣 I'm a values leader, and I am very bought in to [GitLab's values](https://about.gitlab.com/handbook/values/). As a leader it is my responsibility to educate others, and project, promote and further our values. Please let me know if I'm failing to meet that standard. 
 * I want to be the type of leader I'd like to have - Loving, Trusting, Fair and Consistent.
 * 👣 My even keeled-ness can lead to my not showcasing my excitement. I'm working on making sure I pause, recognize accomplishment and highlight my excitement for where my team, product and company are headed.
 * I aspire to be a servant leader, but I've got a long-way to go. Please provide me feedback to help me get there.
@@ -46,7 +46,6 @@ If we are working together, or even if we aren't, here are some things it might 
 * I was changed by the book [Drive](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/r), it helped me understand motivation in a new way. I always want a [team of missionaries, not mercenaries](https://svpg.com/missionaries-vs-mercenaries/). 
 * 👣 I'm working on being a better delegater, feel free to call me out if I'm leaving delegation ambigous or not delegating enough.
 * I believe that the job of a leader is to create capacity, whether through structure, empowerment or inspiration. 
-* No matter where I go, I consider myself a values advocate. As a leader it's my job to project, promote and further our companies values.
 * I tend to be direct, and I HATE micro-managing.
 
 ### Logistics
@@ -86,7 +85,7 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 
 #### 1 to 5s
 In order to get a better sense of our personal and professional ups and downs - I like to share "1 to 5s" at the start of 1:1s and team meetings. The process is for each team member to answer the question:
-> As a combination both personal and professional - one a scale of 1-5 (with 1 being a horrible day and 5 being an amazing day) how are you today?
+> As a combination both personal and professional - on a scale of 1-5 (with 1 being a horrible day and 5 being an amazing day) - how are you today?
 
 ### Personality Tests
 * [Social Style](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) - Officially [Amiable but right down the middle](https://gitlab.com/kencjohnston/README/-/blob/master/social-styles.png)
