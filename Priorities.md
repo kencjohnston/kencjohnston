@@ -25,13 +25,13 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-03-08
 Happy International Women's Day!
 
-1. [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2186)
+1. Y - [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2186)
 1. [Convert Direction into Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
 1. Y - [Follow Up Updates for Specialty Field Addition](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. [Distribute Insights from QBRs](https://gitlab.com/gitlab-com/Product/-/issues/2089)
 1. Y - [Document how to Consider External Opportunities as a GitLab PM](https://gitlab.com/gitlab-com/Product/-/issues/2240)
 1. [Progress on Product Finance Model](https://gitlab.com/gitlab-com/Product/-/issues/2152)
-1. [Encourage More Engagement from all R&D Functions in Retrospectives](https://gitlab.com/gitlab-com/Product/-/issues/2111)
+1. Y - [Encourage More Engagement from all R&D Functions in Retrospectives](https://gitlab.com/gitlab-com/Product/-/issues/2111)
 1. Learning Goal - [Review other Product Orgs Investment Process](https://gitlab.com/gitlab-com/Product/-/issues/2231)
 
 ## 2021-03-01
