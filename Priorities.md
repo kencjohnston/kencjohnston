@@ -32,7 +32,7 @@ Happy International Women's Day!
 1. Y - [Document how to Consider External Opportunities as a GitLab PM](https://gitlab.com/gitlab-com/Product/-/issues/2240)
 1. Y - [Progress on Product Finance Model](https://gitlab.com/gitlab-com/Product/-/issues/2152)
 1. Y - [Encourage More Engagement from all R&D Functions in Retrospectives](https://gitlab.com/gitlab-com/Product/-/issues/2111)
-1. Learning Goal - [Review other Product Orgs Investment Process](https://gitlab.com/gitlab-com/Product/-/issues/2231)
+1. Y - Learning Goal - [Review other Product Orgs Investment Process](https://gitlab.com/gitlab-com/Product/-/issues/2231)
 
 ## 2021-03-01
 Happy March :four_leaf_clover:!
