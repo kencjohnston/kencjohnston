@@ -22,11 +22,23 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-03-15
+My [board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston) is back! I'm going to be putting some emphasis on my #1 priority, Team Development, this week.
+
+1. [Clarify Reponsibilities between GMP and Director of Product](https://gitlab.com/gitlab-com/Product/-/issues/2279)
+1. [Update CDF for GMPs](https://gitlab.com/gitlab-com/Product/-/issues/2301)
+1. [Ops Section Cross Functional Career Devleopment](https://gitlab.com/gitlab-com/Product/-/issues/2233)
+1. [Prep for 13.11 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2253)
+1. [Document Investment Process for Sections](https://gitlab.com/gitlab-com/Product/-/issues/2230)
+1. Next Steps to [Clarify R&D Wide Retrospectives](https://gitlab.com/gitlab-com/Product/-/issues/2111)
+1. Next Steps to [Move to BambooHR as SSOT for Specialty](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
+1. Learning Goal - Working with Kevin on the [Deployment direction](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/76519)
+
 ## 2021-03-08
 Happy International Women's Day!
 
 1. Y - [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2186)
-1. [Convert Direction into Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
+1. N - [Convert Direction into Pitch Deck](https://gitlab.com/gitlab-com/Product/-/issues/2136)
 1. Y - [Follow Up Updates for Specialty Field Addition](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. Y - [Distribute Insights from QBRs](https://gitlab.com/gitlab-com/Product/-/issues/2089)
 1. Y - [Document how to Consider External Opportunities as a GitLab PM](https://gitlab.com/gitlab-com/Product/-/issues/2240)
