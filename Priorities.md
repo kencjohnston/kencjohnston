@@ -27,7 +27,7 @@ My [board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_userna
 
 1. [Clarify Reponsibilities between GMP and Director of Product](https://gitlab.com/gitlab-com/Product/-/issues/2279)
 1. [Update CDF for GMPs](https://gitlab.com/gitlab-com/Product/-/issues/2301)
-1. [Ops Section Cross Functional Career Devleopment](https://gitlab.com/gitlab-com/Product/-/issues/2233)
+1. Y - [Ops Section Cross Functional Career Devleopment](https://gitlab.com/gitlab-com/Product/-/issues/2233)
 1. [Prep for 13.11 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2253)
 1. [Document Investment Process for Sections](https://gitlab.com/gitlab-com/Product/-/issues/2230)
 1. Next Steps to [Clarify R&D Wide Retrospectives](https://gitlab.com/gitlab-com/Product/-/issues/2111)
