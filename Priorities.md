@@ -26,10 +26,10 @@ These designations are added to the previous week's priority list when adding th
 My [board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston) is back! I'm going to be putting some emphasis on my #1 priority, Team Development, this week.
 
 1. [Clarify Reponsibilities between GMP and Director of Product](https://gitlab.com/gitlab-com/Product/-/issues/2279)
-1. [Update CDF for GMPs](https://gitlab.com/gitlab-com/Product/-/issues/2301)
+1. Y - [Update CDF for GMPs](https://gitlab.com/gitlab-com/Product/-/issues/2301)
 1. Y - [Ops Section Cross Functional Career Devleopment](https://gitlab.com/gitlab-com/Product/-/issues/2233)
 1. [Prep for 13.11 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2253)
-1. [Document Investment Process for Sections](https://gitlab.com/gitlab-com/Product/-/issues/2230)
+1. Y - [Document Investment Process for Sections](https://gitlab.com/gitlab-com/Product/-/issues/2230)
 1. Next Steps to [Clarify R&D Wide Retrospectives](https://gitlab.com/gitlab-com/Product/-/issues/2111)
 1. Next Steps to [Move to BambooHR as SSOT for Specialty](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240)
 1. Learning Goal - Working with Kevin on the [Deployment direction](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/76519)
