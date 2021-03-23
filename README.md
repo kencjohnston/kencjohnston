@@ -90,6 +90,7 @@ In order to get a better sense of our personal and professional ups and downs - 
 ### Personality Tests
 * [Social Style](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) - Officially [Amiable but right down the middle](https://gitlab.com/kencjohnston/README/-/blob/master/social-styles.png)
 * [Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx?utm_source=google&utm_medium=cpc&utm_campaign=Strengths_ECommerce_Brand_Search_US&utm_content=strengths%20finder&gclid=CjwKCAjwguzzBRBiEiwAgU0FT6jwCih5cTNJnta-h6m3YsJ5mAQG4dRikPdeCp79Wjp1mT0bGamTpRoCIM4QAvD_BwE) - Futuristic, Learner, Strategic, Ideation, Intellection (Note these are ALL in the Strategic Thinking quadrant)
+* [StandOut](https://www.marcusbuckingham.com/the-gift-of-standout/) Strengths Assessment - My top two strength roles are [Pioneer and Stimulator](https://gitlab.com/kencjohnston/README/-/blob/master/KCJ-StandoutReport.pdf)
 * [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) - [INFP](https://www.16personalities.com/infp-personality) - Borderline between I&E, strong N, border between T&F, extreme P
 
 ### Adaptable
