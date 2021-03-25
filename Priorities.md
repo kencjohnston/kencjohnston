@@ -29,7 +29,7 @@ Happy Release Day :rocket: and Spring :sunflower:!
 1. Y - [Prepare for and present Channel TechChat content for the Ops Section](https://gitlab.com/gitlab-com/channel/channels/-/issues/540)
 1. Y - Prepare for and Provide Jackie's CDF and Mark's Career Development Coaching Conversations
 1. Direction updates including [monthly updates](https://gitlab.com/gitlab-com/Product/-/issues/2317), turning it [into a pitch deck with slides](https://gitlab.com/gitlab-com/Product/-/issues/2136), and [focusing on team member connection to goal and mission](https://gitlab.com/gitlab-com/Product/-/issues/2302).
-1. [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2225) next Tuesday
+1. Y - [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2225) next Tuesday
 1. Progress [R&D Combined Retrospectives](https://gitlab.com/gitlab-com/Product/-/issues/2111) by adding PIs to Async Templates
 1. Progress [using BambooHR for Product Groups](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240) via Handbook Updates
 1. Learning Goal - [Pipeline Hierarchy](https://gitlab.com/gitlab-com/Product/-/issues/2308)
