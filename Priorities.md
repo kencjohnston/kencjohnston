@@ -25,7 +25,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-03-22
 Happy Release Day :rocket: and Spring :sunflower:!
 
-1. [Cover for Kevin while he's on PTO](https://gitlab.com/gitlab-com/Product/-/issues/2292)
+1. Y - [Cover for Kevin while he's on PTO](https://gitlab.com/gitlab-com/Product/-/issues/2292)
 1. Y - [Prepare for and present Channel TechChat content for the Ops Section](https://gitlab.com/gitlab-com/channel/channels/-/issues/540)
 1. Y - Prepare for and Provide Jackie's CDF and Mark's Career Development Coaching Conversations
 1. Direction updates including [monthly updates](https://gitlab.com/gitlab-com/Product/-/issues/2317), turning it [into a pitch deck with slides](https://gitlab.com/gitlab-com/Product/-/issues/2136), and [focusing on team member connection to goal and mission](https://gitlab.com/gitlab-com/Product/-/issues/2302).
