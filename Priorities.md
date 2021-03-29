@@ -22,17 +22,27 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-03-29
+I'm putting a focus on CDF content and Performance Indicators for GMPs this week.
+
+1. [Improve GMP CDF Content across all tracks](https://gitlab.com/gitlab-com/Product/-/issues/2345)
+1. [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
+1. Direction updates including [monthly updates](https://gitlab.com/gitlab-com/Product/-/issues/2317), turning it [into a pitch deck with slides](https://gitlab.com/gitlab-com/Product/-/issues/2136), and [focusing on team member connection to goal and mission](https://gitlab.com/gitlab-com/Product/-/issues/2302)
+1. [Increase awareness of in-app messaing options amongst ops section PMs](https://gitlab.com/gitlab-com/Product/-/issues/2342)
+1. [Kubernetes Agent Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/2190)
+1. Learning Goal - [Pipeline Hierarchy](https://gitlab.com/gitlab-com/Product/-/issues/2308)
+
 ## 2021-03-22
 Happy Release Day :rocket: and Spring :sunflower:!
 
 1. Y - [Cover for Kevin while he's on PTO](https://gitlab.com/gitlab-com/Product/-/issues/2292)
 1. Y - [Prepare for and present Channel TechChat content for the Ops Section](https://gitlab.com/gitlab-com/channel/channels/-/issues/540)
 1. Y - Prepare for and Provide Jackie's CDF and Mark's Career Development Coaching Conversations
-1. Direction updates including [monthly updates](https://gitlab.com/gitlab-com/Product/-/issues/2317), turning it [into a pitch deck with slides](https://gitlab.com/gitlab-com/Product/-/issues/2136), and [focusing on team member connection to goal and mission](https://gitlab.com/gitlab-com/Product/-/issues/2302).
+1. N - Direction updates including [monthly updates](https://gitlab.com/gitlab-com/Product/-/issues/2317), turning it [into a pitch deck with slides](https://gitlab.com/gitlab-com/Product/-/issues/2136), and [focusing on team member connection to goal and mission](https://gitlab.com/gitlab-com/Product/-/issues/2302).
 1. Y - [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2225) next Tuesday
 1. Y - Progress [R&D Combined Retrospectives](https://gitlab.com/gitlab-com/Product/-/issues/2111) by adding PIs to Async Templates
 1. Progress [using BambooHR for Product Groups](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/240) via Handbook Updates
-1. Learning Goal - [Pipeline Hierarchy](https://gitlab.com/gitlab-com/Product/-/issues/2308)
+1. N - Learning Goal - [Pipeline Hierarchy](https://gitlab.com/gitlab-com/Product/-/issues/2308)
 
 ## 2021-03-15
 My [board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston) is back! I'm going to be putting some emphasis on my #1 priority, Team Development, this week.
