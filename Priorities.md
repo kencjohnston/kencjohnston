@@ -22,7 +22,7 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2021-03-29
+## Current
 I'm putting a focus on CDF content and Performance Indicators for GMPs this week.
 
 1. [Improve GMP CDF Content across all tracks](https://gitlab.com/gitlab-com/Product/-/issues/2345)
