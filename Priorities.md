@@ -29,7 +29,7 @@ I'm putting a focus on CDF content and Performance Indicators for GMPs this week
 1. [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
 1. Direction updates including [monthly updates](https://gitlab.com/gitlab-com/Product/-/issues/2317), turning it [into a pitch deck with slides](https://gitlab.com/gitlab-com/Product/-/issues/2136), and [focusing on team member connection to goal and mission](https://gitlab.com/gitlab-com/Product/-/issues/2302)
 1. [Increase awareness of in-app messaing options amongst ops section PMs](https://gitlab.com/gitlab-com/Product/-/issues/2342)
-1. [Kubernetes Agent Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/2190)
+1. Y - [Kubernetes Agent Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/2190)
 1. Learning Goal - [Pipeline Hierarchy](https://gitlab.com/gitlab-com/Product/-/issues/2308)
 
 ## 2021-03-22
