@@ -22,13 +22,18 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## Current
-
-1. Y - Move forward on [Operationalizing the Ops Section](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/78952)
+## 2021-04-12
+1. [Follow Up from Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
 1. [Improve GMP CDF Content across all tracks](https://gitlab.com/gitlab-com/Product/-/issues/2345)
 1. [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
-1. Next Steps on [Defining Cross-Functional Career Development](https://gitlab.com/gitlab-com/Product/-/issues/2233)
-1. Complete the followup to [increase funnel understanding](https://gitlab.com/gitlab-com/Product/-/issues/2365) for our Ops Section PI Review
+
+## 2021-04-05
+
+1. Y - Move forward on [Operationalizing the Ops Section](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/78952)
+1. N - [Improve GMP CDF Content across all tracks](https://gitlab.com/gitlab-com/Product/-/issues/2345)
+1. N - [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
+1. N - Next Steps on [Defining Cross-Functional Career Development](https://gitlab.com/gitlab-com/Product/-/issues/2233)
+1. N - Complete the followup to [increase funnel understanding](https://gitlab.com/gitlab-com/Product/-/issues/2365) for our Ops Section PI Review
 1. Y - Review and cover highlights from this month's [Ops Section Direction updates](https://gitlab.com/gitlab-com/Product/-/issues/2317)
 1. N - Learning Goal - [Pipeline Hierarchy](https://gitlab.com/gitlab-com/Product/-/issues/2308)
 
