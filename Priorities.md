@@ -25,7 +25,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-04-19
 1. [Follow Up from Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
 1. [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
-1. [13.12 Kickoff Call](https://gitlab.com/gitlab-com/Product/-/issues/2383)
+1. Y - [13.12 Kickoff Call](https://gitlab.com/gitlab-com/Product/-/issues/2383)
 1. [Review Opportunities for Bending the Growth Curve](https://gitlab.com/gitlab-com/Product/-/issues/2424)
 1. [Monthly Direction Updates]() and [highlighting improvements that connect team members to goal/mission](https://gitlab.com/gitlab-com/Product/-/issues/2302)
 1. [Add On Call Schedule Management as a Category](https://gitlab.com/gitlab-com/Product/-/issues/2427)
