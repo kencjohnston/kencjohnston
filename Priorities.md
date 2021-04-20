@@ -50,13 +50,13 @@ These designations are added to the previous week's priority list when adding th
 
 I'm putting a focus on CDF content and Performance Indicators for GMPs this week.
 
-1. [Improve GMP CDF Content across all tracks](https://gitlab.com/gitlab-com/Product/-/issues/2345)
-1. [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
+1. N -[Improve GMP CDF Content across all tracks](https://gitlab.com/gitlab-com/Product/-/issues/2345)
+1. N - [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
 1. Y - Direction updates including [monthly updates](https://gitlab.com/gitlab-com/Product/-/issues/2317), turning it [into a pitch deck with slides](https://gitlab.com/gitlab-com/Product/-/issues/2136), and [focusing on team member connection to goal and mission](https://gitlab.com/gitlab-com/Product/-/issues/2302)
 1. Y - Deliver and follow up on [Ops Section PI review](https://gitlab.com/gitlab-com/Product/-/issues/2225)
 1. Y - Make progress on [increasing awareness of in-app messaing options amongst ops section PMs](https://gitlab.com/gitlab-com/Product/-/issues/2342)
 1. Y - [Kubernetes Agent Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/2190)
-1. Learning Goal - [Pipeline Hierarchy](https://gitlab.com/gitlab-com/Product/-/issues/2308)
+1. N - Learning Goal - [Pipeline Hierarchy](https://gitlab.com/gitlab-com/Product/-/issues/2308)
 
 ## 2021-03-22
 Happy Release Day :rocket: and Spring :sunflower:!
