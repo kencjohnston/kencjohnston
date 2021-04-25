@@ -22,14 +22,24 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-04-26
+I'll be transitioning interim management for Create Stage PMs to their new manager this week.
+
+1. [Deliver and Followup from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2421)
+1. [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2440)
+1. [Next Steps on Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
+1. [Next Steps on Bending the Growth Curve](https://gitlab.com/gitlab-com/Product/-/issues/2424)
+1. [Finalize Decision on SAST and Code Quality category](https://gitlab.com/gitlab-com/Product/-/issues/2426)
+1. [MR to Add On Call Schedule Management as a Category](https://gitlab.com/gitlab-com/Product/-/issues/2427)
+
 ## 2021-04-19
-1. [Follow Up from Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
-1. [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
+1. Y - [Follow Up from Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
+1. N - [Define Product Leader Results/Success Metrics](https://gitlab.com/gitlab-com/Product/-/issues/2346)
 1. Y - [13.12 Kickoff Call](https://gitlab.com/gitlab-com/Product/-/issues/2383)
-1. [Review Opportunities for Bending the Growth Curve](https://gitlab.com/gitlab-com/Product/-/issues/2424)
-1. [Monthly Direction Updates]() and [highlighting improvements that connect team members to goal/mission](https://gitlab.com/gitlab-com/Product/-/issues/2302)
-1. [Add On Call Schedule Management as a Category](https://gitlab.com/gitlab-com/Product/-/issues/2427)
-1. [Prep for Monthly PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2421)
+1. Y - [Review Opportunities for Bending the Growth Curve](https://gitlab.com/gitlab-com/Product/-/issues/2424)
+1. Y - [Prior to Monthly Direction Updates, highlight improvements that connect team members to goal/mission](https://gitlab.com/gitlab-com/Product/-/issues/2302)
+1. N - [Add On Call Schedule Management as a Category](https://gitlab.com/gitlab-com/Product/-/issues/2427)
+1. Y - [Prep for Monthly PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2421)
 
 ## 2021-04-12
 1. N - [Follow Up from Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
