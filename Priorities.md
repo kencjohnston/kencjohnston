@@ -27,7 +27,7 @@ I'll be transitioning interim management for Create Stage PMs to their new manag
 
 1. Y - [Deliver and Followup from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2421)
 1. [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2440)
-1. [Next Steps on Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
+1. Y - [Next Steps on Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
 1. [Next Steps on Bending the Growth Curve](https://gitlab.com/gitlab-com/Product/-/issues/2424)
 1. [Finalize Decision on SAST and Code Quality category](https://gitlab.com/gitlab-com/Product/-/issues/2426)
 1. Y - [MR to Add On Call Schedule Management as a Category](https://gitlab.com/gitlab-com/Product/-/issues/2427)
