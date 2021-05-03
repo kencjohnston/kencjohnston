@@ -22,13 +22,20 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-05-03
+With the start of a new month and quarter I adjusted my priorities to focus on Hiring and have been delegating and closing lingering issues I didn't have the bandwidth to prioritize.
+1. [Project Yankees Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/2475) - [Ops Section Specific Issue](https://gitlab.com/gitlab-com/Product/-/issues/2424)
+1. [Review and Summarize Monthly Direciton Updates](https://gitlab.com/gitlab-com/Product/-/issues/2440)
+1. [Add JiHu Product Content to Handbook](https://gitlab.com/gitlab-com/Product/-/issues/2449)
+1. [Follow up from Operationizing Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
+
 ## 2021-04-26
 I'll be transitioning interim management for Create Stage PMs to their new manager this week.
 
 1. Y - [Deliver and Followup from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2421)
 1. Y - [Complete Monthly Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2440)
 1. Y - [Next Steps on Operationalizing the Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
-1. [Next Steps on Bending the Growth Curve](https://gitlab.com/gitlab-com/Product/-/issues/2424)
+1. Y - [Next Steps on Bending the Growth Curve](https://gitlab.com/gitlab-com/Product/-/issues/2424)
 1. Y - [Finalize Decision on SAST and Code Quality category](https://gitlab.com/gitlab-com/Product/-/issues/2426)
 1. Y - [MR to Add On Call Schedule Management as a Category](https://gitlab.com/gitlab-com/Product/-/issues/2427)
 
