@@ -22,12 +22,21 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2021-05-03
-With the start of a new month and quarter I adjusted my priorities to focus on Hiring and have been delegating and closing lingering issues I didn't have the bandwidth to prioritize.
-1. [Project Yankees Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/2475) - [Ops Section Specific Issue](https://gitlab.com/gitlab-com/Product/-/issues/2424)
+## 2021-05-10
+1. Complete Transition of 1:1s in Create Team
+1. [Contribute to Roll Out Plan - GitLab Internal Issue](https://gitlab.com/gitlab-com/Product/-/issues/2499)
+1. [Project NY Yankees Next Steps - GitLab Internal Issue](https://gitlab.com/gitlab-com/Product/-/issues/2475)
 1. [Review and Summarize Monthly Direciton Updates](https://gitlab.com/gitlab-com/Product/-/issues/2440)
 1. [Add JiHu Product Content to Handbook](https://gitlab.com/gitlab-com/Product/-/issues/2449)
-1. [Follow up from Operationizing Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
+1. [Finalize Competitive Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/2504)
+1. [Complete Prep for Product Key Meeting](https://gitlab.com/gitlab-com/Product/-/issues/2503)
+
+## 2021-05-03
+With the start of a new month and quarter I adjusted my priorities to focus on Hiring and have been delegating and closing lingering issues I didn't have the bandwidth to prioritize.
+1. Y - [Project NY Yankees Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/2475) - [Ops Section Specific Issue](https://gitlab.com/gitlab-com/Product/-/issues/2424)
+1. N - [Review and Summarize Monthly Direciton Updates](https://gitlab.com/gitlab-com/Product/-/issues/2440)
+1. N - [Add JiHu Product Content to Handbook](https://gitlab.com/gitlab-com/Product/-/issues/2449)
+1. Y - [Follow up from Operationizing Ops Section](https://gitlab.com/gitlab-com/Product/-/issues/2410)
 
 ## 2021-04-26
 I'll be transitioning interim management for Create Stage PMs to their new manager this week.
