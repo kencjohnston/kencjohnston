@@ -30,8 +30,9 @@ If we are working together, or even if we aren't, here are some things it might 
 ### Product
 * I LOVE the function of Product Management. In my first tech-job after meeting a Product Manager I immediately thought - "That's who I want to be when I grow up!"
 * I'm a strong believer that while product managers are typically hyper-efficient individuals, they are one of the few individuals driving a company's effectiveness.
-* It can be hard to strike the balance between ambition and pursuit of new markets, and focus on delivering results in immediate adjacencies. Product Managers are one of the few groups looking out for those opportunities. I'm always interested in hearing and helping you evaluate new investment opportunities.
+* It can be hard to strike the balance between ambition through pursuit of new markets, and focus on delivering results in immediate adjacencies. Product Managers are one of the few groups looking out for those opportunities. I'm always interested in hearing and helping you evaluate new investment opportunities.
 * 👣 I'm working on striking the right balance between providing more direct input into Product Direction and empowering autonomy in teams I support. Please do not hesitate to call me out if I'm being overly directive.
+* Uniquely as a Product Leader, I find it critical to create global context and so go out of my way to share context broadley.
 * I really enjoy coaching, mentoring and advising Product Managers. Do not hestitate to reach out to me.
 
 ### Leadership
@@ -44,12 +45,11 @@ If we are working together, or even if we aren't, here are some things it might 
 * Leaders need to keep a pulse on what is impacting team members - whether that is stable counterpart availability, life stress, or major corporate initiatives. I do this via an open line of direction communication, 1-1s and skip-levels. I will always thank you for making me aware of these impacts.
 * I believe my role as a leader is to run straight at murkey or persistent problems. Feel free to point me in their direction. 
 * I was changed by the book [Drive](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/r), it helped me understand motivation in a new way. I always want a [team of missionaries, not mercenaries](https://svpg.com/missionaries-vs-mercenaries/). 
-* 👣 I'm working on being a better delegater, feel free to call me out if I'm leaving delegation ambigous or not delegating enough.
-* I believe that the job of a leader is to create capacity, whether through structure, empowerment or inspiration. 
+* 👣 I'm working on being a better delegater, feel free to call me out if I'm leaving delegation ambigous (action, timeline, etc) or not delegating enough.
+* I believe that the job of a leader is to create capacity, whether through structure, empowerment or inspiration. I do this by focusing a [big portion of my energy at my direct-reports](https://gitlab.com/kencjohnston/README/-/blob/master/Priorities.md#quarterly-priorities). 
 * I tend to be direct, and I HATE micro-managing.
 
 ### Logistics
-* My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
 * I block off my calendar for family time/dinner/bed-time from 3:00PM - 7:50PM CT.
 * My day typically starts early with a block of dedicated focus/work time from 6:30AM - 8:50AM CT.
 * When you need to reach me, here are my communication priorities and preference:
@@ -71,7 +71,8 @@ If we are working together, or even if we aren't, here are some things it might 
 * I consider Slack to be asynchronous. If there is a timeline for a request you might have please specificy it. For example - "Hey, can you review the Kickoff list prior to the kickoff meeting tomorrow?"
 * I'm a big believer in inbox zero and I process my email, slack and GitLab TODO inbox to zero multiple times a day to keep my focus on my [personal GitLab issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston).
 * I use ToDoist for short-term tasks and reminders that aren't appropriate for GitLab issues.
-* 👣 I'm still learning how to balance [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) and that can sometimes result in more annoyance then effectiveness. Please don't hesitate to call me out if you feel like I'm over-communicating.
+* I strive to strike a balance in [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) between bias for action and providing space for review and contribution. That can sometimes result in ignorance or annoyance resulting in low effectiveness. Please don't hesitate to call me out if I'm over or under communicating.
+* My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
 
 ### Teams I Support
 I [support the Product Management team](https://about.gitlab.com/company/team/org-chart/) responsible for the Ops Section stages at GitLab. 
@@ -81,7 +82,10 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 * When sharing info with me, my preference is to consume YOUR expertise. Rather than sharing an Analyst Report relevant for your categories, share an MR where you reference it and highlight how it impacts your product scope.
 * 👣 I don't always do the best just of communicating priority, and expected actions when requesting them from team members. I'm working on doing so to enable you to make smart effectiveness choices. I will always thank you for asking for the Why, or an indication of priority.
-* 👣 I will add `FYI` or `FYA/R` (and avoid the non-specific CC) to responses to ensure I'm setting expectations correctly.
+* 👣 I will add , `FYI`, `FYA`, `FYR` (and avoid the non-specific CC) to responses to ensure I'm setting expectations correctly.
+   * FYI - For Your Information - No response or reaction required
+   * FYA - For Your Action - A request to reassign all or a portion of work to you, this is where I tend to leave ambiguity. Feel free to respond very directly with a request for clarity. I will always thank you for doing so.
+   * FYR - For Your Review - A request for review (sometimes utilizing the reviewer functionality) and approval
 
 #### 1 to 5s
 In order to get a better sense of our personal and professional ups and downs - I like to share "1 to 5s" at the start of 1:1s and team meetings. The process is for each team member to answer the question:
