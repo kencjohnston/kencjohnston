@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Review and Summarize Monthly Direciton Updates](https://gitlab.com/gitlab-com/Product/-/issues/2440)
 1. [Add JiHu Product Content to Handbook](https://gitlab.com/gitlab-com/Product/-/issues/2449)
 1. [Finalize Competitive Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/2504)
-1. [Complete Prep for Product Key Meeting](https://gitlab.com/gitlab-com/Product/-/issues/2503)
+1. Y - [Complete Prep for Product Key Meeting](https://gitlab.com/gitlab-com/Product/-/issues/2503)
 
 ## 2021-05-03
 With the start of a new month and quarter I adjusted my priorities to focus on Hiring and have been delegating and closing lingering issues I didn't have the bandwidth to prioritize.
