@@ -23,9 +23,9 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-05-10
-1. Complete Transition of 1:1s in Create Team
-1. [Contribute to Roll Out Plan - GitLab Internal Issue](https://gitlab.com/gitlab-com/Product/-/issues/2499)
-1. [Project NY Yankees Next Steps - GitLab Internal Issue](https://gitlab.com/gitlab-com/Product/-/issues/2475)
+1. Y - Complete Transition of 1:1s in Create Team
+1. Y - [Contribute to Roll Out Plan - GitLab Internal Issue](https://gitlab.com/gitlab-com/Product/-/issues/2499)
+1. Y - [Project NY Yankees Next Steps - GitLab Internal Issue](https://gitlab.com/gitlab-com/Product/-/issues/2475)
 1. Y - [Review and Summarize Monthly Direciton Updates](https://gitlab.com/gitlab-com/Product/-/issues/2440)
 1. [Add JiHu Product Content to Handbook](https://gitlab.com/gitlab-com/Product/-/issues/2449)
 1. [Finalize Competitive Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/2504)
