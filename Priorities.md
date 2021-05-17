@@ -22,6 +22,12 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-05-17
+1. [Prepare and present Kickoff call](https://gitlab.com/gitlab-com/Product/-/issues/2521)
+1. [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2574)
+1. Present AMA at [DevOps Enterprise Summer Europe](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/3040)
+1. Adjust and Merge [adding On-Call Schedule Management](https://gitlab.com/gitlab-com/Product/-/issues/2427)
+
 ## 2021-05-10
 1. Y - Complete Transition of 1:1s in Create Team
 1. Y - [Contribute to Roll Out Plan - GitLab Internal Issue](https://gitlab.com/gitlab-com/Product/-/issues/2499)
