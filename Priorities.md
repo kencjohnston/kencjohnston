@@ -23,6 +23,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-05-17
+1. Sourcing and reach out for open PM positions
 1. [Prepare and present Kickoff call](https://gitlab.com/gitlab-com/Product/-/issues/2521)
 1. [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2574)
 1. Present AMA at [DevOps Enterprise Summer Europe](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/3040)
