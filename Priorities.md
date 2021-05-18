@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-05-17
 1. Sourcing and reach out for open PM positions
-1. [Prepare and present Kickoff call](https://gitlab.com/gitlab-com/Product/-/issues/2521)
+1. Y - [Prepare and present Kickoff call](https://gitlab.com/gitlab-com/Product/-/issues/2521)
 1. [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2574)
 1. Present AMA at [DevOps Enterprise Summer Europe](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/3040)
 1. Adjust and Merge [adding On-Call Schedule Management](https://gitlab.com/gitlab-com/Product/-/issues/2427)
