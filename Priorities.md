@@ -31,7 +31,7 @@ These designations are added to the previous week's priority list when adding th
 1. Two types of docs cleanup ([Kubernetes](https://gitlab.com/gitlab-com/Product/-/issues/2591) and [Fulfillment](https://gitlab.com/gitlab-com/Product/-/issues/2605))
 
 ## 2021-05-17
-1. Sourcing and reach out for open PM positions
+1. Y - Sourcing and reach out for open PM positions
 1. Y - [Prepare and present Kickoff call](https://gitlab.com/gitlab-com/Product/-/issues/2521)
 1. Y - Prep Steps for [Cleanup Docs on Deprecated K8s Functionality](https://gitlab.com/gitlab-com/Product/-/issues/2591)
 1. Y - [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2574)
