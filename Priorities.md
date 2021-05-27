@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-05-24
-1. Sourcing and [Screening](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/issues/724) for General PM Positions
+1. Y - Sourcing and [Screening](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/issues/724) for General PM Positions
 1. Y - Present [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2574), Follow Up
 1. Y - Panel Discussion at [DigitalBritain](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2866)
 1. Y - Include Devs in [Vision Video](https://gitlab.com/gitlab-com/Product/-/issues/2596) more Prominently
