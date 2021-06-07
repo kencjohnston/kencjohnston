@@ -22,6 +22,18 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-06-07
+1. Sourcing and Screening for PM Positions
+1. Finalize Updates to [Deployment Direction](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/82898)
+1. [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) investigation and analysis
+1. Determine and finalize [DRI](https://gitlab.com/gitlab-com/Product/-/issues/2580) and go-forward plan for CI Abuse
+1. Ops Section [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2585)
+1. [Review and Prioritize Ops Section Investment Cases](https://gitlab.com/gitlab-com/Product/-/issues/2664)
+1. Learning Goals - Do a Walk Through for [Deployment Safety](https://docs.gitlab.com/ee/ci/environments/deployment_safety.html)
+
+## 2021-06-01
+OoO on an Extended Memorial Day Holiday
+
 ## 2021-05-24
 1. Y - Sourcing and [Screening](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/issues/724) for General PM Positions
 1. Y - Present [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2574), Follow Up
