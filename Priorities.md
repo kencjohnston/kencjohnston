@@ -24,11 +24,11 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-06-07
 1. [Cover for Jackie while she is OoO](https://gitlab.com/gitlab-com/Product/-/issues/2627)
-1. Sourcing and Screening for PM Positions
+1. Y - Sourcing and Screening for PM Positions
 1. Y - Finalize Updates to [Deployment Direction](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/82898)
-1. [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) investigation and analysis
-1. Determine and finalize [DRI](https://gitlab.com/gitlab-com/Product/-/issues/2580) and go-forward plan for CI Abuse
-1. Ops Section [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2585)
+1. Y - [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) investigation and analysis
+1. Y - Determine and finalize [DRI](https://gitlab.com/gitlab-com/Product/-/issues/2580) and go-forward plan for CI Abuse
+1. Y - Ops Section [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2585)
 1. [Review and Prioritize Ops Section Investment Cases](https://gitlab.com/gitlab-com/Product/-/issues/2664)
 1. Learning Goals - Do a Walk Through for [Deployment Safety](https://docs.gitlab.com/ee/ci/environments/deployment_safety.html)
 
