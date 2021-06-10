@@ -36,7 +36,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I really enjoy coaching, mentoring and advising Product Managers. Do not hestitate to reach out to me.
 
 ### Leadership
-* 👣 I'm a values leader, and I am very bought in to [GitLab's values](https://about.gitlab.com/handbook/values/). As a leader it is my responsibility to educate others, and project, promote and further our values. Please let me know if I'm failing to meet that standard. 
+* 👣 I'm a values leader, and I am very bought in to [GitLab's values](https://about.gitlab.com/handbook/values/). As a leader it is my responsibility to educate others, and project, promote and further our values. This includes identifying values that my team members individually identify closely with and [telling stories](https://www.arielgroup.com/values-based-storytelling/) about and promoting examples of exceptional value based behavior. Please let me know if I'm failing to meet that standard. 
 * I want to be the type of leader I'd like to have - Loving, Trusting, Fair and Consistent.
 * 👣 My even keeled-ness can lead to my not showcasing my excitement. I'm working on making sure I pause, recognize accomplishment and highlight my excitement for where my team, product and company are headed.
 * I aspire to be a servant leader, but I've got a long-way to go. Please provide me feedback to help me get there.
@@ -78,6 +78,7 @@ If we are working together, or even if we aren't, here are some things it might 
 I [support the Product Management team](https://about.gitlab.com/company/team/org-chart/) responsible for the Ops Section stages at GitLab. 
 * One easy way to keep me abreast of your priorities is to send a note in the #product Slack channel once a week and @ mention me. 
 * Follow the [GitLab handbook when communicating time-off](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off). No other notification or approval is required. It's my job as your manager to ensure you have adequate coverage while you take much needed (and deserved) breaks. Please create [Coverage Issues](https://about.gitlab.com/handbook/product/product-manager-role/#taking-time-off) for me to ensure you take a break without worrying about a mountain of catchup work.
+* I follow GitLab's [Skip Level](https://about.gitlab.com/handbook/leadership/skip-levels/) 1:1 methodology within my org. During these times I will go out of my wy to check in on team member well-being in an effort to help all the team members I support practice strong [rest ethic](https://about.gitlab.com/company/culture/all-remote/mental-health/#your-rest-ethic-is-as-important-as-your-work-ethic).
 * I will never take offense to skip-leveling, if you have a concern [you can and should take it to whoever you think will be effective in alleviating it](https://about.gitlab.com/handbook/leadership/#communication-should-be-direct-not-hierarchical).
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 * When sharing info with me, my preference is to consume YOUR expertise. Rather than sharing an Analyst Report relevant for your categories, share an MR where you reference it and highlight how it impacts your product scope.
