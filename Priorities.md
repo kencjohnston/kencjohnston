@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-06-07
-1. [Cover for Jackie while she is OoO](https://gitlab.com/gitlab-com/Product/-/issues/2627)
+1. Y - [Cover for Jackie while she is OoO](https://gitlab.com/gitlab-com/Product/-/issues/2627)
 1. Y - Sourcing and Screening for PM Positions
 1. Y - Finalize Updates to [Deployment Direction](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/82898)
 1. Y - [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) investigation and analysis
