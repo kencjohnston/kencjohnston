@@ -22,6 +22,14 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-06-14
+1.
+1.
+1.
+1.
+1.
+
+
 ## 2021-06-07
 1. Y - [Cover for Jackie while she is OoO](https://gitlab.com/gitlab-com/Product/-/issues/2627)
 1. Y - Sourcing and Screening for PM Positions
