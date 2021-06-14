@@ -29,8 +29,8 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) investigation and analysis
 1. Y - Determine and finalize [DRI](https://gitlab.com/gitlab-com/Product/-/issues/2580) and go-forward plan for CI Abuse
 1. Y - Ops Section [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2585)
-1. [Review and Prioritize Ops Section Investment Cases](https://gitlab.com/gitlab-com/Product/-/issues/2664)
-1. Learning Goals - Do a Walk Through for [Deployment Safety](https://docs.gitlab.com/ee/ci/environments/deployment_safety.html)
+1. N - [Review and Prioritize Ops Section Investment Cases](https://gitlab.com/gitlab-com/Product/-/issues/2664)
+1. N - Learning Goals - Do a Walk Through for [Deployment Safety](https://docs.gitlab.com/ee/ci/environments/deployment_safety.html)
 
 ## 2021-06-01
 OoO on an Extended Memorial Day Holiday
