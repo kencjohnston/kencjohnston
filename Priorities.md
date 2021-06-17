@@ -23,8 +23,8 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-06-14
-1. [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit)  Next Steps
-1. [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668)
+1. Y - [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit)  Next Steps
+1. Y - [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668)
 1. [Prep for Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2661)
 1. [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2689)
 1. Prioritize Ops Investment Cases
