@@ -22,14 +22,23 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-06-21
+1. [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) Next Steps
+1. [Anax Acquisition](https://docs.google.com/document/d/1Oya7wqN_8LzGS4LqsYykB87VVsszWeHsN3PP7dXbOEg/edit) Next Steps
+1. [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668)
+1. [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2689) and followup
+1. [Prep for and Deliver 14.1 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2661)
+1. Work on [Ops Section Direction Visualization](https://gitlab.com/gitlab-com/Product/-/issues/2622)
+1. Provide [Dogfooding Input](https://gitlab.com/gitlab-com/Product/-/issues/2717)
+
 ## 2021-06-14
 1. Y - [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit)  Next Steps
 1. Y - [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668)
 1. Y - [Prep for Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2661)
 1. N - [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2689)
 1. Y - Prioritize Ops Investment Cases
-1. Work on [Ops Section Direction Visualization](https://gitlab.com/gitlab-com/Product/-/issues/2622)
-1. Learning Goals - Do a Walk Through for [Deployment Safety](https://docs.gitlab.com/ee/ci/environments/deployment_safety.html)
+1. N - Work on [Ops Section Direction Visualization](https://gitlab.com/gitlab-com/Product/-/issues/2622)
+1. N - Learning Goals - Do a Walk Through for [Deployment Safety](https://docs.gitlab.com/ee/ci/environments/deployment_safety.html)
 
 
 ## 2021-06-07
