@@ -27,7 +27,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Anax Acquisition](https://docs.google.com/document/d/1Oya7wqN_8LzGS4LqsYykB87VVsszWeHsN3PP7dXbOEg/edit) Next Steps
 1. [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668)
 1. [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2689) and followup
-1. [Prep for and Deliver 14.1 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2661)
+1. Y - [Prep for and Deliver 14.1 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2661)
 1. [Complete Coverage Issue for PTO Next Week](https://gitlab.com/gitlab-com/Product/-/issues/2734)
 1. Work on [Ops Section Direction Visualization](https://gitlab.com/gitlab-com/Product/-/issues/2622)
 1. Provide [Dogfooding Input](https://gitlab.com/gitlab-com/Product/-/issues/2717)
