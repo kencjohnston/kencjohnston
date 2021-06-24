@@ -25,12 +25,12 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-06-21
 1. [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) Next Steps
 1. Y - [Anax Acquisition](https://docs.google.com/document/d/1Oya7wqN_8LzGS4LqsYykB87VVsszWeHsN3PP7dXbOEg/edit) Next Steps
-1. [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668)
+1. Y - [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668)
 1. Y - [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2689) and followup
 1. Y - [Prep for and Deliver 14.1 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2661)
 1. [Complete Coverage Issue for PTO Next Week](https://gitlab.com/gitlab-com/Product/-/issues/2734)
 1. Work on [Ops Section Direction Visualization](https://gitlab.com/gitlab-com/Product/-/issues/2622)
-1. Provide [Dogfooding Input](https://gitlab.com/gitlab-com/Product/-/issues/2717)
+1. Y - Provide [Dogfooding Input](https://gitlab.com/gitlab-com/Product/-/issues/2717)
 
 ## 2021-06-14
 1. Y - [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit)  Next Steps
