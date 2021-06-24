@@ -28,7 +28,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668)
 1. Y - [Prep for Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2689) and followup
 1. Y - [Prep for and Deliver 14.1 Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/2661)
-1. [Complete Coverage Issue for PTO Next Week](https://gitlab.com/gitlab-com/Product/-/issues/2734)
+1. Y - [Complete Coverage Issue for PTO Next Week](https://gitlab.com/gitlab-com/Product/-/issues/2734)
 1. Work on [Ops Section Direction Visualization](https://gitlab.com/gitlab-com/Product/-/issues/2622)
 1. Y - Provide [Dogfooding Input](https://gitlab.com/gitlab-com/Product/-/issues/2717)
 
