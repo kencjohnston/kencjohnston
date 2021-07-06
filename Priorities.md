@@ -25,9 +25,9 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-07-06
 Short week with Monday off.
 
-1. [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) Next Steps
+1. Y - [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) Next Steps
 1. [Anax Acquisition](https://docs.google.com/document/d/1Oya7wqN_8LzGS4LqsYykB87VVsszWeHsN3PP7dXbOEg/edit) Next Steps
-1. [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668) Follow Up
+1. Y - [Deployment Direction AMA](https://gitlab.com/gitlab-com/Product/-/issues/2668) Follow Up
 1. Competitive Review of [WayPoint](https://gitlab.com/gitlab-com/Product/-/issues/2747) and [Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738)
 1. Tiering Content Review from [Monthly Direciton Updates](https://gitlab.com/gitlab-com/Product/-/issues/2722) and [consider section-wide reviews](https://gitlab.com/gitlab-com/Product/-/issues/2731)
 1. Work on [Ops Section Direction Visualization](https://gitlab.com/gitlab-com/Product/-/issues/2622)
