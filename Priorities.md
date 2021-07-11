@@ -30,6 +30,7 @@ F&F on Friday!
 1. [WayPoint](https://gitlab.com/gitlab-com/Product/-/issues/2747) and [Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738) competitive review next steps
 1. [Deployment Direction](https://gitlab.com/gitlab-com/Product/-/issues/2668) Next Steps
 1. [Consider section-wide Tiering reviews](https://gitlab.com/gitlab-com/Product/-/issues/2731)
+1. Monthly [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/2767)
 1. [Prep for Key Review](https://gitlab.com/gitlab-com/Product/-/issues/2780)
 
 ## 2021-07-06
