@@ -22,6 +22,15 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-07-12
+F&F on Friday!
+
+1. [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) Next Steps
+1. [WayPoint](https://gitlab.com/gitlab-com/Product/-/issues/2747) and [Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738) competitive review next steps
+1. [Deployment Direction](https://gitlab.com/gitlab-com/Product/-/issues/2668) Next Steps
+1. [Consider section-wide Tiering reviews](https://gitlab.com/gitlab-com/Product/-/issues/2731)
+1. [Prep for Key Review](https://gitlab.com/gitlab-com/Product/-/issues/2780)
+
 ## 2021-07-06
 Short week with Monday off.
 
