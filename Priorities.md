@@ -25,13 +25,13 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-07-12
 F&F on Friday!
 
-1. Hiring!
-1. [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) Next Steps
-1. [WayPoint](https://gitlab.com/gitlab-com/Product/-/issues/2747) and [Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738) competitive review next steps
+1. Y - Hiring!
+1. Y - [Argus Acquisition](https://docs.google.com/document/d/1zriE2OX7rjxVSNq1bY5PpdktYHLBFfnWYgHHVbCSHsY/edit) Next Steps
+1. Y - [WayPoint](https://gitlab.com/gitlab-com/Product/-/issues/2747) and [Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738) competitive review next steps
 1. [Deployment Direction](https://gitlab.com/gitlab-com/Product/-/issues/2668) Next Steps
-1. [Consider section-wide Tiering reviews](https://gitlab.com/gitlab-com/Product/-/issues/2731)
+1. Y - [Consider section-wide Tiering reviews](https://gitlab.com/gitlab-com/Product/-/issues/2731)
 1. Monthly [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/2767)
-1. [Prep for Key Review](https://gitlab.com/gitlab-com/Product/-/issues/2780)
+1. Y - [Prep for Key Review](https://gitlab.com/gitlab-com/Product/-/issues/2780)
 
 ## 2021-07-06
 Short week with Monday off.
