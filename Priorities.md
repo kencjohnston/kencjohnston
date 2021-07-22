@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Deployment Direction](https://about.gitlab.com/direction/deployment/) Next Steps
 1. [Q3 OKR Prep](https://gitlab.com/gitlab-com/Product/-/issues/2715)
 1. Y - [Ops Section Direction Review FollowUp](https://gitlab.com/gitlab-com/Product/-/issues/2847)
-1. Prep for [PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2829)
+1. X - (Meeting Cancelled) Prep for [PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2829)
 1. Y - [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/2791#note_630068113)
 
 ## 2021-07-12
