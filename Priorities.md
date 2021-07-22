@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-07-19
-1. Hiring!
+1. Y - Hiring!
 1. Y - [Leto Acquisition Opportunity](https://docs.google.com/document/d/1FtDlaU7AmstnAXk7AMYbJfsKmQMiYSeuL9lW1m2RN2w/edit?ts=60dc17e6) Next Steps
 1. Y - [Ops Section Investment Case Review]((https://gitlab.com/gitlab-com/Product/-/issues/2767))
 1. [Deployment Direction](https://about.gitlab.com/direction/deployment/) Next Steps
