@@ -22,12 +22,23 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-07-26
+1. Hiring CI PM
+1. Argus Acquisition Next Steps
+1. Deployment Direction Next Steps - Complete/Publish [Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738) and [WayPoint](https://gitlab.com/gitlab-com/Product/-/issues/2747)
+1. [Updates from Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/2847)
+1. [Monthly Direction Updates and Review](https://gitlab.com/gitlab-com/Product/-/issues/2839)
+1. [Plan an Ops Section Team Day](https://gitlab.com/gitlab-com/Product/-/issues/2550)
+1. [Ops Section Validation Track Review](https://gitlab.com/gitlab-com/Product/-/issues/2843)
+1. [Follow Up from Pricing Review](https://gitlab.com/gitlab-com/Product/-/issues/2846)
+1. Learning Goal - Publish learnings from Harness and WayPoint reviews
+
 ## 2021-07-19
 1. Y - Hiring!
 1. Y - [Leto Acquisition Opportunity](https://docs.google.com/document/d/1FtDlaU7AmstnAXk7AMYbJfsKmQMiYSeuL9lW1m2RN2w/edit?ts=60dc17e6) Next Steps
 1. Y - [Ops Section Investment Case Review]((https://gitlab.com/gitlab-com/Product/-/issues/2767))
 1. Y - [Deployment Direction](https://about.gitlab.com/direction/deployment/) Next Steps
-1. [Q3 OKR Prep](https://gitlab.com/gitlab-com/Product/-/issues/2715)
+1. Y - [Q3 OKR Prep](https://gitlab.com/gitlab-com/Product/-/issues/2715)
 1. Y - [Ops Section Direction Review FollowUp](https://gitlab.com/gitlab-com/Product/-/issues/2847)
 1. X - (Meeting Cancelled) Prep for [PI Review](https://gitlab.com/gitlab-com/Product/-/issues/2829)
 1. Y - [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/2791#note_630068113)
