@@ -29,8 +29,8 @@ These designations are added to the previous week's priority list when adding th
 1. [Updates from Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/2847)
 1. [Monthly Direction Updates and Review](https://gitlab.com/gitlab-com/Product/-/issues/2839)
 1. [Plan an Ops Section Team Day](https://gitlab.com/gitlab-com/Product/-/issues/2550)
-1. [Ops Section Validation Track Review](https://gitlab.com/gitlab-com/Product/-/issues/2843)
-1. [Follow Up from Pricing Review](https://gitlab.com/gitlab-com/Product/-/issues/2846)
+1. Y - [Ops Section Validation Track Review](https://gitlab.com/gitlab-com/Product/-/issues/2843)
+1. Y - [Follow Up from Pricing Review](https://gitlab.com/gitlab-com/Product/-/issues/2846)
 1. Learning Goal - Publish learnings from Harness and WayPoint reviews
 
 ## 2021-07-19
