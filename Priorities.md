@@ -25,10 +25,11 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-07-26
 1. Y - Hiring CI PM
 1. Y - Argus Acquisition Next Steps
+1. Y - [Amplify SaaS Reliability](https://gitlab.com/gitlab-com/Product/-/issues/2881)
 1. Y - Deployment Direction Next Steps - Complete/Publish [Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738) and [WayPoint](https://gitlab.com/gitlab-com/Product/-/issues/2747)
-1. [Updates from Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/2847)
-1. [Monthly Direction Updates and Review](https://gitlab.com/gitlab-com/Product/-/issues/2839)
-1. [Plan an Ops Section Team Day](https://gitlab.com/gitlab-com/Product/-/issues/2550)
+1. N - [Updates from Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/2847)
+1. N - [Monthly Direction Updates and Review](https://gitlab.com/gitlab-com/Product/-/issues/2839)
+1. N - [Plan an Ops Section Team Day](https://gitlab.com/gitlab-com/Product/-/issues/2550)
 1. Y - [Ops Section Validation Track Review](https://gitlab.com/gitlab-com/Product/-/issues/2843)
 1. Y - [Follow Up from Pricing Review](https://gitlab.com/gitlab-com/Product/-/issues/2846)
 1. Y - Learning Goal - Publish learnings from Harness and WayPoint reviews
