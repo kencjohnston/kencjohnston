@@ -22,6 +22,15 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-08-02
+1. Hiring CI PM
+1. Prep [Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/2882)
+1. Update [Competitive Info for Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738)
+1. [Updates from Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/2847)
+1. [Monthly Direction Updates and Review](https://gitlab.com/gitlab-com/Product/-/issues/2839)
+1. [Plan an Ops Section Team Day](https://gitlab.com/gitlab-com/Product/-/issues/2550)
+1. MC the [14.1 Retro](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12164)
+
 ## 2021-07-26
 1. Y - Hiring CI PM
 1. Y - Argus Acquisition Next Steps
