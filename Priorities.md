@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-08-02
 1. Hiring CI PM
-1. Prep [Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/2882)
+1. Y - Prep [Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/2882)
 1. Update [Competitive Info for Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738)
 1. Y - [Updates from Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/2847)
 1. Y - [Monthly Direction Updates and Review](https://gitlab.com/gitlab-com/Product/-/issues/2839)
