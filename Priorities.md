@@ -22,6 +22,9 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-08-09-2021-08-30
+OoO - https://gitlab.com/gitlab-com/Product/-/issues/2882
+
 ## 2021-08-02
 1. Y - Hiring CI PM
 1. Y - CDF Week
