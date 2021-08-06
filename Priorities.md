@@ -26,7 +26,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Hiring CI PM
 1. Y - CDF Week
 1. Y - Prep [Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/2882)
-1. Update [Competitive Info for Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738)
+1. Y - Update [Competitive Info for Harness](https://gitlab.com/gitlab-com/Product/-/issues/2738)
 1. Y - [Updates from Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/2847)
 1. Y - [Monthly Direction Updates and Review](https://gitlab.com/gitlab-com/Product/-/issues/2839)
 1. Y - [Plan an Ops Section Team Day](https://gitlab.com/gitlab-com/Product/-/issues/2550)
