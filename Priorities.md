@@ -22,6 +22,15 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-08-30
+
+1. Hiring CI PM
+1. [Close out Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/2882)
+1. [Deployment Direction Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/2951)
+1. Follow Up [Item](https://gitlab.com/gitlab-com/Product/-/issues/2955) from Last Retrospectives
+1. [Followup from Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/2905)
+1. [Perform 360 Reviews](https://gitlab.com/gitlab-com/Product/-/issues/3041)
+
 ## 2021-08-09 - 2021-08-30
 :camping: OoO - https://gitlab.com/gitlab-com/Product/-/issues/2882
 
