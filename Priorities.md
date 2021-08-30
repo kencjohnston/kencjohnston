@@ -4,14 +4,13 @@ This content is meant to communicate how I intend to allocate my time. I review 
 | Theme | Notes | Percent |
 | ------ | ------ | ------ |
 | Team Development | CDF Reviews, Career Development, Team Engagement, GitLab Values Coaching | 30% |
-| Sensing Mechanisms | Internal context gathering, customer interviews, analyst inquiries, competitive review | 5% |
+| Sensing Mechanisms | Internal context gathering, customer interviews, analyst inquiries, competitive review, context setting | 10% |
 | Cross Section Product Experience | Think Big-Think Small, Walk-throughs, learning goals, direction content review and creation | 20% |
-| GTM Engagement | Use Case alignment, Opportunity Review, Sales Support, PMM/TMM Alignment | 15% |
+| GTM Engagement | Use Case alignment, Opportunity Review, Sales Support, PMM/TMM Alignment | 10% |
 | Product Performance Indicators | Performance Indicator instrumentation, understanding, goal setting and attainment | 5% |
-| Product Management Leadership Priorities | Tier Strategy and ROI focus, product portfolio management | 5% |
 | External Evangelism | Ops vision, analyst briefings, conference speaking | 5% |
 | Core Team Engagement | UX, Development, Quality, Infrastructure shared Performance Indicators and Retrospectives| 5% |
-| Personal Growth / Leadership Opportunities | Representing GitLab externally, Representing Product internally | 0% |
+| Personal Growth / Leadership Opportunities | Representing GitLab externally, Representing Product internally | 5% |
 | Hiring | Sourcing, interviewing, hiring, onboarding | 10% |
 
 ## Weekly Priorities
