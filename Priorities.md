@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-08-30
 
-1. Hiring CI PM
+1. Y - Hiring CI PM
 1. Y - [Close out Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/2882)
 1. Y - [Deployment Direction Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/2951)
 1. Y - Follow Up [Item](https://gitlab.com/gitlab-com/Product/-/issues/2955) from Last Retrospectives
