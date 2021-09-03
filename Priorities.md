@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Follow Up [Item](https://gitlab.com/gitlab-com/Product/-/issues/2955) from Last Retrospectives
 1. Y - [Followup from Quarterly Feedback](https://gitlab.com/gitlab-com/Product/-/issues/2905)
 1. Y - [Perform 360 Reviews](https://gitlab.com/gitlab-com/Product/-/issues/3041)
-1. [Followup and Prep for 14.2 Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12340)
+1. Y - [Followup and Prep for 14.2 Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12340)
 
 ## 2021-08-09 - 2021-08-30
 :camping: OoO - https://gitlab.com/gitlab-com/Product/-/issues/2882
