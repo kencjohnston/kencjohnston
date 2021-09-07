@@ -30,6 +30,7 @@ Note - OoO 2021-09-06 for Labor Day
 1. [Finalize August Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2992)
 1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3038)
 1. [Consolidate Technical Eva terms](https://gitlab.com/gitlab-com/Product/-/issues/3043)
+1. [Propose Moving to Sub-Department based Retrospectives](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12383)
 
 ## 2021-08-30
 
