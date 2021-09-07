@@ -21,6 +21,14 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-09-07
+1. Argus Acquisition Next Steps
+1. Product-Wide Demo Prep
+1. [Host and Follow Up from 14.2 Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12340)
+1. [Finalize August Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/2992)
+1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3038)
+1. [Consolidate Technical Eva terms](https://gitlab.com/gitlab-com/Product/-/issues/3043)
+
 ## 2021-08-30
 
 1. Y - Hiring CI PM
