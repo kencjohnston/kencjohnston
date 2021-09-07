@@ -22,6 +22,8 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-09-07
+Note - OoO 2021-09-06 for Labor Day
+
 1. Argus Acquisition Next Steps
 1. Product-Wide Demo Prep
 1. [Host and Follow Up from 14.2 Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12340)
