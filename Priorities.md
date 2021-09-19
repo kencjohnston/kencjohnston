@@ -21,6 +21,19 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-09-20
+1. Argus Acquisition Next Steps
+1. [Review and Coach on 360 Feedback](https://gitlab.com/gitlab-com/Product/-/issues/3041) with Team
+1. [Prep and Deliver Release Kickoff Content](https://gitlab.com/gitlab-com/Product/-/issues/3075)
+1. [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3113)
+1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3038)
+1. Rerecord and Share [Single App Demo](https://gitlab.com/gitlab-com/Product/-/issues/3116)
+1. Prep [Content for Q3 CAB](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/63)
+1. Perform a Walk Through Using the [new Demo Project](https://gitlab.com/dev-sec-product-private/demos/wayne-enterprises)
+
+## 2021-09-13
+In office Monday and Tuesday but out sick Wednesday-Friday
+
 ## 2021-09-07
 Note - OoO 2021-09-06 for Labor Day
 
