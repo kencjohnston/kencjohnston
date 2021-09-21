@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-09-20
 1. Argus Acquisition Next Steps
-1. [Review and Coach on 360 Feedback](https://gitlab.com/gitlab-com/Product/-/issues/3041) with Team
+1. Y - [Review and Coach on 360 Feedback](https://gitlab.com/gitlab-com/Product/-/issues/3041) with Team
 1. Y - [Prep and Deliver Release Kickoff Content](https://gitlab.com/gitlab-com/Product/-/issues/3075)
 1. [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3113)
 1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3038)
