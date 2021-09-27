@@ -21,15 +21,24 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-09-27
+I'm OoO this Thursday and Friday
+1. Argus Acquisition Next Steps
+1. Open and Prep 14.3 Release Retrospective
+1. [Propose Sub-Department Retrospectives for 14.4](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12383)
+1. [Capture Cross Stage Efforts](https://gitlab.com/gitlab-com/Product/-/issues/2935)
+1. [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3113)
+1. [Record Single App Demo](https://gitlab.com/gitlab-com/Product/-/issues/3116)
+
 ## 2021-09-20
 1. Y - Argus Acquisition Next Steps
 1. Y - [Review and Coach on 360 Feedback](https://gitlab.com/gitlab-com/Product/-/issues/3041) with Team
 1. Y - [Prep and Deliver Release Kickoff Content](https://gitlab.com/gitlab-com/Product/-/issues/3075)
 1. Y - [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3113)
-1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3038)
-1. Rerecord and Share [Single App Demo](https://gitlab.com/gitlab-com/Product/-/issues/3116)
-1. Prep [Content for Q3 CAB](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/63)
-1. Perform a Walk Through Using the [new Demo Project](https://gitlab.com/dev-sec-product-private/demos/wayne-enterprises)
+1. N - [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3038)
+1. N - Rerecord and Share [Single App Demo](https://gitlab.com/gitlab-com/Product/-/issues/3116)
+1. Y - Prep [Content for Q3 CAB](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/63)
+1. N - Perform a Walk Through Using the [new Demo Project](https://gitlab.com/dev-sec-product-private/demos/wayne-enterprises)
 
 ## 2021-09-13
 In office Monday and Tuesday but out sick Wednesday-Friday
