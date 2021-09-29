@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-09-27
 I'm OoO this Thursday and Friday
-1. Argus Acquisition Next Steps
+1. Y - Argus Acquisition Next Steps
 1. Y - Open and Prep [14.3 Release Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12442)
 1. Y - [Propose Sub-Department Retrospectives for 14.4](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12383)
 1. [Capture Cross Stage Efforts](https://gitlab.com/gitlab-com/Product/-/issues/2935)
