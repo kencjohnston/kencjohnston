@@ -23,11 +23,11 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-10-04
 1. Y - Argus Acqusition Next Steps
-1. Cover for [Jackie](https://gitlab.com/gitlab-com/Product/-/issues/3080)
+1. Y - Cover for [Jackie](https://gitlab.com/gitlab-com/Product/-/issues/3080)
 1. Y - Prepare for and [Participate in the CAB](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/63)
 1. [Record and Distribute Single-App Demo](https://gitlab.com/gitlab-com/Product/-/issues/3116)
 1. [Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/3132)
-1. [Prepare and Conduct the 14.3 Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12442)
+1. Y - [Prepare and Conduct the 14.3 Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12442)
 
 ## 2021-09-27
 I'm OoO this Thursday and Friday
