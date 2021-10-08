@@ -72,6 +72,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I'm a big believer in inbox zero and I process my email, slack and GitLab TODO inbox to zero multiple times a day to keep my focus on my [personal GitLab issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston) and [priorities](https://gitlab.com/kencjohnston/README/-/blob/master/Priorities.md).
 * I use ToDoist for short-term tasks and reminders that aren't appropriate for GitLab issues.
 * I strive to strike a balance in [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) between bias for action and providing space for review and contribution. That can sometimes result in ignorance or annoyance resulting in low effectiveness. Please don't hesitate to call me out if I'm over or under communicating.
+* 👣 I have a tendency to rely on the `ping?` initial contact in Slack. That isn't helpful and I'm working to just directly state what I'm interested in discussing. Please remind me not to do by responding with `NO PING`. :smile:
 * My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
 
 ### Teams I Support
