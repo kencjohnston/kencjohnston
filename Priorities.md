@@ -23,10 +23,10 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-10-12
 Short week with US Holiday on Monday and F&F Day on Friday
-1. Argus Acquisition Next Steps - Focus on Comms
+1. Y - Argus Acquisition Next Steps - Focus on Comms
 1. [Prep for DevOps Platform Analyst Industry Presentations](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5189)
 1. Y - [Draft SKO Content to Pitch](https://gitlab.com/gitlab-com/Product/-/issues/3220)
-1. [Add Cross-Stage Future Improvements](https://gitlab.com/gitlab-com/Product/-/issues/3205)
+1. Y - [Add Cross-Stage Future Improvements](https://gitlab.com/gitlab-com/Product/-/issues/3205)
 1. Learning Goal - [WAF/Container Security Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/2296)
 
 ## 2021-10-04
