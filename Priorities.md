@@ -21,6 +21,17 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-10-18
+Getting to this late this week as I was sick on Monday.
+1. Review Argus Comms and Forking Plans
+1. Ensure our Package Container Registry Migration is optimzied for providing awareness to high usage users on GitLab.com
+1. Finalize [Presentation and Walk Through for Analyst Briefings](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5189)
+1. Review [Package Use Case](https://gitlab.com/gitlab-com/Product/-/issues/3247)
+1. Prep for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3246)
+1. [JFrog and Harness Competitive Blog Review](https://gitlab.com/gitlab-com/Product/-/issues/3260)
+1. Socialize need for [Product Upper Bound Expectations](https://gitlab.com/gitlab-com/Product/-/issues/3259)
+1. Add [More Cross Stage Future Improvements](https://gitlab.com/gitlab-com/Product/-/issues/3205)
+
 ## 2021-10-12
 Short week with US Holiday on Monday and F&F Day on Friday
 1. Y - Argus Acquisition Next Steps - Focus on Comms
