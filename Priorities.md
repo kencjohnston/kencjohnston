@@ -25,7 +25,7 @@ These designations are added to the previous week's priority list when adding th
 Getting to this late this week as I was sick on Monday.
 1. Review Argus Comms and Forking Plans
 1. Ensure our Package Container Registry Migration is optimzied for providing awareness to high usage users on GitLab.com
-1. Finalize [Presentation and Walk Through for Analyst Briefings](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5189)
+1. Y - Finalize [Presentation and Walk Through for Analyst Briefings](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5189)
 1. Review [Package Use Case](https://gitlab.com/gitlab-com/Product/-/issues/3247)
 1. Prep for [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3246)
 1. [JFrog and Harness Competitive Blog Review](https://gitlab.com/gitlab-com/Product/-/issues/3260)
