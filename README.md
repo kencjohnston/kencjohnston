@@ -25,7 +25,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * I believe in [playing to your strengths](https://hbr.org/2005/01/how-to-play-to-your-strengths), and building complete teams based on coordinated strengths. 
 * 👣 I aspire to use [inclusive language](https://docs.google.com/presentation/d/186RK9QqOYxF8BmVS15AOKvwFpt4WglKKDR7cUCeDGkE/edit?usp=sharing), actively listen and eliminate [co-optation](https://www.youtube.com/watch?v=zNCrMEOqHpc). Please call out when I make mistakes or fail. I will ALWAYS thank you for it.
 * 👣 I hope to inspire an upstanding (not bystanding), psychologically safe, and growth oriented work environment via my daily actions so that everyone can contribute in an environment where they experience belonging. 
-* Outside of work I love to cook, play soccer, build puzzles and travel. I created this [5x5 presentation](https://docs.google.com/presentation/d/1K9Cpnr6gVJroLbbAbGaHMVPmpM5ICCZ1AESuo4N5u7A/edit#slide=id.p) to walk through more about me. 
+* Outside of work I love to cook, play soccer, build puzzles and travel. I created this [5x5 presentation](https://docs.google.com/presentation/d/1K9Cpnr6gVJroLbbAbGaHMVPmpM5ICCZ1AESuo4N5u7A/edit?usp=sharing) to walk through more about me. 
 
 ### Product
 * I LOVE the function of Product Management. In my first tech-job after meeting a Product Manager I immediately thought - "That's who I want to be when I grow up!"
