@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-10-25
 1. Argus Comms Plan Next Steps
 1. Delivery and followup from [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3246)
-1. Delivery and Followup from First Analyst Briefing ([IDC](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5713))
+1. Y - Delivery and Followup from First Analyst Briefing ([IDC](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5713))
 1. Prep for [14.4 Ops Section Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12549)
 1. Merge MVC for [Documenting Product Upper Bounds](https://gitlab.com/gitlab-com/Product/-/issues/3259)
 1. Next Steps for [Adding more Cross Stage Future Improvements](https://gitlab.com/gitlab-com/Product/-/issues/3205)
