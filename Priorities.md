@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-11-01
 1. Argus Comms Plan Next Steps
-1. [Product Analytics Vision](https://gitlab.com/gitlab-com/Product/-/issues/3318)
+1. Y - [Product Analytics Vision](https://gitlab.com/gitlab-com/Product/-/issues/3318)
 1. Prep and Delivery [Next Analyst Briefing](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5709)
 1. [Pitch Content for SKO](https://gitlab.com/gitlab-com/Product/-/issues/3220)
 1. Merge MVC for [Documenting Product Upper Bounds](https://gitlab.com/gitlab-com/Product/-/issues/3259)
