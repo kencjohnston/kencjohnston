@@ -21,13 +21,23 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-11-01
+1. Argus Comms Plan Next Steps
+1. [Product Analytics Vision](https://gitlab.com/gitlab-com/Product/-/issues/3318)
+1. Prep and Delivery [Next Analyst Briefing](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5709)
+1. [Pitch Content for SKO](https://gitlab.com/gitlab-com/Product/-/issues/3220)
+1. Merge MVC for [Documenting Product Upper Bounds](https://gitlab.com/gitlab-com/Product/-/issues/3259)
+1. [Add Over-react on Down / Circumspect on Up to Ops PI Review Intent](https://gitlab.com/gitlab-com/Product/-/issues/3296)
+1. Next Steps for [Adding more Cross Stage Future Improvements](https://gitlab.com/gitlab-com/Product/-/issues/3205)
+1. Review [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3250)
+
 ## 2021-10-25
 1. Argus Comms Plan Next Steps
 1. Y - Delivery and followup from [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3246)
 1. Y - Delivery and Followup from First Analyst Briefing ([IDC](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5713))
-1. Prep for [14.4 Ops Section Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12549)
-1. Merge MVC for [Documenting Product Upper Bounds](https://gitlab.com/gitlab-com/Product/-/issues/3259)
-1. Next Steps for [Adding more Cross Stage Future Improvements](https://gitlab.com/gitlab-com/Product/-/issues/3205)
+1. Y - Prep for [14.4 Ops Section Retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12549)
+1. N - Merge MVC for [Documenting Product Upper Bounds](https://gitlab.com/gitlab-com/Product/-/issues/3259)
+1. N - Next Steps for [Adding more Cross Stage Future Improvements](https://gitlab.com/gitlab-com/Product/-/issues/3205)
 
 ## 2021-10-18
 Getting to this late this week as I was sick on Monday.
