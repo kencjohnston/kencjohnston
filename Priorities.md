@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Merge MVC for [Documenting Product Upper Bounds](https://gitlab.com/gitlab-com/Product/-/issues/3259)
 1. Y - [Add Over-react on Down / Circumspect on Up to Ops PI Review Intent](https://gitlab.com/gitlab-com/Product/-/issues/3296)
 1. Next Steps for [Adding more Cross Stage Future Improvements](https://gitlab.com/gitlab-com/Product/-/issues/3205)
-1. Review [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3250)
+1. Y - Review [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3250)
 
 ## 2021-10-25
 1. Argus Comms Plan Next Steps
