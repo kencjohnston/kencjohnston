@@ -26,7 +26,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Contribute Content](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/5556)
 1. Y - Annual Performance/Potential Callibration
 1. [Finalize SKO Content](https://gitlab.com/gitlab-com/Product/-/issues/3220)
-1. Various Analyst Presentations
+1. Y - Various Analyst Presentations
 1. Y - [Ops Section Retro Closing Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12549)
 1. Y - QBRs
 1. Y - [Next Step on Product Analytics Vision](https://gitlab.com/gitlab-com/Product/-/issues/3318)
