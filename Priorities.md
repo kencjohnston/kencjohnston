@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3305)
 1. [Transition Storage Visibility Program](https://gitlab.com/gitlab-com/Product/-/issues/3392)
 1. [Organize/Transfer DRIness for Product UX Q4 OKR](https://gitlab.com/gitlab-com/Product/-/issues/3393)
-1. [Product Analytics Vision Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3318)
+1. Y - [Product Analytics Vision Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3318)
 
 ## 2021-11-08
 1. Argus Finalization
