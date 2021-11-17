@@ -22,12 +22,12 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-11-15
-1. Argus FAQ Finalization
-1. Annual Performance/Potential Calibration
-1. Contribute!
+1. Y - Argus FAQ Finalization
+1. Y - Annual Performance/Potential Calibration
+1. Y - Contribute!
 1. [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3415)
 1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3305)
-1. [Transition Storage Visibility Program](https://gitlab.com/gitlab-com/Product/-/issues/3392)
+1. Y - [Transition Storage Visibility Program](https://gitlab.com/gitlab-com/Product/-/issues/3392)
 1. [Organize/Transfer DRIness for Product UX Q4 OKR](https://gitlab.com/gitlab-com/Product/-/issues/3393)
 1. Y - [Product Analytics Vision Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3318)
 
