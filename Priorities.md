@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Prep and Delivery [Ops Section content for Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3362)
 1. Y - [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3305)
 1. Y - [Transition Storage Visibility Program](https://gitlab.com/gitlab-com/Product/-/issues/3392)
-1. [Organize/Transfer DRIness for Product UX Q4 OKR](https://gitlab.com/gitlab-com/Product/-/issues/3393)
+1. Y - [Organize/Transfer DRIness for Product UX Q4 OKR](https://gitlab.com/gitlab-com/Product/-/issues/3393)
 1. Y - [Product Analytics Vision Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3318)
 
 ## 2021-11-08
