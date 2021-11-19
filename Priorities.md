@@ -25,7 +25,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Argus FAQ Finalization
 1. Y - Annual Performance/Potential Calibration
 1. Y - Contribute!
-1. [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3415)
+1. Y - [Prep for Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3415)
 1. Y - Prep and Delivery [Ops Section content for Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3362)
 1. Y - [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/3305)
 1. Y - [Transition Storage Visibility Program](https://gitlab.com/gitlab-com/Product/-/issues/3392)
