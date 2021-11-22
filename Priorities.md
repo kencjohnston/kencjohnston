@@ -21,6 +21,15 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2021-11-22
+Short, two-day week due to US Thanksgiving Holiday :turkey:
+1. Argus Direction Update Finalization
+1. Present and followup from [Ops Section Monthly PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3415)
+1. Structure and Request for [FY23 Planning and FY22 Lookback](https://gitlab.com/gitlab-com/Product/-/issues/3445) including [Investment Theme Progress](https://gitlab.com/gitlab-com/Product/-/issues/3440)
+1. Review [SuS Score Verbatims](https://gitlab.com/gitlab-com/Product/-/issues/3448) and Request Team Summary/Takeaways
+1. Complete Transition of [Consumption Pricing](https://gitlab.com/gitlab-com/Product/-/issues/3392) and [Product UX OKR ownership](https://gitlab.com/gitlab-com/Product/-/issues/3393)
+1. [Ops Real-Time Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3384)
+
 ## 2021-11-15
 1. Y - Argus FAQ Finalization
 1. Y - Annual Performance/Potential Calibration
