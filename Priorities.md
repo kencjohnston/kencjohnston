@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-11-22
 Short, two-day week due to US Thanksgiving Holiday :turkey:
-1. Argus Direction Update Finalization
+1. Y - Argus Direction Update Finalization
 1. Present and followup from [Ops Section Monthly PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3415)
 1. Y - Structure and Request for [FY23 Planning and FY22 Lookback](https://gitlab.com/gitlab-com/Product/-/issues/3445) including [Investment Theme Progress](https://gitlab.com/gitlab-com/Product/-/issues/3440)
 1. Y - Review [SuS Score Verbatims](https://gitlab.com/gitlab-com/Product/-/issues/3448) and encourage Team Summary/Takeaways
