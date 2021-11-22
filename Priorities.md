@@ -42,10 +42,10 @@ Short, two-day week due to US Thanksgiving Holiday :turkey:
 1. Y - [Product Analytics Vision Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3318)
 
 ## 2021-11-08
-1. Argus Finalization
+1. Y - Argus Finalization
 1. Y - [Contribute Content](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/5556)
 1. Y - Annual Performance/Potential Callibration
-1. [Finalize SKO Content](https://gitlab.com/gitlab-com/Product/-/issues/3220)
+1. Y - [Finalize SKO Content](https://gitlab.com/gitlab-com/Product/-/issues/3220)
 1. Y - Various Analyst Presentations
 1. Y - [Ops Section Retro Closing Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12549)
 1. Y - QBRs
