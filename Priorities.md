@@ -28,7 +28,7 @@ Short, two-day week due to US Thanksgiving Holiday :turkey:
 1. Y - Structure and Request for [FY23 Planning and FY22 Lookback](https://gitlab.com/gitlab-com/Product/-/issues/3445) including [Investment Theme Progress](https://gitlab.com/gitlab-com/Product/-/issues/3440)
 1. Y - Review [SuS Score Verbatims](https://gitlab.com/gitlab-com/Product/-/issues/3448) and encourage Team Summary/Takeaways
 1. Complete Transition of [Consumption Pricing](https://gitlab.com/gitlab-com/Product/-/issues/3392) and [Product UX OKR ownership](https://gitlab.com/gitlab-com/Product/-/issues/3393)
-1. [Ops Real-Time Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3384)
+1. Y - [Ops Real-Time Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3384)
 
 ## 2021-11-15
 1. Y - Argus FAQ Finalization
