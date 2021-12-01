@@ -26,7 +26,7 @@ Short, four day week due to F&F on Monday
 1. Argus Closing and Onboarding Prep
 1. Ops Section [FY22 Lookback, Planning](https://gitlab.com/gitlab-com/Product/-/issues/3445) and [Investment Theme Expectations](https://gitlab.com/gitlab-com/Product/-/issues/3440)
 1. PeopleOps Prep for Product Leadership Offsite
-1. [Investigate Concord ](https://gitlab.com/gitlab-com/Product/-/issues/3447)for Walmart Opp
+1. Y - [Investigate Concord ](https://gitlab.com/gitlab-com/Product/-/issues/3447)for Walmart Opp
 1. Work on Updated [TAM and SAM numbers](https://gitlab.com/gitlab-com/Product/-/issues/3482) from IDC
 1. Y - Complete Transition of [Consumption Pricing](https://gitlab.com/gitlab-com/Product/-/issues/3392) and [Product UX OKR ownership](https://gitlab.com/gitlab-com/Product/-/issues/3393)
 
