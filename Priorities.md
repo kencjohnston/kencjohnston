@@ -28,6 +28,7 @@ Short, four day week due to F&F on Monday
 1. PeopleOps Prep for Product Leadership Offsite
 1. [Investigate Concord ](https://gitlab.com/gitlab-com/Product/-/issues/3447)for Walmart Opp
 1. Work on Updated [TAM and SAM numbers](https://gitlab.com/gitlab-com/Product/-/issues/3482) from IDC
+1. Y - Complete Transition of [Consumption Pricing](https://gitlab.com/gitlab-com/Product/-/issues/3392) and [Product UX OKR ownership](https://gitlab.com/gitlab-com/Product/-/issues/3393)
 
 ## 2021-11-22
 Short, two-day week due to US Thanksgiving Holiday :turkey:
@@ -35,7 +36,7 @@ Short, two-day week due to US Thanksgiving Holiday :turkey:
 1. Y - Present and followup from [Ops Section Monthly PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3415)
 1. Y - Structure and Request for [FY23 Planning and FY22 Lookback](https://gitlab.com/gitlab-com/Product/-/issues/3445) including [Investment Theme Progress](https://gitlab.com/gitlab-com/Product/-/issues/3440)
 1. Y - Review [SuS Score Verbatims](https://gitlab.com/gitlab-com/Product/-/issues/3448) and encourage Team Summary/Takeaways
-1. Complete Transition of [Consumption Pricing](https://gitlab.com/gitlab-com/Product/-/issues/3392) and [Product UX OKR ownership](https://gitlab.com/gitlab-com/Product/-/issues/3393)
+1. N - Complete Transition of [Consumption Pricing](https://gitlab.com/gitlab-com/Product/-/issues/3392) and [Product UX OKR ownership](https://gitlab.com/gitlab-com/Product/-/issues/3393)
 1. Y - [Ops Real-Time Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3384)
 
 ## 2021-11-15
