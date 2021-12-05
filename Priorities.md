@@ -23,8 +23,8 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-11-30
 Short, four day week due to F&F on Monday
-1. Argus Closing and Onboarding Prep
-1. Ops Section [FY22 Lookback, Planning](https://gitlab.com/gitlab-com/Product/-/issues/3445) and [Investment Theme Expectations](https://gitlab.com/gitlab-com/Product/-/issues/3440)
+1. Y - Argus Closing and Onboarding Prep
+1. Y - Ops Section [FY22 Lookback, Planning](https://gitlab.com/gitlab-com/Product/-/issues/3445) and [Investment Theme Expectations](https://gitlab.com/gitlab-com/Product/-/issues/3440)
 1. Y - PeopleOps Prep for Product Leadership Offsite
 1. Y - [Investigate Concord ](https://gitlab.com/gitlab-com/Product/-/issues/3447)for Walmart Opp
 1. Y - Work on Updated [TAM and SAM numbers](https://gitlab.com/gitlab-com/Product/-/issues/3482) from IDC
