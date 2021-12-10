@@ -23,10 +23,11 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-12-06
 PLT Offsite in Denver
-1. Argus Onboarding/Welcome
-1. PLT Offsite including [FY23 Planning](https://gitlab.com/gitlab-com/Product/-/issues/3445#ops-section)
-1. PostHog Eval
-1. [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3436) (light this month because of [Letters from the Editor](https://gitlab.com/gitlab-com/Product/-/issues/3445#ops-section))
+1. Y - Argus Onboarding/Welcome
+1. Argus internal announcement prep
+1. Y - PLT Offsite including [FY23 Planning](https://gitlab.com/gitlab-com/Product/-/issues/3445#ops-section)
+1. Y - PostHog Eval
+1. Y - [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3436) (light this month because of [Letters from the Editor](https://gitlab.com/gitlab-com/Product/-/issues/3445#ops-section))
 1. [Reconsider Ops Stage Names](https://gitlab.com/gitlab-com/Product/-/issues/2932)
 
 ## 2021-11-30
