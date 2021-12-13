@@ -24,7 +24,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2021-12-13
 1. Argus Announcement (Internal and External)
 1. [Take over Free User Strategy DRI](https://gitlab.com/gitlab-com/Product/-/issues/3561)
-1. [Finalize Direction Update Comms](https://gitlab.com/gitlab-com/Product/-/issues/3436)
+1. Y - [Finalize Direction Update Comms](https://gitlab.com/gitlab-com/Product/-/issues/3436)
 1. Update [TAM and SAM Numbers](https://gitlab.com/gitlab-com/Product/-/issues/3482)
 1. Update [Ops Section PI to SpO Contribution](https://gitlab.com/gitlab-com/Product/-/issues/3476) ahead of Monthly PI Review
 1. [Competitive Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/3498) and [CI Competition SKO Content Draft](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
