@@ -21,13 +21,20 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2021-12-13
-1. Argus Announcement (Internal and External)
-1. [Take over Free User Strategy DRI](https://gitlab.com/gitlab-com/Product/-/issues/3561)
-1. Y - [Finalize Direction Update Comms](https://gitlab.com/gitlab-com/Product/-/issues/3436)
-1. Update [TAM and SAM Numbers](https://gitlab.com/gitlab-com/Product/-/issues/3482)
-1. Update [Ops Section PI to SpO Contribution](https://gitlab.com/gitlab-com/Product/-/issues/3476) ahead of Monthly PI Review
+## 2021-12-20
+1. [Prep and Deliver Annual Talent Assessment](https://gitlab.com/gitlab-com/Product/-/issues/3601)
+1. Free SaaS User Efficiency [Program Organization](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
+1. Make [Argus Content Transparent](https://gitlab.com/gitlab-com/Product/-/issues/3567)
+1. Prep for [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3569)
 1. [Competitive Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/3498) and [CI Competition SKO Content Draft](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
+
+## 2021-12-13
+1. Y - Argus Announcement (Internal and External)
+1. Y - [Take over Free User Strategy DRI](https://gitlab.com/gitlab-com/Product/-/issues/3561)
+1. Y - [Finalize Direction Update Comms](https://gitlab.com/gitlab-com/Product/-/issues/3436)
+1. N - Update [TAM and SAM Numbers](https://gitlab.com/gitlab-com/Product/-/issues/3482)
+1. Y - Update [Ops Section PI to SpO Contribution](https://gitlab.com/gitlab-com/Product/-/issues/3476) ahead of Monthly PI Review
+1. N - [Competitive Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/3498) and [CI Competition SKO Content Draft](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
 
 ## 2021-12-06
 PLT Offsite in Denver
