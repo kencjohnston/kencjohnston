@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2021-12-20
 1. Y - [Prep and Deliver Annual Talent Assessment](https://gitlab.com/gitlab-com/Product/-/issues/3601)
-1. Free SaaS User Efficiency [Program Organization](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
+1. Y - Free SaaS User Efficiency [Program Organization](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
 1. Make [Argus Content Transparent](https://gitlab.com/gitlab-com/Product/-/issues/3567)
 1. Y - Prep for [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3569)
 1. [Competitive Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/3498) and [CI Competition SKO Content Draft](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
