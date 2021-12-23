@@ -22,7 +22,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2021-12-20
-1. [Prep and Deliver Annual Talent Assessment](https://gitlab.com/gitlab-com/Product/-/issues/3601)
+1. Y - [Prep and Deliver Annual Talent Assessment](https://gitlab.com/gitlab-com/Product/-/issues/3601)
 1. Free SaaS User Efficiency [Program Organization](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
 1. Make [Argus Content Transparent](https://gitlab.com/gitlab-com/Product/-/issues/3567)
 1. Prep for [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3569)
