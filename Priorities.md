@@ -25,7 +25,7 @@ Three day week with FF on Monday and NYE on Friday
 1. [SaaS Free User Efficiency Organization](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21) - (Create Direction Content, Finance Cost Model Change Management, Rename, Kickoff Prep)
 1. Conduct and Followup from [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3569)
 1. Make [Argus Content Transparent](https://gitlab.com/gitlab-com/Product/-/issues/3567)
-1. [Competitive Roadmap Review](https://gitlab.com/gitlab-com/Product/-/issues/3498) and [CI Competition SKO Content Draft](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
+1. [CI Competition SKO Content Draft](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
 
 ## 2021-12-20
 1. Y - [Prep and Deliver Annual Talent Assessment](https://gitlab.com/gitlab-com/Product/-/issues/3601)
