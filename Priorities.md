@@ -20,6 +20,13 @@ This content is meant to communicate my priorities on a weekly basis. They shoul
 These designations are added to the previous week's priority list when adding the current week's priority.
 * **Y** - Completed
 * **N** - Not completed
+## 2022-01-02
+Happy New Year! Short week with F&F on Monday 2022-01-03
+1. [Kickoff SaaS Free User Program](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
+1. Ensure progress on [Cost Saving Rapid Action](https://gitlab.com/groups/gitlab-org/-/epics/7212#note_800232777)
+1. Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
+1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
+
 ## 2021-12-28
 Three day week with FF on Monday and NYE on Friday
 1. [SaaS Free User Efficiency Organization](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21) - (Create Direction Content, Finance Cost Model Change Management, Rename, Kickoff Prep)
