@@ -23,7 +23,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2022-01-02
 Happy New Year! Short week with F&F on Monday 2022-01-03
 1. [Kickoff SaaS Free User Program](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
-1. Ensure progress on [Cost Saving Rapid Action](https://gitlab.com/groups/gitlab-org/-/epics/7212#note_800232777)
+1. Y - Ensure progress on [Cost Saving Rapid Action](https://gitlab.com/groups/gitlab-org/-/epics/7212#note_800232777)
 1. Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
 1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
 
