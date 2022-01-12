@@ -22,9 +22,9 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2022-01-10
-1. [Kickoff SaaS Free User Program](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
-1. Budget finalization for SaaS Free User Program
-1. [CAB Presentations](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/100)
+1. N - [Kickoff SaaS Free User Program](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
+1. Y - Budget finalization for SaaS Free User Program
+1. Y - [CAB Presentations](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/100)
 1. [Review Annual Comp Cycle Slates in 1:1s](https://gitlab.com/gitlab-com/Product/-/issues/3659)
 1. Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
 1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
