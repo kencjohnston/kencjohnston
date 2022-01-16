@@ -21,14 +21,25 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2022-01-17
+1. Prep and Deliver [Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3645)
+1. Finalize [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
+1. Update SaaS Free User Direction with [Expected Success Measures](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/21)
+1. [Create Change Management Process for Finance Cost Model](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/30)
+1. Begin [Crafting Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
+1. Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
+1. Review, Summarize and Update Directions for [Developer Led Landscape](https://gitlab.com/gitlab-com/Product/-/issues/3674)
+1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
+1. [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
+
 ## 2022-01-10
 1. N - [Kickoff SaaS Free User Program](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
 1. Y - Budget finalization for SaaS Free User Program
 1. Y - [CAB Presentations](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/100)
-1. [Review Annual Comp Cycle Slates in 1:1s](https://gitlab.com/gitlab-com/Product/-/issues/3659)
-1. Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
-1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
-1. [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
+1. Y - [Review Annual Comp Cycle Slates in 1:1s](https://gitlab.com/gitlab-com/Product/-/issues/3659)
+1. N - Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
+1. N - [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
+1. N - [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
 
 ## 2022-01-02
 Happy New Year! Short week with F&F on Monday 2022-01-03
