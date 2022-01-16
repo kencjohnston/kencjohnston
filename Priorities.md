@@ -3,9 +3,9 @@ This content is meant to communicate how I intend to allocate my time. I review 
 
 | Theme | Notes | Percent |
 | ------ | ------ | ------ |
-| Team Development | CDF Reviews, Career Development, Team Engagement, GitLab Values Coaching | 30% |
+| Team Development | CDF Reviews, Career Development, Team Engagement, GitLab Values Coaching | 20% |
 | Sensing Mechanisms | Internal context gathering, customer interviews, analyst inquiries, competitive review, context setting | 10% |
-| Cross Section Product Experience | Think Big-Think Small, Walk-throughs, learning goals, direction content review and creation | 20% |
+| Cross Section Product Experience | Think Big-Think Small, Walk-throughs, learning goals, direction content review and creation | 30% |
 | GTM Engagement | Use Case alignment, Opportunity Review, Sales Support, PMM/TMM Alignment | 15% |
 | Product Performance Indicators | Performance Indicator instrumentation, understanding, goal setting and attainment | 5% |
 | External Evangelism | Ops vision, analyst briefings, conference speaking | 5% |
