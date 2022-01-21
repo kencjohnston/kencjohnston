@@ -28,7 +28,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Create Change Management Process for Finance Cost Model](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/30)
 1. Y - Begin [Crafting Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
 1. Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
-1. Review, Summarize and Update Directions for [Developer Led Landscape](https://gitlab.com/gitlab-com/Product/-/issues/3674)
+1. Y - Review, Summarize and Update Directions for [Developer Led Landscape](https://gitlab.com/gitlab-com/Product/-/issues/3674)
 1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
 1. [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
 
