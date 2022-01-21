@@ -24,9 +24,9 @@ These designations are added to the previous week's priority list when adding th
 ## 2022-01-17
 1. Y - Prep and Deliver [Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3645)
 1. Finalize [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
-1. Update SaaS Free User Direction with [Expected Success Measures](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/21)
+1. Y - Update SaaS Free User Direction with [Expected Success Measures](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/21)
 1. [Create Change Management Process for Finance Cost Model](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/30)
-1. Begin [Crafting Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
+1. Y - Begin [Crafting Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
 1. Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
 1. Review, Summarize and Update Directions for [Developer Led Landscape](https://gitlab.com/gitlab-com/Product/-/issues/3674)
 1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
