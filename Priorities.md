@@ -21,16 +21,26 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
-## 2022-01-17
-1. Y - Prep and Deliver [Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3645)
+## 2022-01-24
+1. Prep and Deliver CDF Updates
+1. Prep and Complete [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3695)
+1. [Ops Section Validation Track Review](https://gitlab.com/gitlab-com/Product/-/issues/3707)
 1. Finalize [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
-1. Y - Update SaaS Free User Direction with [Expected Success Measures](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/21)
-1. [Create Change Management Process for Finance Cost Model](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/30)
-1. Y - Begin [Crafting Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
-1. Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
-1. Y - Review, Summarize and Update Directions for [Developer Led Landscape](https://gitlab.com/gitlab-com/Product/-/issues/3674)
+1. [Begin Outreach to High Usage Registry Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/50)
+1. Continue work on [Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
 1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
 1. [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
+
+## 2022-01-17
+1. Y - Prep and Deliver [Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3645)
+1. N - Finalize [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
+1. Y - Update SaaS Free User Direction with [Expected Success Measures](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/21)
+1. Y - [Create Change Management Process for Finance Cost Model](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/30)
+1. Y - Begin [Crafting Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
+1. N - Follow up from Opstrace acquisition with content - [Direction](https://gitlab.com/gitlab-com/corporate-development/-/issues/27), [Community](https://gitlab.com/gitlab-com/corporate-development/-/issues/28)
+1. Y - Review, Summarize and Update Directions for [Developer Led Landscape](https://gitlab.com/gitlab-com/Product/-/issues/3674)
+1. N - [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
+1. N - [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
 
 ## 2022-01-10
 1. N - [Kickoff SaaS Free User Program](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21)
@@ -50,7 +60,7 @@ Happy New Year! Short week with F&F on Monday 2022-01-03
 
 ## 2021-12-28
 Three day week with FF on Monday and NYE on Friday
-1. [SaaS Free User Efficiency Organization](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21) - (Create Direction Content, Finance Cost Model Change Management, Rename, Kickoff Prep)
+1. Y - [SaaS Free User Efficiency Organization](https://gitlab.com/gitlab-com/free-saas-user-efficiency/-/issues/21) - (Create Direction Content, Finance Cost Model Change Management, Rename, Kickoff Prep)
 1. Y - Conduct and Followup from [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3569)
 1. Y - Make [Argus Content Transparent](https://gitlab.com/gitlab-com/Product/-/issues/3567)
 1. X - [CI Competition SKO Content Draft](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
