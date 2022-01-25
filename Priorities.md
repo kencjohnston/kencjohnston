@@ -22,7 +22,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2022-01-24
-1. Prep and Deliver CDF Updates
+1. Y - Prep and Deliver CDF Updates
 1. Prep and Complete [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3695)
 1. [Ops Section Validation Track Review](https://gitlab.com/gitlab-com/Product/-/issues/3707)
 1. Finalize [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
