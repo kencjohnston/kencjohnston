@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Begin Outreach to High Usage Registry Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/50)
 1. Continue work on [Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
 1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
-1. [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
+1. Y - [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
 
 ## 2022-01-17
 1. Y - Prep and Deliver [Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3645)
