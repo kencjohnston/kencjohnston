@@ -27,7 +27,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Ops Section Validation Track Review](https://gitlab.com/gitlab-com/Product/-/issues/3707)
 1. Finalize [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
 1. Y - [Begin Outreach to High Usage Registry Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/50)
-1. Continue work on [Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
+1. Y - Continue work on [Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
 1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
 1. Y - [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
 
