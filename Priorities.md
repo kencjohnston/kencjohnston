@@ -27,14 +27,23 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2022-01-31
+1. Update and make progress on [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
+1. [Setup Collaborative Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
+1. Continue [outreach to high cost registry users](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/55)
+1. [Dig into "Other Hosting Services" GitLab.com Cost Bucket](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/55)
+1. [Prep for QBRs](https://gitlab.com/gitlab-com/Product/-/issues/3720)
+1. First steps to [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
+1. Make progress on [Principal+ PM Position](https://gitlab.com/gitlab-com/Product/-/issues/3081) and [Updated Director CDF Content](https://gitlab.com/gitlab-com/Product/-/issues/3757)
+
 ## 2022-01-24
 1. Y - Prep and Deliver CDF Updates
 1. Y - Prep and Complete [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3695)
 1. Y - [Ops Section Validation Track Review](https://gitlab.com/gitlab-com/Product/-/issues/3707)
-1. Finalize [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
+1. Y - Finalize [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
 1. Y - [Begin Outreach to High Usage Registry Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/50)
 1. Y - Continue work on [Bottoms Up Model for GitLab.com](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/48)
-1. [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
+1. N - [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
 1. Y - [Set SMAU Goals to hit 3.8M CMAU in FY23](https://gitlab.com/gitlab-com/Product/-/issues/3650)
 
 ## 2022-01-17
