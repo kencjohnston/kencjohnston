@@ -9,9 +9,15 @@ This content is meant to communicate how I intend to allocate my time. I review 
 | GTM Engagement | Use Case alignment, Opportunity Review, Sales Support, PMM/TMM Alignment | 15% |
 | Product Performance Indicators | Performance Indicator instrumentation, understanding, goal setting and attainment | 5% |
 | External Evangelism | Ops vision, analyst briefings, conference speaking | 5% |
-| Core Team Engagement | UX, Development, Quality, Infrastructure shared Performance Indicators and Retrospectives| 5% |
+| Core Team Engagement | UX, Development, Quality, Infrastructure shared Performance Indicators and Retrospectives | 5% |
 | Personal Growth / Leadership Opportunities | Representing GitLab externally, Representing Product internally | 5% |
 | Hiring | Sourcing, interviewing, hiring, onboarding | 5% |
+
+## Quarterly Goals (Current Quarter)
+- On target to hit annual CMAU goals
+- Collaborative Ops Section Walk Through
+- Measurable system for cost-savings initiatives on GitLab.com
+- Role and CDF Updates for Director and Principal+
 
 ## Weekly Priorities
 This content is meant to communicate my priorities on a weekly basis. They should typically be reflected as items in the `Doing` of [my personal issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston). It will be updated weekly. As I'm always striving to learn I'll also add a `Learning Goal` each week. You can see [the history](https://gitlab.com/gitlab-com/Product/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=kencjohnston&label_name[]=Weekly%20Priorities) of my Weekly Priorities setting issues and the [template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Weekly-Priority-Setting-Kenny.md) I use. 
