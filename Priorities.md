@@ -29,11 +29,11 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2022-01-31
 1. Update and make progress on [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
-1. [Setup Collaborative Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
+1. N - [Setup Collaborative Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
 1. Y - Continue [outreach to high cost registry users](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/55)
 1. Y - [Dig into "Other Hosting Services" GitLab.com Cost Bucket](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/55)
 1. Y - [Prep for QBRs](https://gitlab.com/gitlab-com/Product/-/issues/3720)
-1. First steps to [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
+1. Y - First steps to [Propose an Engage/Feedback Stage](https://gitlab.com/gitlab-com/Product/-/issues/3626)
 1. Y - Make progress on [Principal+ PM Position](https://gitlab.com/gitlab-com/Product/-/issues/3081) and Y - [Updated Director CDF Content](https://gitlab.com/gitlab-com/Product/-/issues/3757)
 
 ## 2022-01-24
