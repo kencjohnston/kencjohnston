@@ -27,6 +27,10 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2022-02-07
+1. Draft [SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78)
+1. 
+
 ## 2022-01-31
 1. Update and make progress on [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions)
 1. N - [Setup Collaborative Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
