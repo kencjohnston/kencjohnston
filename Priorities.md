@@ -28,7 +28,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2022-02-07
-1. Update [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions) and provide [Weekly Async Update](https://internal-handbook.gitlab.io/product/saas-efficiency/direction/#weekly-async-updates)
+1. Y - Update [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions) and provide [Weekly Async Update](https://internal-handbook.gitlab.io/product/saas-efficiency/direction/#weekly-async-updates)
 1. [Attend QBRs](https://gitlab.com/gitlab-com/Product/-/issues/3720) on Tuesday & Friday
 1. Draft [SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78)
 1. [Product Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
