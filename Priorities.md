@@ -32,7 +32,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Attend QBRs](https://gitlab.com/gitlab-com/Product/-/issues/3720) on Tuesday & Friday
 1. Draft [SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78)
 1. [Product Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
-1. [Prep Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/3811)
+1. Y - [Prep Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/3811)
 1. Continue [outreach to high cost registry users](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/55)
 1. [Dig into "Other Hosting Services" GitLab.com Cost Bucket](https://gitlab.com/gitlab-com-top-initiatives/free-saas/-/issues/55)
 
