@@ -14,6 +14,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * My strengths tend towards the strategic, I work hard to focus on [getting things done](https://en.wikipedia.org/wiki/Getting_Things_Done) while continuously [improving my strategic thinking skills](https://hbr.org/2016/12/4-ways-to-improve-your-strategic-thinking-skills). 
 * For a someone with strategic strengths I'm surprisingly task motivated - I enjoy breaking down tasks and checking off lists. I look at my [GitLab Activity](https://gitlab.com/kencjohnston) a bit too often.
 * I'm demotivated by work without accomplishment. Meetings with conversation that doesn't end in something concrete frustrate me. Knowing I have a day full of non-action oriented meetings makes me want to hit the snooze button. 
+* I believe in the power of repetition. Whether it is building customer empathy, creating a data driven organization, coaching team members, finding and attracting top-talent or communicating about change - we only build muscle and make our way towards mastery through regular practice. I tend to create [regular process issue templates](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates) to help me stick with that reptition. 
 * 👣 I often get bogged down in a search for efficiency, especially with new tasks. This can lead to my taking authority from DRIs. Feel free to call me out on it.
 * I believe in [working smarter not harder](https://www.inc.com/john-rampton/work-smarter-not-harder-10-ways-to-be-more-effective-at-work.html), in an effort to [scale myself](https://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/). 
 * I'm even-keeled. That can lead others to read into tone that wasn't there. I try to [prevent that from happening](https://www.fastcompany.com/3054178/5-ways-to-avoid-a-massive-email-misunderstanding).
@@ -32,11 +33,13 @@ If we are working together, or even if we aren't, here are some things it might 
 * I'm a strong believer that while product managers are typically hyper-efficient individuals, they are one of the few individuals driving a company's effectiveness.
 * It can be hard to strike the balance between ambition through pursuit of new markets, and focus on delivering results in immediate adjacencies. Product Managers are one of the few groups looking out for those opportunities. I'm always interested in hearing and helping you evaluate new investment opportunities.
 * 👣 I'm working on striking the right balance between providing more direct input into Product Direction and empowering autonomy in teams I support. Please do not hesitate to call me out if I'm being overly directive.
-* Uniquely as a Product Leader, I find it critical to create global context and so go out of my way to share context broadley.
+* 👣 As a Product Leader it's my job to ensure we are effectively using our R&D investment across my portfolio. This means I need to spend time spotting cross-stage initiatives, painting a vision for them and ensuring global context is provided to enable individual PMs to align around pursuing it. This can come in the form of Direction updates, Investment Cases or person and workflow research.
+* Uniquely as a Product Leader, I find it critical to create global context and so go out of my way to share context broadley. This involves sharing global context (particularly business impact) learned from outside of my scoope within my scope AND, just as importantly, sharing context from within my scope outside of my scope.
+* 👣 As a Product Leader I also serve as our foremost expert on our product and advocate for our product in GTM pursuits.  I try to involve myself in Strategic Pursuits where senior product leadership can help make an impact with prospects and customers. 
 * I really enjoy coaching, mentoring and advising Product Managers. Do not hestitate to reach out to me.
 
 ### Leadership
-* 👣 I'm a values leader, and I am very bought in to [GitLab's values](https://about.gitlab.com/handbook/values/). As a leader it is my responsibility to educate others, and project, promote and further our values. This includes identifying values that my team members individually identify closely with and [telling stories](https://www.arielgroup.com/values-based-storytelling/) about and promoting examples of exceptional value based behavior. Please let me know if I'm failing to meet that standard. 
+* 👣 I'm a values leader, and I am very bought in to [GitLab's values](https://about.gitlab.com/handbook/values/). As a leader it is my responsibility to educate others, and project, promote and further our values. This includes identifying values that my team members individually identify closely with and [telling stories](https://www.arielgroup.com/values-based-storytelling/) about and promoting examples of exceptional value-based behavior. Please let me know if I'm failing to meet that standard. 
 * I want to be the type of leader I'd like to have - Loving, Trusting, Fair and Consistent.
 * 👣 My even keeled-ness can lead to my not showcasing my excitement. I'm working on making sure I pause, recognize accomplishment and highlight my excitement for where my team, product and company are headed.
 * I aspire to be a servant leader, but I've got a long-way to go. Please provide me feedback to help me get there.
@@ -72,7 +75,6 @@ If we are working together, or even if we aren't, here are some things it might 
 * I'm a big believer in inbox zero and I process my email, slack and GitLab TODO inbox to zero multiple times a day to keep my focus on my [personal GitLab issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston) and [priorities](https://gitlab.com/kencjohnston/README/-/blob/master/Priorities.md).
 * I use ToDoist for short-term tasks and reminders that aren't appropriate for GitLab issues.
 * I strive to strike a balance in [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) between bias for action and providing space for review and contribution. That can sometimes result in ignorance or annoyance resulting in low effectiveness. Please don't hesitate to call me out if I'm over or under communicating.
-* 👣 I have a tendency to rely on the `ping?` initial contact in Slack. That isn't helpful and I'm working to just directly state what I'm interested in discussing. Please remind me not to do by responding with `NO PING`. :smile:
 * My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
 
 ### Teams I Support
@@ -85,7 +87,7 @@ I [support the Product Management team](https://about.gitlab.com/company/team/or
 * Share what you learn, whether that is relevant articles, conference notes or TED talks.
 * When sharing info with me, my preference is to consume YOUR expertise. Rather than sharing an Analyst Report relevant for your categories, share an MR where you reference it and highlight how it impacts your product scope.
 * 👣 I don't always do the best just of communicating priority, and expected actions when requesting them from team members. I'm working on doing so to enable you to make smart effectiveness choices. I will always thank you for asking for the Why, or an indication of priority.
-* 👣 I will add , `FYI`, `FYA`, `FYR` (and avoid the non-specific CC) to responses to ensure I'm setting expectations correctly.
+* I will add , `FYI`, `FYA`, `FYR` (and avoid the non-specific CC) to responses to ensure I'm setting expectations correctly.
    * FYI - For Your Information - No response or reaction required
    * FYA - For Your Action - A request to reassign all or a portion of work to you, this is where I tend to leave ambiguity. Feel free to respond very directly with a request for clarity. I will always thank you for doing so.
    * FYR - For Your Review - A request for review (sometimes utilizing the reviewer functionality) and approval
