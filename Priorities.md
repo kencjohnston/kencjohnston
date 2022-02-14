@@ -27,10 +27,19 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2022-02-14
+I'm OoO on a Family Ski Trip [2022-02-16 - 2022-02-18](https://gitlab.com/gitlab-com/Product/-/issues/3811). 
+
+1. Draft [SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78)
+1. [Attend QBRs](https://gitlab.com/gitlab-com/Product/-/issues/3720) on Monday & Tuesday
+1. [Product Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. Schedule [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792) and [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
+1. [Next Outreach to High Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/50)
+
 ## 2022-02-07
 1. Y - Update [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions) and provide [Weekly Async Update](https://internal-handbook.gitlab.io/product/saas-efficiency/direction/#weekly-async-updates)
 1. Y - [Attend QBRs](https://gitlab.com/gitlab-com/Product/-/issues/3720) on Tuesday & Friday
-1. Draft [SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78)
+1. N - Draft [SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78)
 1. Y - [Product Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. Y - [Prep Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/3811)
 1. Y - Continue [outreach to high cost registry users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/50)
