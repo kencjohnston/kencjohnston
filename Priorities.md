@@ -34,7 +34,7 @@ I'm OoO on a Family Ski Trip [2022-02-16 - 2022-02-18](https://gitlab.com/gitlab
 1. Y - [Attend QBRs](https://gitlab.com/gitlab-com/Product/-/issues/3720) on Monday & Tuesday
 1. [Product Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. Schedule Y - [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792) and [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
-1. [Next Outreach to High Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/50)
+1. Y - [Next Outreach to High Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/50)
 
 ## 2022-02-07
 1. Y - Update [Pending SaaS Free User Decisions](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/6#interrobang-pending-decisions) and provide [Weekly Async Update](https://internal-handbook.gitlab.io/product/saas-efficiency/direction/#weekly-async-updates)
