@@ -27,6 +27,15 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2022-02-21
+Short week with US Holiday on Monday and F&F on Friday
+
+1. Finalize [Product Keynote SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78) and [CI/CD Competitive SKO Content](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
+1. Prep for Director of Product, Dev interviews
+1. [Product Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. Prep for and Delivery [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3830)
+1. Schedule [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
+
 ## 2022-02-14
 Short Week - I'm OoO on a Family Ski Trip [2022-02-16 - 2022-02-18](https://gitlab.com/gitlab-com/Product/-/issues/3811). 
 
