@@ -28,12 +28,12 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2022-02-14
-I'm OoO on a Family Ski Trip [2022-02-16 - 2022-02-18](https://gitlab.com/gitlab-com/Product/-/issues/3811). 
+Short Week - I'm OoO on a Family Ski Trip [2022-02-16 - 2022-02-18](https://gitlab.com/gitlab-com/Product/-/issues/3811). 
 
-1. Draft Y - [Product Keynote SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78) and [CI/CD Competitive SKO Content](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
+1. Draft Y - [Product Keynote SKO Content](https://gitlab.com/gitlab-com/marketing/sales-kick-off/fy22-sales-kick-off/-/issues/78) and N - [CI/CD Competitive SKO Content](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1099)
 1. Y - [Attend QBRs](https://gitlab.com/gitlab-com/Product/-/issues/3720) on Monday & Tuesday
-1. [Product Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
-1. Schedule Y - [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792) and [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
+1. N - [Product Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. Schedule Y - [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792) and N - [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
 1. Y - [Next Outreach to High Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/50)
 
 ## 2022-02-07
