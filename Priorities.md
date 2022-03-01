@@ -28,7 +28,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2022-02-28
-1. Close Out [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3830)
+1. Y - Close Out [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3830)
 1. Hold [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792)
 1. Plan [Monitor:Observability Vision Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3893)
 1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
