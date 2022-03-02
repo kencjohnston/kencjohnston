@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2022-02-28
 1. Y - Close Out [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3830)
-1. Hold [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792)
+1. Y - Hold [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792)
 1. Plan [Monitor:Observability Vision Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3893)
 1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. Schedule [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
