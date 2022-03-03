@@ -32,7 +32,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Hold [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792)
 1. Plan [Monitor:Observability Vision Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3893)
 1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
-1. Schedule [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
+1. Y - Schedule [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
 
 ## 2022-02-21
 Short week with US Holiday on Monday and F&F on Friday
