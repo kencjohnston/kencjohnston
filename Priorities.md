@@ -27,11 +27,24 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2022-03-07
+1. [Ensure Ops Leadership Regularly Tracks Security Issues](https://gitlab.com/gitlab-com/Product/-/issues/3912)
+1. Create a [SFUE Sub-Project for Optimizing Top-Level Group Flows](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/66)
+1. [Update SFUE Comms Plan to include Impacts and Cohorts](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/67)
+1. Kickoff [Rapid Action for SSOT on Cost Data](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/65)
+1. Prep and Conduct [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
+1. [Engage Stage next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. Schedule [Monitor:Observability Vision Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3893)
+1. Next steps for [making health analysis visible to product](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/880)
+1. [Outreach to High Usage Registry Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/50)
+1. Next Steps on [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792)
+
 ## 2022-02-28
 1. Y - Close Out [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3830)
+1. Y - Record Product SKO Content
 1. Y - Hold [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792)
 1. Y - Plan [Monitor:Observability Vision Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3893)
-1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. N - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. Y - Schedule [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
 
 ## 2022-02-21
