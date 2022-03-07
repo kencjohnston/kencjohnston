@@ -32,7 +32,7 @@ These designations are added to the previous week's priority list when adding th
 1. W - Create a [SFUE Sub-Project for Optimizing Top-Level Group Flows](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/66)
 1. W - [Update SFUE Comms Plan to include Impacts and Cohorts](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/67)
 1. Kickoff [Rapid Action for SSOT on Cost Data](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/65)
-1. Prep and Conduct [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
+1. W - Prep and Conduct [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
 1. [Engage Stage next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. Schedule [Monitor:Observability Vision Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3893)
 1. Next steps for [making health analysis visible to product](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/880)
