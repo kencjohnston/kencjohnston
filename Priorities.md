@@ -28,7 +28,7 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 
 ## 2022-03-07
-1. [Ensure Ops Leadership Regularly Tracks Security Issues](https://gitlab.com/gitlab-com/Product/-/issues/3912)
+1. Y - [Ensure Ops Leadership Regularly Tracks Security Issues](https://gitlab.com/gitlab-com/Product/-/issues/3912)
 1. W - Create a [SFUE Sub-Project for Optimizing Top-Level Group Flows](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/66)
 1. W - [Update SFUE Comms Plan to include Impacts and Cohorts](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/67)
 1. Kickoff [Rapid Action for SSOT on Cost Data](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/65)
