@@ -37,7 +37,7 @@ These designations are added to the previous week's priority list when adding th
 1. N - Schedule [Monitor:Observability Vision Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3893)
 1. Y - Next steps for [making health analysis visible to product](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/880)
 1. Y - [Outreach to High Usage Registry Transfer Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/50)
-1. Next Steps on [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792)
+1. Y - Next Steps on [Ops Section Direction Review](https://gitlab.com/gitlab-com/Product/-/issues/3792)
 
 ## 2022-02-28
 1. Y - Close Out [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3830)
