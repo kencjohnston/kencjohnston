@@ -27,10 +27,23 @@ These designations are added to the previous week's priority list when adding th
 * **Y** - Completed
 * **N** - Not completed
 
+## 2022-03-14
+I'm attending Virtual SKO this week so my availabilty is somewhat limited.
+
+1. Attend/Present at Virtual SKO
+1. Update, Summarize and Review [Ops Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3855)
+1. Finalize [Borrow Request for Clickhouse Acceleration](https://gitlab.com/gitlab-com/Product/-/issues/3897)
+1. [Ensure Rapid Action Structure Gets Started for SSOT](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/65)
+1. [Create a Sub-Project for Identifying Company Free Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/68)
+1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. Setup [Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
+1. Work on [Proposal for next step in PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
+1. [Prep and Deliver Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3917)
+
 ## 2022-03-07
 1. Y - [Ensure Ops Leadership Regularly Tracks Security Issues](https://gitlab.com/gitlab-com/Product/-/issues/3912)
 1. Y - Create a [SFUE Sub-Project for Optimizing Top-Level Group Flows](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/66)
-1. W - [Update SFUE Comms Plan to include Impacts and Cohorts](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/67)
+1. Y - [Update SFUE Comms Plan to include Impacts and Cohorts](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/67)
 1. Y - Kickoff [Rapid Action for SSOT on Cost Data](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/65)
 1. Y - Prep and Conduct [SaaS Free User Efficiency Kickoff](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/61)
 1. [Engage Stage next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
