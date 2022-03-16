@@ -30,11 +30,11 @@ These designations are added to the previous week's priority list when adding th
 ## 2022-03-14
 I'm attending Virtual SKO this week so my availabilty is somewhat limited.
 
-1. Attend/Present at Virtual SKO
+1. Y - Attend/Present at Virtual SKO
 1. Y - Update, Summarize and Review [Ops Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3855)
 1. Finalize [Borrow Request for Clickhouse Acceleration](https://gitlab.com/gitlab-com/Product/-/issues/3897)
-1. [Ensure Rapid Action Structure Gets Started for SSOT](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/65)
-1. W - [Create a Sub-Project for Identifying Company Free Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/68)
+1. W - [Ensure Rapid Action Structure Gets Started for SSOT](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/65)
+1. Y - [Create a Sub-Project for Identifying Company Free Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/68)
 1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. Setup [Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
 1. Work on [Proposal for next step in PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
