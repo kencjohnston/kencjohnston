@@ -38,7 +38,7 @@ I'm attending Virtual SKO this week so my availabilty is somewhat limited.
 1. Y - [Create a Sub-Project for Identifying Company Free Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/68)
 1. Y - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. Setup [Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
-1. Work on [Proposal for next step in PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
+1. Y - Work on [Proposal for next step in PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
 1. N - [Prep and Deliver Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3917)
 
 ## 2022-03-07
