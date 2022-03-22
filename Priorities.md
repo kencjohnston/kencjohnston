@@ -32,7 +32,7 @@ These designations are added to the previous week's priority list when adding th
 Short week, I'm OoO W-Th and we have F&F Day on Friday.
 1. Y - Prepare, present and followup from the [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3933)
 1. Y - Prepare and present for [Monthly Release Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3917)
-1. W - Prep [Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/3975)
+1. Y - Prep [Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/3975)
 1. Y - Work on [a possible Cost Neutral HC Swap for Support Monitor:Observability](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13185)
 
 ## 2022-03-14
