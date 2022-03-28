@@ -28,6 +28,13 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-03-28
+1. Finalize [Cost Neutral Headcount Swap](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13185)
+1. Action the [Clickhouse Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/3897)
+1. Final reviews before submitting for approval adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
+1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+1. Update [Ops Section Use Case Content](https://gitlab.com/gitlab-com/corporate-development/-/issues/27) and [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
+
 ## 2022-03-21
 Short week, I'm OoO W-Th and we have F&F Day on Friday.
 1. Y - Prepare, present and followup from the [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/3933)
