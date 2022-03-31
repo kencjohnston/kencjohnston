@@ -30,7 +30,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2022-03-28
 1. Y - Finalize [Cost Neutral Headcount Swap](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13185)
-1. Action the [Clickhouse Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/3897)
+1. Y - Action the [Clickhouse Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/3897)
 1. Y - Final reviews before submitting for approval adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
 1. W - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
