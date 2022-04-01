@@ -35,7 +35,7 @@ These designations are added to the previous week's priority list when adding th
 1. W - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 1. Set [SFUE Conversion Targets](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
-1. Update [Ops Section Use Case Content](https://gitlab.com/gitlab-com/corporate-development/-/issues/27) and [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
+1. Y - Update [Ops Section Use Case Content](https://gitlab.com/gitlab-com/corporate-development/-/issues/27) and [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
 
 ## 2022-03-21
 Short week, I'm OoO W-Th and we have F&F Day on Friday.
