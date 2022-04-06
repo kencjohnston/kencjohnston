@@ -28,6 +28,15 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-04-04
+1. Attend and Participate in the E-Group Offsite
+1. [Prepare content for and present Roadmap for customer roadmap review](https://docs.google.com/document/d/1bhrr_3bZpclPgeKaHjFHYHtklpdZ14u6C-JRXacztk0/edit)
+1. [Action the Verify Breaking Changes Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/3852)
+1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+1. Prep Coverage Issue
+1. [Work on Ops Section Pitch Deck](https://gitlab.com/gitlab-com/corporate-development/-/issues/27)
+1. [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
+
 ## 2022-03-28
 1. Y - Finalize [Cost Neutral Headcount Swap](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13185)
 1. Y - Action the [Clickhouse Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/3897)
