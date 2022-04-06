@@ -36,13 +36,15 @@ These designations are added to the previous week's priority list when adding th
 1. Prep Coverage Issue
 1. [Work on Ops Section Pitch Deck](https://gitlab.com/gitlab-com/corporate-development/-/issues/27)
 1. [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
+1. W - Final reviews before submitting for approval adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
+1. W - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 
 ## 2022-03-28
 1. Y - Finalize [Cost Neutral Headcount Swap](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13185)
 1. Y - Action the [Clickhouse Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/3897)
 1. Y - Final reviews before submitting for approval adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
 1. W - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
-1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+1. N - [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 1. Y - Create a plan to set [SFUE Conversion Targets](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
 1. Y - Update [Ops Section Use Case Content](https://gitlab.com/gitlab-com/corporate-development/-/issues/27) and [Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
 
@@ -62,7 +64,7 @@ I'm attending Virtual SKO this week so my availabilty is somewhat limited.
 1. Y - [Ensure Rapid Action Structure Gets Started for SSOT](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/65)
 1. Y - [Create a Sub-Project for Identifying Company Free Users](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/68)
 1. Y - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
-1. Setup [Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
+1. N - Setup [Ops Section Walk Through](https://gitlab.com/gitlab-com/Product/-/issues/3758)
 1. Y - Work on [Proposal for next step in PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
 1. N - [Prep and Deliver Kickoff](https://gitlab.com/gitlab-com/Product/-/issues/3917)
 
