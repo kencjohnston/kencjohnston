@@ -28,6 +28,19 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-04-18
+1. [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
+1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
+1. [Q2+ Adjustments to SFUE Cost Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
+1. [Follow up on FY24 LRO Free Hosting](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/73)
+1. [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
+1. Final reviews before submitting for approval adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
+1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+
+## 2022-04-11
+OoO on PTO
+
 ## 2022-04-04
 1. Y - Attend and Participate in the E-Group Offsite
 1. Y - [Prepare content for and present Roadmap for customer roadmap review](https://docs.google.com/document/d/1bhrr_3bZpclPgeKaHjFHYHtklpdZ14u6C-JRXacztk0/edit)
