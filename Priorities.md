@@ -28,15 +28,26 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
-## 2022-04-18
-1. [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
-1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
-1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
+## 2022-04-25
+1. Team CDF Reviews
 1. [Q2+ Adjustments to SFUE Cost Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
-1. [Follow up on FY24 LRO Free Hosting](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/73)
-1. [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
-1. Final reviews before submitting for approval adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
-1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
+1. [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
+1. [Finalize -10% Proposal](https://gitlab.com/gitlab-com/Product/-/issues/4057)
+1. Prep, Present and Followup from [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4063)
+1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+1. Communicate adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
+1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785) including beginning [Discovery](https://gitlab.com/gitlab-com/Product/-/issues/4113)
+
+## 2022-04-18
+1. N - [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
+1. N - [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+1. N - [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
+1. Y - [Q2+ Adjustments to SFUE Cost Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
+1. Y - [Follow up on FY24 LRO Free Hosting](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/73)
+1. N - [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/3968)
+1. Y - Final reviews before submitting for approval adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
+1. Y - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 
 ## 2022-04-11
 OoO on PTO
