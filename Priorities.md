@@ -34,7 +34,7 @@ These designations are added to the previous week's priority list when adding th
 1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
 1. [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
 1. [Finalize -10% Proposal](https://gitlab.com/gitlab-com/Product/-/issues/4057)
-1. Prep, Present and Followup from [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4063)
+1. Y - Prep, Present and Followup from [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4063)
 1. [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 1. Communicate adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
 1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785) including beginning [Discovery](https://gitlab.com/gitlab-com/Product/-/issues/4113)
