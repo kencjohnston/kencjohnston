@@ -33,7 +33,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Q2+ Adjustments to SFUE Cost Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
 1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
 1. Y - Progress to [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
-1. [Finalize -10% Proposal](https://gitlab.com/gitlab-com/Product/-/issues/4057)
+1. Y - [Finalize -10% Proposal](https://gitlab.com/gitlab-com/Product/-/issues/4057)
 1. Y - Prep, Present and Followup from [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4063)
 1. N - [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 1. W - Communicate adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
