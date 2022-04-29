@@ -30,7 +30,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2022-04-25
 1. Y - Team CDF Reviews
-1. [Q2+ Adjustments to SFUE Cost Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
+1. Y - [Q2+ Adjustments to SFUE Cost Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
 1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
 1. Y - Progress to [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
 1. [Finalize -10% Proposal](https://gitlab.com/gitlab-com/Product/-/issues/4057)
