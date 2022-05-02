@@ -27,16 +27,26 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-05-02
+1. [Finalize Q2 Adjustments to SFUE Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
+1. Attend QBRs
+1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
+1. Begin [AFKA (Engage) Stage Discovery](https://gitlab.com/gitlab-com/Product/-/issues/4113)
+1. [Set Conversion Goals for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
+1. [Next steps on SFUE Attribution](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/77)
+1. Next Steps after [Bottom 10% Proposal E-Group Review](https://gitlab.com/gitlab-com/Product/-/issues/4057)
+1. Finalize [Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
+
 ## 2022-04-25
 1. Y - Team CDF Reviews
 1. Y - [Q2+ Adjustments to SFUE Cost Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
-1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
+1. N - [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
 1. Y - Progress to [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
 1. Y - [Finalize -10% Proposal](https://gitlab.com/gitlab-com/Product/-/issues/4057)
 1. Y - Prep, Present and Followup from [Ops PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4063)
 1. N - [Followup on Forced Prioritization Ops Section PM Discuss](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 1. W - Communicate adding an [additional role in the PM ladder](https://gitlab.com/gitlab-com/Product/-/issues/3081)
-1. [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785) including beginning [Discovery](https://gitlab.com/gitlab-com/Product/-/issues/4113)
+1. N - [Engage Stage Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785) including beginning [Discovery](https://gitlab.com/gitlab-com/Product/-/issues/4113)
 
 ## 2022-04-18
 1. N - [Secure Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
