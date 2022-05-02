@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2022-05-02
 1. [Finalize Q2 Adjustments to SFUE Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
-1. Attend QBRs
+1. Y - Attend QBRs
 1. [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
 1. Begin [AFKA (Engage) Stage Discovery](https://gitlab.com/gitlab-com/Product/-/issues/4113)
 1. [Set Conversion Goals for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
