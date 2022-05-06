@@ -34,7 +34,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - Begin [AFKA (Engage) Stage Discovery](https://gitlab.com/gitlab-com/Product/-/issues/4113)
 1. [Set Conversion Goals for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
 1. Y - [Next steps on SFUE Attribution](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/77)
-1. Next Steps after [Bottom 10% Proposal E-Group Review](https://gitlab.com/gitlab-com/Product/-/issues/4057)
+1. Y - Next Steps after [Bottom 10% Proposal E-Group Review](https://gitlab.com/gitlab-com/Product/-/issues/4057)
 1. Finalize [Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
 
 ## 2022-04-25
