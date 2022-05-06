@@ -28,7 +28,7 @@ These designations are added to the previous week's priority list when adding th
 * **W** - Waiting for next steps
 
 ## 2022-05-02
-1. [Finalize Q2 Adjustments to SFUE Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
+1. Y - [Finalize Q2 Adjustments to SFUE Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
 1. Y - Attend QBRs
 1. Y - [Prep Retrospective for Verify Borrow Request](https://gitlab.com/gitlab-com/Product/-/issues/4082)
 1. Y - Begin [AFKA (Engage) Stage Discovery](https://gitlab.com/gitlab-com/Product/-/issues/4113)
