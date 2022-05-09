@@ -27,6 +27,12 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-05-09
+Only in two days this week, traveling for a prospect visit on Wednesday and Thursday and out the following week at a conference.
+1. [Prep for Prospect visit](https://gitlab.com/gitlab-com/Product/-/issues/4182)
+1. [Prep Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/4192)
+1. Finalize and Publish [Quarterly Opportunity Review Highlights](https://gitlab.com/gitlab-com/Product/-/issues/4161)
+
 ## 2022-05-02
 1. Y - [Finalize Q2 Adjustments to SFUE Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
 1. Y - Attend QBRs
