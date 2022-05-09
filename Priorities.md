@@ -32,6 +32,7 @@ Only in two days this week, traveling for a prospect visit on Wednesday and Thur
 1. [Prep for Prospect visit](https://gitlab.com/gitlab-com/Product/-/issues/4182)
 1. Y - [Prep Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/4192)
 1. Finalize and Publish [Quarterly Opportunity Review Highlights](https://gitlab.com/gitlab-com/Product/-/issues/4161)
+1. Y - Complete [Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
 
 ## 2022-05-02
 1. Y - [Finalize Q2 Adjustments to SFUE Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/76)
