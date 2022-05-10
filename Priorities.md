@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2022-05-09
 Only in two days this week, traveling for a prospect visit on Wednesday and Thursday and out the following week at a conference.
-1. [Prep for Prospect visit](https://gitlab.com/gitlab-com/Product/-/issues/4182)
+1. Y - [Prep for Prospect visit](https://gitlab.com/gitlab-com/Product/-/issues/4182)
 1. Y - [Prep Coverage Issue](https://gitlab.com/gitlab-com/Product/-/issues/4192)
 1. Finalize and Publish [Quarterly Opportunity Review Highlights](https://gitlab.com/gitlab-com/Product/-/issues/4161)
 1. Y - Complete [Clickhouse Service Contract](https://gitlab.com/gitlab-com/Product/-/issues/4100)
