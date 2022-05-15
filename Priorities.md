@@ -33,7 +33,7 @@ I'm in Valencia for KubeCon and traveling all day Friday.
 1. Finalize [April Cost Data review](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/78)
 1. Finalize [Ops Section Borrow Request Retrospective](https://gitlab.com/gitlab-com/Product/-/issues/4082)
 1. Complete and Summarize [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/4091)
-1. Request [FY24 Usage Goals from Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/4195)
+1. Y - Request [FY24 Usage Goals from Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/4195)
 
 ## 2022-05-09
 Only in two days this week, traveling for a prospect visit on Wednesday and Thursday and out the following week at a conference.
