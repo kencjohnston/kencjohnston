@@ -30,8 +30,8 @@ These designations are added to the previous week's priority list when adding th
 ## 2022-05-16
 I'm in Valencia for KubeCon and traveling all day Friday.
 1. Make progress on SFUE [attribution next steps](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/77) and [setting conversion goals](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
-1. Finalize [April Cost Data review](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/78)
-1. Finalize [Ops Section Borrow Request Retrospective](https://gitlab.com/gitlab-com/Product/-/issues/4082)
+1. W - Finalize [April Cost Data review](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/78)
+1. Y - Finalize [Ops Section Borrow Request Retrospective](https://gitlab.com/gitlab-com/Product/-/issues/4082)
 1. Y - Complete and Summarize [Ops Section Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/4091)
 1. Y - Request [FY24 Usage Goals from Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/4195)
 
