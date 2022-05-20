@@ -66,6 +66,13 @@ If we are working together, or even if we aren't, here are some things it might 
 * I'm a big believer in inbox zero and I process my GitLab TODOs, slack and email to zero multiple times a day.
 * I avoid email for most everything (thanks GitLab!). Fun fact, I've had direct team members go years without sending me an email.
 
+#### Mac Spaces Setup
+* I use Mac Spaces and configure my desktop with four of them - I think of them with the following designations 
+    * ACTIVE - This is a blank space where I move whatever my current focus is - nothing else is in that space than that activity. Usually VSCode is in this space as a result.
+    * UP NEXT - I keep ToDoist, and a browser that has links to my Priorities, Issue Boards, Issue List, MR List and GitLab Activity. These are all listed in a folder called "UP NEXT" in my browser's bookmarks bar
+    * INBOX - I keep Slack, Zoom and a browser that has tabs for my GitLab ToDos, GitLab Calendar and GitLab Gmail.
+    * PERSONAL - I keep Spotify, and a browser (logged in with my personal gmail account) that has my personal Gmail, WhatsApp and Messages 
+
 #### GitLab
 * As mentioned above, GitLab issues are my preferred collaboration method. As a result, I'm an exclusive user of GitLab TODOs. Please @ mention me when responding to issues, otherwise I won't get the notification.
 * After clearing GitLab TODOs, my primary focus is on my [personal GitLab issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston) and [priorities](https://gitlab.com/kencjohnston/README/-/blob/master/Priorities.md).
