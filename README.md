@@ -14,7 +14,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * My strengths tend towards the strategic, I work hard to focus on [getting things done](https://en.wikipedia.org/wiki/Getting_Things_Done) while continuously [improving my strategic thinking skills](https://hbr.org/2016/12/4-ways-to-improve-your-strategic-thinking-skills). 
 * For a someone with strategic strengths I'm surprisingly task motivated - I enjoy breaking down tasks and checking off lists. I look at my [GitLab Activity](https://gitlab.com/kencjohnston) a bit too often.
 * I'm demotivated by work without accomplishment. Meetings with conversation that doesn't end in something concrete frustrate me. Knowing I have a day full of non-action oriented meetings makes me want to hit the snooze button. 
-* I believe in the power of repetition. Whether it is building customer empathy, creating a data driven organization, coaching team members, finding and attracting top-talent or communicating about change - we only build muscle and make our way towards mastery through regular practice. I tend to create [regular process issue templates](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates) to help me stick with that reptition. 
+* I believe in the power of repetition. Whether it is building customer empathy, creating a data driven organization, coaching team members, finding and attracting top-talent or communicating about change - we only build muscle and make our way towards mastery through regular practice. This leads me to create automation to regularly generate GitLab issues & tasks for myself and my teams.
 * 👣 I often get bogged down in a search for efficiency, especially with new tasks. This can lead to my taking authority from DRIs. Feel free to call me out on it.
 * I believe in [working smarter not harder](https://www.inc.com/john-rampton/work-smarter-not-harder-10-ways-to-be-more-effective-at-work.html), in an effort to [scale myself](https://firstround.com/review/our-6-must-reads-for-scaling-yourself-as-a-leader/). 
 * I'm even-keeled. That can lead others to read into tone that wasn't there. I try to [prevent that from happening](https://www.fastcompany.com/3054178/5-ways-to-avoid-a-massive-email-misunderstanding).
@@ -27,6 +27,7 @@ If we are working together, or even if we aren't, here are some things it might 
 * 👣 I aspire to use [inclusive language](https://docs.google.com/presentation/d/186RK9QqOYxF8BmVS15AOKvwFpt4WglKKDR7cUCeDGkE/edit?usp=sharing), actively listen and eliminate [co-optation](https://www.youtube.com/watch?v=zNCrMEOqHpc). Please call out when I make mistakes or fail. I will ALWAYS thank you for it.
 * 👣 I hope to inspire an upstanding (not bystanding), psychologically safe, and growth oriented work environment via my daily actions so that everyone can contribute in an environment where they experience belonging. 
 * Outside of work I love to cook, play soccer, build puzzles and travel. I created this [5x5 presentation](https://docs.google.com/presentation/d/1K9Cpnr6gVJroLbbAbGaHMVPmpM5ICCZ1AESuo4N5u7A/edit?usp=sharing) to walk through more about me. 
+* My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
 
 ### Product
 * I LOVE the function of Product Management. In my first tech-job after meeting a Product Manager I immediately thought - "That's who I want to be when I grow up!"
@@ -62,10 +63,18 @@ If we are working together, or even if we aren't, here are some things it might 
     * Email - I check email only periodically throughout the day. I have no alerts setup to inform me of newly arriving email. 
     * SMS - I have my phone by my side during regular work hours to review texts or receive calls. Outside of work hours I'm hit or miss on SMS.
     * Phone - If I'm in a meeting I will let my phone go to voicemail. I only return calls that leave voicemails. If it is urgent, call my phone twice back-to-back and I will step out of what I'm doing to answer.
-* I avoid email for the following activities (thanks GitLab!):
-    * Long dialog requiring discussion - better to create an issue, start a conversation on slack or setup a meeting
-    * Requests for review - better to create an issue, or start a slack converation and ping the required reviewers
+* I'm a big believer in inbox zero and I process my GitLab TODOs, slack and email to zero multiple times a day.
+* I avoid email for most everything (thanks GitLab!). Fun fact, I've had direct team members go years without sending me an email.
+
+#### GitLab
 * As mentioned above, GitLab issues are my preferred collaboration method. As a result, I'm an exclusive user of GitLab TODOs. Please @ mention me when responding to issues, otherwise I won't get the notification.
+* After clearing GitLab TODOs, my primary focus is on my [personal GitLab issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston) and [priorities](https://gitlab.com/kencjohnston/README/-/blob/master/Priorities.md).
+* I review my personal issue board on a weekly basis while setting my priorities for the week.
+* I use personally scoped (KCJ:: ) labels to track my personal status on those issues that are assigned to me.
+* I have a [shortcut](https://gitlab.com/gitlab-com/Product/issues/new?nav_source=navbar) in my bookmark bar for creating a gitlab-com/product issue and use it to capture tasks for myself.  
+* Because I believe in the power of repetition, I tend to create [regular process issue templates](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates) to help me stick with that reptition. When doing so, I almost always create a "Retro Thread" for each instance of the issue so I invite continous improvement to any process.
+
+#### Slack
 * I'm an avid leaver of slack channels. I do this to reduce the noise that can come with Slack. I'm only members of channels that I want to be notified of ANY new content. If I'm not in a channel don't hestitate to invite me, and don't be offended when I leave after responding. If you are interested - here's how I've configued my Slack Settings to further avoid noise.
     * I only show "Unreads Only"
     * I sort via "Priority"
@@ -73,14 +82,14 @@ If we are working together, or even if we aren't, here are some things it might 
     * I use "Just display names"
     * I do NOT require a "Prompt to confirm" when everything is read
 * I consider Slack to be asynchronous. If there is a timeline for a request you might have please specificy it. For example - "Hey, can you review the Kickoff list prior to the kickoff meeting tomorrow?"
-* I'm a big believer in inbox zero and I process my email, slack and GitLab TODO inbox to zero multiple times a day to keep my focus on my [personal GitLab issue board](https://gitlab.com/groups/gitlab-com/-/boards/1353560?assignee_username=kencjohnston) and [priorities](https://gitlab.com/kencjohnston/README/-/blob/master/Priorities.md).
+
+#### ToDoist
 * I use ToDoist for short-term tasks and reminders that aren't appropriate for GitLab issues.
-* I strive to strike a balance in [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) between bias for action and providing space for review and contribution. That can sometimes result in ignorance or annoyance resulting in low effectiveness. Please don't hesitate to call me out if I'm over or under communicating.
-* My dog [Petri](https://about.gitlab.com/company/team-pets/#87-petri) shows up frequently in Zoom calls. She's big, and can startle the un-initiated. Sometimes I'll leave my camera's view to let her outside. 
 
 ### Teams I Support
 I [support the Product Management team](https://about.gitlab.com/company/team/org-chart/) responsible for the Ops Section stages at GitLab. 
 * I strive to provide [Situational Leadership](https://en.wikipedia.org/wiki/Situational_leadership_theory). As we work together I might ask you for your level of excitement and comfortability on a task. I do that to ascertain what type of leadership I should provide. Feel free to jump straight in and say - "Kenny I need telling/selling/participating/delegating support here."
+* I strive to strike a balance in [multi-modal communication](https://about.gitlab.com/handbook/communication/#multimodal-communication) between bias for action and providing space for review and contribution. That can sometimes result in ignorance or annoyance resulting in low effectiveness. Please don't hesitate to call me out if I'm over or under communicating.
 * One easy way to keep me abreast of your priorities is to send a note in the #product Slack channel once a week and @ mention me. 
 * Follow the [GitLab handbook when communicating time-off](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off). No other notification or approval is required. It's my job as your manager to ensure you have adequate coverage while you take much needed (and deserved) breaks. Please create [Coverage Issues](https://about.gitlab.com/handbook/product/product-manager-role/#taking-time-off) for me to ensure you take a break without worrying about a mountain of catchup work.
 * I follow GitLab's [Skip Level](https://about.gitlab.com/handbook/leadership/skip-levels/) 1:1 methodology within my org. During these times I will go out of my way to check in on team member well-being in an effort to help all the team members I support practice strong [rest ethic](https://about.gitlab.com/company/culture/all-remote/mental-health/#your-rest-ethic-is-as-important-as-your-work-ethic).
