@@ -30,7 +30,7 @@ These designations are added to the previous week's priority list when adding th
 ## 2022-05-23
 Shorter week with F&F on Friday.
 1. [SFUE Announcement Changes](https://gitlab.com/gitlab-com/packaging-and-pricing/pricing-handbook/-/issues/428)
-1. Provide output format and request for [FY24 Usage Goals from Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/4195)
+1. Y - Provide output format and request for [FY24 Usage Goals from Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/4195)
 1. Finalize [April Cost Data review](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/78)
 1. [Ops Section Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/4230)
 1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4178)
