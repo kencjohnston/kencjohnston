@@ -27,15 +27,24 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
-## 2022-05-23
-Shorter week with F&F on Friday.
-1. Y - [SFUE Announcement Changes](https://gitlab.com/gitlab-com/packaging-and-pricing/pricing-handbook/-/issues/428)
-1. Y - Provide output format and request for [FY24 Usage Goals from Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/4195)
-1. Finalize [April Cost Data review](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/78)
+## 2022-05-30
+Short week with Memorial Day Monday.
 1. [Ops Section Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/4230)
 1. [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4178)
+1. [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4200)
 1. Make progress on SFUE [attribution next steps](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/77) and [setting conversion goals](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
 1. [Forced Prioritization and Eng Allocation Followup](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+1. [Analytics Section Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+
+## 2022-05-23
+Shorter week with F&F on Friday, I ended up getting sick and missing three days.
+1. Y - [SFUE Announcement Changes](https://gitlab.com/gitlab-com/packaging-and-pricing/pricing-handbook/-/issues/428)
+1. Y - Provide output format and request for [FY24 Usage Goals from Ops Section PMs](https://gitlab.com/gitlab-com/Product/-/issues/4195)
+1. N- Finalize [April Cost Data review](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/78)
+1. N - [Ops Section Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/4230)
+1. N - [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4178)
+1. N - Make progress on SFUE [attribution next steps](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/77) and [setting conversion goals](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
+1. N - [Forced Prioritization and Eng Allocation Followup](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 
 ## 2022-05-16
 I'm in Valencia for KubeCon and traveling all day Friday.
