@@ -1,5 +1,5 @@
 # :wave: Hi! :rainbow:
-My name is Kenny Johnston and I'm the Senior Director of Product, Ops at GitLab. Here are some of my quick links.
+My name is Kenny Johnston and I'm the Senior Director of Product, Ops & Analytics at GitLab. Here are some of my quick links.
 * [LinkedIn](https://www.linkedin.com/in/kencjohnston/)
 * [Twitter](https://twitter.com/kencjohnston)
 * [GitLab](https://gitlab.com/kencjohnston)
