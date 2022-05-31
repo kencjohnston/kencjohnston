@@ -29,7 +29,7 @@ These designations are added to the previous week's priority list when adding th
 
 ## 2022-05-30
 Short week with Memorial Day Monday.
-1. [Ops Section Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/4230)
+1. Y - [Ops Section Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/4230)
 1. Y - [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4178)
 1. [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4200)
 1. Make progress on SFUE [attribution next steps](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/77) and [setting conversion goals](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
