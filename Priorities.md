@@ -34,7 +34,7 @@ Short week with Memorial Day Monday.
 1. Y - [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4200)
 1. Make progress on SFUE [attribution next steps](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/77) and [setting conversion goals](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
 1. [Forced Prioritization and Eng Allocation Followup](https://gitlab.com/gitlab-com/Product/-/issues/4005)
-1. [Read Through Product Intelligence Context](https://gitlab.com/gitlab-org/product-intelligence/-/issues/581)
+1. Y - [Read Through Product Intelligence Context](https://gitlab.com/gitlab-org/product-intelligence/-/issues/581)
 1. Y - [Analytics Section Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 
 ## 2022-05-23
