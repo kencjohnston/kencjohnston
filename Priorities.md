@@ -31,11 +31,11 @@ These designations are added to the previous week's priority list when adding th
 Short week with Memorial Day Monday.
 1. Y - [Ops Section Direction Update](https://gitlab.com/gitlab-com/Product/-/issues/4230)
 1. Y - [Ops Section Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4178)
-1. [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4200)
+1. Y - [Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4200)
 1. Make progress on SFUE [attribution next steps](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/77) and [setting conversion goals](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/71)
 1. [Forced Prioritization and Eng Allocation Followup](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 1. [Read Through Product Intelligence Context](https://gitlab.com/gitlab-org/product-intelligence/-/issues/581)
-1. [Analytics Section Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. Y - [Analytics Section Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 
 ## 2022-05-23
 Shorter week with F&F on Friday, I ended up getting sick and missing three days.
