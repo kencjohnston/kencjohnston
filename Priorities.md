@@ -28,11 +28,11 @@ These designations are added to the previous week's priority list when adding th
 * **W** - Waiting for next steps
 
 ## 2022-06-06
-1. [Adjust Rollout Plan for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/82)
-1. Analyst Briefings for 15
-1. Product Leadership Offsite Monday and Tuesday
-1. PlatformCon on Thursday and Friday
-1. [Analytics Section Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. Y - [Adjust Rollout Plan for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/82)
+1. Y - Analyst Briefings for 15
+1. Y - Product Leadership Offsite Monday and Tuesday
+1. N - PlatformCon on Thursday and Friday
+1. Y - [Analytics Section Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
 
 ## 2022-05-30
 Short week with Memorial Day Monday.
