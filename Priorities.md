@@ -27,6 +27,11 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-06-13
+1. [Adjust and E-Group Review for SFUE Rollout Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/82)
+1. E-Group Offsite
+1. [Analytics Section Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+
 ## 2022-06-06
 1. Y - [Adjust Rollout Plan for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/82)
 1. Y - Analyst Briefings for 15
