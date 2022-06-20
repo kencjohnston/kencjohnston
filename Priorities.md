@@ -27,6 +27,15 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-06-20
+Short week with Juneteeth observed on Monday and F&F on Friday.
+1. Team CDFs
+1. Y - [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/4291)
+1. [SFUE Hanbook updates with new plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/85)
+1. [Ops Section PI Review Prep](https://gitlab.com/gitlab-com/Product/-/issues/4345)
+1. [Update Analytics Section Direciton with preferred use cases](https://gitlab.com/gitlab-com/Product/-/issues/4396)
+1. Proposal for [Ops Section QBRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
+
 ## 2022-06-13
 1. Y - [Adjust and E-Group Review for SFUE Rollout Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/82)
 1. Y - E-Group Offsite
