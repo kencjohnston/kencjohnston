@@ -28,10 +28,10 @@ These designations are added to the previous week's priority list when adding th
 * **W** - Waiting for next steps
 
 ## 2022-06-27
-1. [Present and Followup from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4345)
+1. Y - [Present and Followup from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4345)
 1. [Finalize Ops Section FY24 Goals](https://gitlab.com/gitlab-com/Product/-/issues/4195)
 1. [Monthly Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4320)
-1. [Assist in Ian's Ramp Up on SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/86)
+1. Y - [Assist in Ian's Ramp Up on SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/86)
 1. Y - [Kickoff Creation of Revenue Model for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/88#references)
 1. [Update Analytics Section Direciton with preferred use cases](https://gitlab.com/gitlab-com/Product/-/issues/4396)
 1. Proposal for [Ops Section QBRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
