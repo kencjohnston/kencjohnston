@@ -27,14 +27,24 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-06-27
+1. [Present and Followup from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4345)
+1. [Finalize Ops Section FY24 Goals](https://gitlab.com/gitlab-com/Product/-/issues/4195)
+1. [Monthly Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4320)
+1. [Assist in Ian's Ramp Up on SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/86)
+1. [Kickoff Creation of Revenue Model for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/88#references)
+1. [Update Analytics Section Direciton with preferred use cases](https://gitlab.com/gitlab-com/Product/-/issues/4396)
+1. Proposal for [Ops Section QBRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
+1. Finalize [Forced Prioritization Update](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+
 ## 2022-06-20
 Short week with Juneteeth observed on Monday and F&F on Friday.
 1. Y - Team CDFs
 1. Y - [Kickoff Prep](https://gitlab.com/gitlab-com/Product/-/issues/4291)
 1. W - [SFUE Hanbook updates with new plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/85)
-1. [Ops Section PI Review Prep](https://gitlab.com/gitlab-com/Product/-/issues/4345)
-1. [Update Analytics Section Direciton with preferred use cases](https://gitlab.com/gitlab-com/Product/-/issues/4396)
-1. Proposal for [Ops Section QBRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
+1. Y - [Ops Section PI Review Prep](https://gitlab.com/gitlab-com/Product/-/issues/4345)
+1. N - [Update Analytics Section Direciton with preferred use cases](https://gitlab.com/gitlab-com/Product/-/issues/4396)
+1. N - Proposal for [Ops Section QBRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
 
 ## 2022-06-13
 1. Y - [Adjust and E-Group Review for SFUE Rollout Plan](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/82)
