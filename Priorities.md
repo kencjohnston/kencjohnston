@@ -34,7 +34,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Assist in Ian's Ramp Up on SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/86)
 1. Y - [Kickoff Creation of Revenue Model for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/88#references)
 1. [Update Analytics Section Direciton with preferred use cases](https://gitlab.com/gitlab-com/Product/-/issues/4396)
-1. Proposal for [Ops Section QBRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
+1. Y - Proposal for [Ops Section QGRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
 1. Finalize [Forced Prioritization Update](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 
 ## 2022-06-20
