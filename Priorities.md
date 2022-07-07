@@ -27,6 +27,15 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-07-05
+Short week with US Fourth of July Holidays
+1. [Make Progress on Combined Revenue and Cost Model for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/88)
+1. [Continue Outreach to top User Limit Namespaces](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/83)
+1. Coordinate SFUE Roll Out Plan prep ahead of comms launch
+1. [Investigate Dips in Ops Section Contribution to SpO](https://gitlab.com/gitlab-com/Product/-/issues/4447)
+1. [Ops Section June Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/4403)
+1. [Finalize Proposal for Ops Section QGRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
+
 ## 2022-06-27
 1. Y - [Present and Followup from Ops Section PI Review](https://gitlab.com/gitlab-com/Product/-/issues/4345)
 1. Y - [Finalize Ops Section FY24 Goals](https://gitlab.com/gitlab-com/Product/-/issues/4195)
@@ -35,7 +44,7 @@ These designations are added to the previous week's priority list when adding th
 1. Y - [Kickoff Creation of Revenue Model for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/88#references)
 1. Y - [Update Analytics Section Direciton with preferred use cases](https://gitlab.com/gitlab-com/Product/-/issues/4396)
 1. Y - Proposal for [Ops Section QGRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
-1. Finalize [Forced Prioritization Update](https://gitlab.com/gitlab-com/Product/-/issues/4005)
+1. N - Finalize [Forced Prioritization Update](https://gitlab.com/gitlab-com/Product/-/issues/4005)
 
 ## 2022-06-20
 Short week with Juneteeth observed on Monday and F&F on Friday.
