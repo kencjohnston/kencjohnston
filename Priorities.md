@@ -33,7 +33,7 @@ Short week with US Fourth of July Holidays
 1. Y - [Continue Outreach to top User Limit Namespaces](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/83)
 1. Y - Coordinate SFUE Roll Out Plan prep ahead of comms launch
 1. [Investigate Dips in Ops Section Contribution to SpO](https://gitlab.com/gitlab-com/Product/-/issues/4447)
-1. [Ops Section June Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/4403)
+1. N - [Ops Section June Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/4403)
 1. [Finalize Proposal for Ops Section QGRs](https://gitlab.com/gitlab-com/Product/-/issues/4240)
 
 ## 2022-06-27
