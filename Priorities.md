@@ -27,6 +27,9 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-07-13
+Short week, missed priorities setting until end of week.
+
 ## 2022-07-05
 Short week with US Fourth of July Holidays
 1. N - [Make Progress on Combined Revenue and Cost Model for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/88)
