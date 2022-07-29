@@ -33,7 +33,7 @@ Full week.
 1. Y - [Analytics next steps](https://gitlab.com/gitlab-com/Product/-/issues/3785) with [Sam Kerr](https://gitlab.com/gitlab-com/Product/-/issues/4524)
 1. Y - [Ensure we are properly allocating our scaling investments](https://gitlab.com/gitlab-com/Product/-/issues/4522)
 1. Y - [Draft product principles for `components`](https://gitlab.com/gitlab-com/Product/-/issues/4549)
-1. [Perform Ops Monthly Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4479)
+1. Y - [Perform Ops Monthly Investment Case Review](https://gitlab.com/gitlab-com/Product/-/issues/4479)
 1. [Finalize Combined Revenue and Cost Model for SFUE](https://gitlab.com/gitlab-com-top-initiatives/free-saas-user-efficiency/free-saas/-/issues/88)
 
 ## 2022-07-13
