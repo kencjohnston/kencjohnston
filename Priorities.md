@@ -27,6 +27,15 @@ These designations are added to the previous week's priority list when adding th
 * **N** - Not completed
 * **W** - Waiting for next steps
 
+## 2022-08-01
+New Quarter!
+1. Hiring!
+1. [Analytics Next Steps](https://gitlab.com/gitlab-com/Product/-/issues/3785)
+1. [Create a SSOT for Stage Field Syncs](https://gitlab.com/gitlab-com/Product/-/issues/4606)
+1. Close out discussion on [allocating scaling investments](https://gitlab.com/gitlab-com/Product/-/issues/4522#note_1042207284) in PLT
+1. Summarize [Ops Direction Updates](https://gitlab.com/gitlab-com/Product/-/issues/4537)
+1. [Start of Quarter Opportunity Review Summary](https://gitlab.com/gitlab-com/Product/-/issues/4623)
+
 ## 2022-07-25
 Full week.
 1. Y - Prepare, present and followup from [Ops Section PI review](https://gitlab.com/gitlab-com/Product/-/issues/4505)
