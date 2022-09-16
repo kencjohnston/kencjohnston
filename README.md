@@ -113,7 +113,7 @@ In order to get a better sense of our personal and professional ups and downs - 
 * [Myers-Briggs](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) - [INFP](https://www.16personalities.com/infp-personality) - Borderline between I&E, strong N, border between T&F, extreme P
 
 ### Adaptable
-I never shy from feedback, constructive criticism or suggested improvements. It happens so rarely in the corporate world, I will ALWAYS thank you for it. Please consider this document in that context. I'm accepting [issue submissions](https://github.com/kencjohnston/kencjohnston/issues) and [pull request]([https://github.com/kencjohnston/kencjohnston/](https://github.com/kencjohnston/kencjohnston/edit/master/README.md)).
+I never shy from feedback, constructive criticism or suggested improvements. It happens so rarely in the corporate world, I will ALWAYS thank you for it. Please consider this document in that context. I'm accepting [issue submissions](https://github.com/kencjohnston/kencjohnston/issues) and [pull request](https://github.com/kencjohnston/kencjohnston/edit/master/README.md).
 
 You can also provide me direct (anonymous) feedback by filling out my [ongoing feedback form](https://forms.gle/uQgn9acSgFesBKWe7). 
 
