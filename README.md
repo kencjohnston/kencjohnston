@@ -1,4 +1,4 @@
-# :wave: Hi! :rainbow:
+# :wave: Hi! :rainbow: 🌻
 My name is Kenny Johnston and I'm the VP of Product at Instabug. Here are some of my quick links.
 * [LinkedIn](https://www.linkedin.com/in/kencjohnston/)
 * [Twitter](https://twitter.com/kencjohnston)
